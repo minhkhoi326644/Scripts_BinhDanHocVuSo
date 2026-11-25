@@ -355,6 +355,53 @@
     * ☑ `Rà soát và ghi công (attribute) đầy đủ cho các tác phẩm yêu cầu.`
 30. **Nền tảng Python tạo nội dung tương tác/tự động hóa:** -> `Vì chúng cung cấp tư duy logic để xây dựng các chức năng phức tạp, xử lý dữ liệu, và tạo ra các kịch bản tự động hóa linh hoạt, vượt ra ngoài khả năng của các công cụ có sẵn.`
 
+---
+
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 3 (ĐỀ BỔ SUNG / ĐỀ 2 - 30 CÂU):
+1. **Đặc điểm nội dung lỗi thời/không còn phù hợp:** -> `Chứa thông tin sai lệch, không còn giá trị hoặc mâu thuẫn với thông điệp hiện tại.`
+2. **"Đặt nền móng vững chắc" trong phân tích mục tiêu và đối tượng:** -> `Nó quyết định sự vững chãi và định hướng cho toàn bộ "ngôi nhà" nội dung được xây lên sau này.`
+3. **Phát triển hệ thống gợi ý nội dung (Python):** -> `Cấu trúc dữ liệu như danh sách, từ điển, và các giải thuật liên quan đến gợi ý (ví dụ: lọc cộng tác, phân tích yếu tố)`
+4. **Hiểu rõ vấn đề đối tượng đang gặp phải giúp ích gì nhất:** -> `Giúp tạo ra nội dung có giá trị, giải quyết được đúng nhu cầu của họ.`
+5. **Khác biệt cơ bản giữa "bản quyền" (copyright) và "nhãn hiệu" (trademark):** -> `Bản quyền bảo vệ các tác phẩm sáng tạo (văn học, nghệ thuật), trong khi nhãn hiệu bảo vệ các yếu tố nhận diện thương hiệu (logo, tên gọi).`
+6. **"Lựa chọn công nghệ phù hợp" đòi hỏi tư duy gì:** -> `Tư duy linh hoạt, biết đánh giá ưu nhược điểm của từng công nghệ và chọn giải pháp tối ưu dựa trên mục tiêu, định dạng nội dung và nguồn lực.`
+7. **Tái sử dụng các buổi webinar cũ thành nội dung ngắn:** -> `Nhóm các webinar theo chủ đề, xem xét thời lượng và đánh giá độ cập nhật của thông tin trong từng video.`
+8. **Mục tiêu hỗ trợ khách hàng cho phần mềm kế toán (Chọn 3 mục):**
+   * ☑ `Tính chính xác và chi tiết.`
+   * ☑ `Có hình ảnh/video minh họa từng bước rõ ràng.`
+   * ☑ `Dễ dàng tìm kiếm và truy cập.`
+9. **Creative Commons kèm biểu tượng "NC":** -> `Bạn không được phép sử dụng tác phẩm cho mục đích thương mại (Non-Commercial).`
+10. **Báo cáo nghiên cứu PowerPoint thành nội dung MXH:** -> `Infographic và chuỗi bài đăng Carousel.`
+11. **Dùng bài hát nổi tiếng làm video thuyết trình (Chọn 3 mục):**
+    * ☑ `Video có thể bị hệ thống Content ID tự động tắt tiếng hoặc chặn.`
+    * ☑ `Doanh thu quảng cáo sẽ được chuyển cho chủ sở hữu bản quyền.`
+    * ☑ `Kênh của bạn ấy có thể nhận một cảnh cáo vi phạm bản quyền.`
+12. **Ngôn ngữ lập trình Python là loại ngôn ngữ nào:** -> `Ngôn ngữ thông dịch.`
+13. **Yếu tố thuộc về "Nhân khẩu học" (Demographics):** -> `Tuổi tác`
+14. **Lợi ích rà soát và đánh giá nội dung đã có (Chọn cả 4 mục):**
+    * ☑ `Tiết kiệm nguồn lực.`
+    * ☑ `Tăng hiệu quả.`
+    * ☑ `Đảm bảo chất lượng và tính nhất quán.`
+    * ☑ `Mở rộng phạm vi tiếp cận.`
+15. **Hiệu ứng động nhỏ trên trang web cá nhân:** -> `JavaScript`
+16. **Đánh giá mức độ công sức cần bỏ ra để chỉnh sửa:** -> `Để đưa ra quyết định có nên đầu tư thời gian và chi phí vào việc chỉnh sửa hay nên tạo một nội dung mới hiệu quả hơn.`
+17. **Persona mỹ phẩm tuổi teen, Thói quen số cần ưu tiên:** -> `Các KOLs/Influencers về làm đẹp mà đối tượng hay theo dõi.`
+18. **Xác định mục tiêu giúp đo lường hiệu quả chính xác:** -> `Vì khi có mục tiêu, chúng ta sẽ biết cần theo dõi chỉ số nào (KPIs) để đánh giá.`
+19. **Mục tiêu nội dung và Chân dung người dùng:** -> `Chúng có mối quan hệ tương hỗ: mục tiêu giúp định hình nội dung và persona giúp tùy chỉnh nội dung đó cho phù hợp.`
+20. **Yếu tố quyết định ngôn ngữ công nghệ:** -> `Định dạng nội dung.`
+21. **Biểu tượng © là viết tắt của:** -> `Copyright`
+22. **Khi công sức chỉnh sửa nội dung cũ quá lớn:** -> `Bắt đầu lại từ đầu hoặc tìm một nội dung thay thế khác.`
+23. **Đặc điểm Python cho người mới bắt đầu (Chọn 3 mục):**
+    * ☑ `Cú pháp đơn giản và dễ đọc.`
+    * ☑ `Có một cộng đồng lớn và nhiều tài liệu học tập.`
+    * ☑ `Hỗ trợ đa nền tảng (Windows, macOS, Linux).`
+24. **Đánh giá đối tượng mục tiêu có trùng khớp đối tượng mới:** -> `Vì một nội dung hấp dẫn đối tượng A có thể không phù hợp hoặc không thu hút đối tượng B, dẫn đến lãng phí công sức.`
+25. **Lời bào chữa "Tôi không biết nội dung đó có bản quyền":** -> `Tất cả các đáp án đưa ra đều đúng.`
+26. **Trình tạo báo cáo tự động Python:** -> `Áp dụng các kiến thức về đọc/ghi file, xử lý chuỗi và có thể là thư viện biểu đồ trong Python để tự động hóa việc tạo báo cáo dựa trên mẫu có sẵn.`
+27. **Thu thập nội dung số liên quan:** -> `Tất cả các đáp án trên.`
+28. **Yếu tố thuộc về "Tâm lý học" (Psychographics):** -> `Mong muốn và các vấn đề đang gặp phải`
+29. **Sử dụng phông chữ (font) tải miễn phí:** -> `Giấy phép sử dụng của phông chữ đó có cho phép dùng cho mục đích thương mại hay không.`
+30. **Hành động tạo ra "tác phẩm phái sinh":** -> `Dịch một cuốn tiểu thuyết từ tiếng Anh sang tiếng Việt.`
+
 
 ---
 
