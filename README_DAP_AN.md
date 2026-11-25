@@ -1142,6 +1142,38 @@
 29. **Để bảo vệ dữ liệu không bị sửa, bạn nên:** -> `Thiết lập quyền chỉnh sửa trên Sheets`
 30. **Khi đề xuất quy trình mới, bạn nên:** -> `Chuẩn bị kế hoạch thử nghiệm và lấy phản hồi`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 5 - ĐỀ 5 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Nếu gặp tài liệu học không rõ nguồn, bạn nên:** -> `Kiểm tra độ tin cậy của tác giả và nguồn`
+2. **Để lọc dữ liệu nhanh, bạn nên:** -> `Sử dụng Filter`
+3. **Cải tiến quy trình là:** -> `Tăng hiệu quả công việc bằng thay đổi hợp lý`
+4. **Để kiểm tra chi tiêu theo tháng, bạn nên:** -> `Dùng Filter theo ngày`
+5. **Khi chọn tài liệu, bạn nên:** -> `Đánh giá độ tin cậy trước khi dùng`
+6. **Để cập nhật tự động bảng tính mỗi lần mở file, bạn cần:** -> `Dùng macro`
+7. **Khi phát hiện phần mềm nghi ngờ lây nhiễm virus, bạn nên:** -> `Quét bằng phần mềm diệt virus cập nhật`
+8. **Thái độ học tập phù hợp khi công nghệ mới ra đời:** -> `Chủ động tiếp cận, thử nghiệm và học hỏi`
+9. **Một lý do quan trọng để cải tiến quy trình là:** -> `Tăng hiệu quả và chất lượng công việc`
+10. **Một cách học sâu công nghệ mới là:** -> `Kết hợp thực hành trên công cụ`
+11. **Khi phát hiện lỗi hệ thống do phần cứng, bạn nên kiểm tra bước đầu tiên là:** -> `Kiểm tra cáp và kết nối phần cứng`
+12. **Khoá học chính thức từ các nhà cung cấp công nghệ có đặc điểm gì:** -> `Chứng nhận từ chính nhà phát triển`
+13. **Để nhập danh sách chọn, bạn dùng:** -> `Data Validation (Drop down list)`
+14. **Để tính trung bình, bạn dùng hàm:** -> `AVERAGE`
+15. **Để mở rộng quy trình số hoá thành công, bạn cần:** -> `Đào tạo nhân sự sử dụng thành thạo công cụ số`
+16. **Khi thấy lỗi “blue screen”, bạn nên:** -> `Ghi lại mã lỗi để tra cứu nguyên nhân`
+17. **Data Validation giúp:** -> `Kiểm soát dữ liệu nhập vào ô`
+18. **Thông báo “Out of memory” thường do:** -> `Thiếu bộ nhớ RAM hoặc file tạm quá đầy`
+19. **Khi thấy đồng nghiệp gặp lỗi lặp lại, bạn nên:** -> `Chia sẻ kinh nghiệm và cách khắc phục`
+20. **Lỗi phần mềm nào sau đây thuộc loại lỗi logic:** -> `Hàm tính toán cho kết quả sai`
+21. **Dấu hiệu nào cho thấy ứng dụng có thể bị lỗi hiệu năng:** -> `Thời gian phản hồi lâu bất thường`
+22. **Hàm IF giúp:** -> `Trả về giá trị theo điều kiện`
+23. **Thái độ tốt khi cải tiến quy trình là:** -> `Chủ động đề xuất và cải tiến`
+24. **Khi phát hiện lỗi nghiêm trọng trong hệ thống, thái độ đúng là:** -> `Báo cáo và phối hợp xử lý cùng nhóm kỹ thuật`
+25. **Một cách để duy trì kiến thức công nghệ là:** -> `Thường xuyên cập nhật, tham gia cộng đồng chuyên môn`
+26. **Khi cần tài liệu học nâng cao, nên:** -> `Tìm khoá học hoặc tài liệu chính thức từ hãng phát triển`
+27. **Để làm nổi bật giá trị lớn hơn 1000:** -> `Dùng Conditional Formatting`
+28. **Khi đồng nghiệp chưa quen công cụ mới, bạn nên:** -> `Hỗ trợ và chia sẻ kinh nghiệm`
+29. **Nếu mạng Wi-Fi có tín hiệu tốt nhưng không vào được Internet, bạn cần:** -> `Kiểm tra đèn tín hiệu modem/router`
+30. **Tìm bài viết học AI mới nhất nên chọn từ nguồn nào:** -> `Trang các tạp chí chuyên ngành, trường ĐH`
+
 
 
 ---

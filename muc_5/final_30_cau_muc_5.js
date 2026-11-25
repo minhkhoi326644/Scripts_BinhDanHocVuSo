@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 5 (UNIVERSAL - CẢ 4 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 5 (UNIVERSAL - CẢ 5 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2, Đề 3 & Đề 4 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3, Đề 4 & Đề 5 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 5 (UNIVERSAL - 4 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 5 (UNIVERSAL - 5 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị tất cả các câu hỏi và các nút
     if (window.$) {
@@ -100,7 +100,17 @@
         "Tìm nhiều nguồn để tự khắc phục",
         "AVERAGE",
         "Kết hợp tài liệu chính thức + video + thực hành",
-        "Dễ cập nhật, tra cứu và tổng hợp"
+        "Dễ cập nhật, tra cứu và tổng hợp",
+
+        // --- CÁC CÂU ĐỀ 5 (BỔ SUNG MỚI) ---
+        "Tăng hiệu quả công việc bằng thay đổi hợp lý",
+        "Đánh giá độ tin cậy trước khi dùng",
+        "Dùng macro",
+        "Chủ động tiếp cận, thử nghiệm và học hỏi",
+        "Tăng hiệu quả và chất lượng công việc",
+        "Chủ động đề xuất và cải tiến",
+        "Dùng Conditional Formatting",
+        "Trang các tạp chí chuyên ngành, trường ĐH"
     ];
 
     let selectedCount = 0;
