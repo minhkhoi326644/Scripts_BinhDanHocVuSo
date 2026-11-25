@@ -330,6 +330,39 @@
 29. **Khi thấy một thông tin có dấu hiệu sai lệch:** -> `Kiểm tra lại nguồn tin và báo cáo nếu cần`
 30. **Khi nhận được một tin nhắn đe dọa trên mạng:** -> `Báo cáo tin nhắn với nhà cung cấp dịch vụ`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 2 - ĐỀ 4 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Vì sao cần bảo vệ thông tin cá nhân khi hoạt động trực tuyến:** -> `Tất cả các đáp án trên`
+2. **“Trách nhiệm công dân” bao hàm điều gì:** -> `Tuân thủ pháp luật và đóng góp xã hội`
+3. **Công cụ phân tích hiệu quả chiến dịch truyền thông trực tuyến:** -> `Tất cả các phương án trên`
+4. **Khi tham gia thảo luận trực tuyến, bạn nên tránh điều gì:** -> `Sử dụng ngôn ngữ xúc phạm`
+5. **Bước đầu tiên trong quy trình kiểm chứng thông tin 5 bước:** -> `Đánh giá nguồn tin (tác giả là ai, nguồn tin là gì).`
+6. **Sự khác biệt cơ bản giữa mô hình truyền thông truyền thống và mới:** -> `Mô hình mới cho phép tương tác hai chiều mạnh mẽ, trong khi mô hình truyền thống chủ yếu là một chiều.`
+7. **Khi sử dụng công nghệ, nguyên tắc nào giúp bảo vệ thông tin cá nhân:** -> `Tất cả các phương án trên`
+8. **Đặc điểm nhóm trong giai đoạn "Norming":** -> `Giải quyết mâu thuẫn và thống nhất quy tắc`
+9. **Dấu chân số bị động được tạo ra khi nào:** -> `Khi dữ liệu của người dùng bị thu thập mà họ không hề hay biết.`
+10. **Chia sẻ quá nhiều thông tin cá nhân trên mạng có thể gây ra hậu quả gì:** -> `Tất cả các hậu quả trên`
+11. **Điều quan trọng nhất để khuyến khích sự tham gia trong diễn đàn trực tuyến:** -> `Tính tương tác`
+12. **Biểu hiện hành vi công dân số tích cực gồm:** -> `Góp ý chính sách có căn cứ`
+13. **Câu đúng nhất về vai trò công nghệ số trong hành vi công dân:** -> `Là môi trường hành động công dân mới`
+14. **Tiêu chí ưu tiên khi chọn công cụ hợp tác cho sinh viên:** -> `Chi phí thấp, dễ sử dụng`
+15. **Nếu đã lỡ đăng tải hoặc chia sẻ tin giả, hành động có trách nhiệm nhất:** -> `Gỡ bỏ thông tin, đăng bài đính chính và xin lỗi.`
+16. **Ví dụ nào sau đây là dấu chân số bị động:** -> `Địa chỉ IP`
+17. **Danh tính số là gì:** -> `Tập hợp các đặc điểm của một người trong không gian số`
+18. **Điều gì thúc đẩy bạn nâng cao kiến thức và kỹ năng về quản lý danh tính số:** -> `Ý thức về tầm quan trọng của việc bảo vệ bản thân và cộng đồng trên không gian mạng`
+19. **Nhược điểm chính của Zalo trong hợp tác nhóm:** -> `Thông tin dễ trôi, khó quản lý`
+20. **Rủi ro thuộc nhóm "Con người và Tương tác":** -> `Hiện tượng "ăn theo" và thiếu tin tưởng`
+21. **Yếu tố quan trọng nhất trong việc xây dựng một cộng đồng trực tuyến bền vững:** -> `Tất cả các yếu tố trên đều quan trọng`
+22. **Hành vi nào vi phạm Bộ quy tắc ứng xử trên không gian mạng:** -> `Đăng bài xúc phạm cá nhân`
+23. **Theo Luật An ninh mạng (2018), hành vi nào bị nghiêm cấm:** -> `Phát tán tin giả gây hoang mang`
+24. **Vai trò trưởng nhóm trong giai đoạn "Performing":** -> `Ủy quyền, giám sát, hỗ trợ cá nhân`
+25. **Để làm việc nhóm trên một tài liệu, chỉnh sửa theo thời gian thực:** -> `Google Drive hoặc Microsoft OneDrive.`
+26. **Khi đọc một tin tức và cảm thấy cực kỳ tức giận hoặc sợ hãi:** -> `Coi cảm xúc mạnh là một tín hiệu cảnh báo để kiểm tra thông tin kỹ lưỡng hơn.`
+27. **Biện pháp để xây dựng cộng đồng trực tuyến tích cực:** -> `Xây dựng nhóm tương trợ`
+28. **Loại kiến thức giúp tương tác hiệu quả nhất với người dùng internet:** -> `Nguyên tắc cộng đồng`
+29. **Cookie có thể giúp gì cho trải nghiệm mua sắm trực tuyến:** -> `Thu thập dữ liệu về người dùng để cung cấp các quảng cáo phù hợp`
+30. **Khi thấy một thông tin có dấu hiệu sai lệch, bạn nên làm gì:** -> `Kiểm tra lại nguồn tin và báo cáo nếu cần`
+
+
 ---
 
 ## 📌 MỤC 3: SÁNG TẠO NỘI DUNG SỐ

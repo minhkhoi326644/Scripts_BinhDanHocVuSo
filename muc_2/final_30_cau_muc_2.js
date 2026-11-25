@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 2 (UNIVERSAL - CẢ 3 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 2 (UNIVERSAL - CẢ 4 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2 & Đề 3 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3 & Đề 4 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 2 (UNIVERSAL)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 2 (UNIVERSAL - 4 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị các câu hỏi và nút Submit
     if (window.$) {
@@ -95,7 +95,19 @@
         "Cá nhân mỗi người",
         "Chia sẻ thông tin cá nhân của người khác khi chưa được phép",
         "Kiểm tra lại nguồn tin và báo cáo nếu cần",
-        "Báo cáo tin nhắn với nhà cung cấp dịch vụ"
+        "Báo cáo tin nhắn với nhà cung cấp dịch vụ",
+
+        // --- ĐỀ 4 (BỔ SUNG MỚI) ---
+        "Tất cả các đáp án trên",
+        "Sử dụng ngôn ngữ xúc phạm",
+        "Mô hình mới cho phép tương tác hai chiều mạnh mẽ, trong khi mô hình truyền thống chủ yếu là một chiều.",
+        "Địa chỉ IP",
+        "Tập hợp các đặc điểm của một người trong không gian số",
+        "Thông tin dễ trôi, khó quản lý",
+        "Hiện tượng \"ăn theo\" và thiếu tin tưởng",
+        "Đăng bài xúc phạm cá nhân",
+        "Phát tán tin giả gây hoang mang",
+        "Ủy quyền, giám sát, hỗ trợ cá nhân"
     ];
 
     let selectedCount = 0;
