@@ -512,6 +512,40 @@
 29. **Lý do không nên đăng thông tin kế hoạch du lịch lên mạng:** -> `Gây nguy cơ bị kẻ trộm nhắm đến`
 30. **Quy tắc 20-20-20 được đề xuất để làm gì:** -> `Bảo vệ mắt và chống mỏi mắt khi dùng màn hình.`
 
+---
+
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 4 (ĐỀ BỔ SUNG / ĐỀ 2 - 30 CÂU):
+1. **Hội chứng sợ bỏ lỡ (FOMO) đặc trưng bởi:** -> `Mong muốn được kết nối liên tục, thúc đẩy hành vi kiểm tra mạng xã hội một cách ám ảnh.`
+2. **Phương thức tấn công phổ biến vào hệ thống PoS:** -> `Gửi email giả dạng ứng viên xin việc với file Word chứa mã độc`
+3. **Lỗ hổng trong thiết bị mạng không dây gia đình gây nguy hiểm vì:** -> `Dịch vụ dễ bị tấn công không thể vô hiệu hóa và có thể bị khai thác từ Internet`
+4. **Công cụ tạo "đường hầm" mã hóa khi dùng Wi-Fi công cộng:** -> `Mạng riêng ảo (VPN).`
+5. **Trong hệ thống IAM, phương pháp xác thực bằng nhiều yếu tố:** -> `Xác thực đa yếu tố (MFA)`
+6. **Triết lý "Tối giản số" (Digital Minimalism) hướng đến:** -> `Đặt ra một ngưỡng rất cao cho các công cụ số được phép tồn tại trong cuộc sống, chỉ giữ lại những gì thực sự hỗ trợ các giá trị quan trọng.`
+7. **Học về thành phần và xu hướng công nghệ số:** -> `Rất cần thiết, để có thể hiểu bản chất công nghệ và đưa ra các quyết định sử dụng có trách nhiệm.`
+8. **Tại sao việc mã hóa dữ liệu khi truyền tải lại quan trọng:** -> `Ngăn chặn chặn bắt và nghe trộm dữ liệu`
+9. **Xu hướng máy móc học hỏi, suy luận như con người:** -> `Trí tuệ nhân tạo (AI).`
+10. **Hệ điều hành Windows hoặc Android là ví dụ của:** -> `Phần mềm.`
+11. **Dữ liệu cá nhân là gì:** -> `Mọi thông tin liên quan đến một cá nhân đã xác định hoặc có thể xác định`
+12. **Đặc điểm đúng với tội phạm mạng (cybercriminals):** -> `Tấn công với mục tiêu lợi ích tài chính`
+13. **Công nghệ tạo ra chuỗi cung ứng minh bạch:** -> `Chuỗi khối (Blockchain).`
+14. **Loại dữ liệu không phải là dữ liệu cá nhân:** -> `Dữ liệu về nhiệt độ không khí trung bình`
+15. **Hiện tượng "Nghịch lý Quyền riêng tư" (The Privacy Paradox):** -> `Người dùng bày tỏ sự lo ngại về quyền riêng tư nhưng hành động của họ lại không phản ánh điều đó.`
+16. **Hình thức phishing thường sử dụng cách nào:** -> `Gửi email giả mạo để lừa người dùng cung cấp thông tin cá nhân`
+17. **Rủi ro lớn khi sử dụng cùng một mật khẩu cho nhiều tài khoản:** -> `Nếu một tài khoản bị lộ, các tài khoản khác cũng bị đe dọa`
+18. **Biện pháp giúp bảo vệ dữ liệu cá nhân:** -> `Kích hoạt xác thực hai yếu tố cho tài khoản quan trọng`
+19. **Ứng dụng Grab hay Uber góp phần tích cực vào môi trường:** -> `Giảm số lượng xe cá nhân lưu thông, từ đó giảm ùn tắc và khí thải.`
+20. **Chứng kiến hành vi bắt nạt trực tuyến (Cyberbullying):** -> `Báo cáo (Report) nội dung vi phạm cho nền tảng và gửi tin nhắn riêng để hỗ trợ nạn nhân.`
+21. **Ba phương diện chính cấu thành "Sức khỏe số" theo WHO:** -> `Sức khỏe thể chất, Sức khỏe tâm lý và cảm xúc, và Sức khỏe xã hội.`
+22. **Thành phần quan trọng trong kế hoạch phục hồi sau thảm họa (DRP):** -> `Xác định RTO và RPO`
+23. **Dấu hiệu nhận biết hoạt động trộm cắp danh tính:** -> `Hóa đơn tài chính đến muộn hoặc sai sót bất thường`
+24. **Ứng dụng di động cho phép báo cáo vấn đề môi trường:** -> `Hứng thú và cảm thấy mình có thể đóng góp vào việc bảo vệ môi trường.`
+25. **Quy tắc vàng của "Netiquette" (Quy tắc ứng xử trên mạng):** -> `Ghi nhớ yếu tố con người (Remember the Human) đằng sau mỗi tài khoản.`
+26. **Loại dữ liệu cá nhân thường bị nhắm tới để bán trên chợ đen:** -> `Số thẻ thanh toán như thẻ tín dụng và thẻ quà tặng`
+27. **Hành vi viết in hoa toàn bộ một câu:** -> `Hành động la hét vào người khác.`
+28. **Phương pháp kiểm chứng thông tin SIFT gồm 4 bước:** -> `Dừng lại (Stop), Điều tra nguồn tin (Investigate the source), Tìm các nguồn tin khác (Find better coverage), và Truy tìm lại các trích dẫn (Trace claims).`
+29. **Hệ thống dễ bị tấn công khủng bố mạng nhất:** -> `Hệ thống kiểm soát công nghiệp trọng yếu kết nối Internet`
+30. **Hoax (tin giả) có thể gây hại bằng cách:** -> `Lừa người dùng xóa file hệ thống hoặc cấu hình bảo mật`
+
 
 ---
 
