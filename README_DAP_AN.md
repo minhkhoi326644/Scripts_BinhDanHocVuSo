@@ -445,7 +445,7 @@
      *(Không chọn: Tăng cường tốc độ Internet, Mua phần mềm diệt virus)*
 
 
-### 4.3.1 (Gồm 2 Sequence Tab)
+### 4.3.1 (Gồm các Sequence Tab)
 * **Tab 1:**
   1. **"Sức khỏe số" cấu thành từ những phương diện chính nào? (Chọn 3 đáp án đúng):**
      * ☑ `Sức khỏe thể chất`
@@ -457,6 +457,8 @@
 * **Tab 2:**
   1. **Hiện tượng tâm lý khi người dùng lo ngại về quyền riêng tư nhưng hành động lại không phản ánh điều đó:**
      * 👉 `Nghịch lý Quyền riêng tư (The Privacy Paradox).`
+  2. **Quy tắc vàng hành xử có văn hóa trên mạng (Netiquette):**
+     * 👉 `Ghi nhớ yếu tố con người: đằng sau mỗi tài khoản là một con người thật với những cảm xúc riêng.`
 
 
 ### 4.4.1 (Gồm 4 Sequence Tab)

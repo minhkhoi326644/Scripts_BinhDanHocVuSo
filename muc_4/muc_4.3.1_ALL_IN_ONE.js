@@ -1,89 +1,87 @@
 // ==============================================================================
-// 🌟 TOOL SIÊU CẤP: TỰ ĐỘNG CHẠY & NỘP CẢ 2 TAB MỤC 4.3.1 (1 CHẠM DUY NHẤT)
+// 🌟 TOOL AUTO ĐIỀN ĐÁP ÁN & NỘP BÀI - MỤC 4.3 (BẢO VỆ SỨC KHỎE VÀ AN SINH SỐ)
+// Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
 // ==============================================================================
 
-(async () => {
+(() => {
     console.clear();
-    console.log("%c🚀 BẮT ĐẦU TỰ ĐỘNG GIẢI VÀ NỘP BÀI MỤC 4.3.1...", "color: #38bdf8; font-weight: bold; font-size: 16px;");
+    console.log("%c🤖 ĐANG CHẠY TOOL AUTO MỤC 4.3...", "color: #22c55e; font-weight: bold; font-size: 15px;");
 
-    function getSequenceTabs() {
-        let tabs = Array.from(document.querySelectorAll('.sequence-nav button, .sequence-nav-button, #sequence-list button, nav.sequence-nav ol li button, ol#sequence-list li button'));
-        if (tabs.length === 0) {
-            const nav = document.querySelector('.sequence-nav, nav[aria-label="Unit Navigation"], #sequence-list');
-            if (nav) tabs = Array.from(nav.querySelectorAll('button, a'));
-        }
-        return tabs.filter(b => {
-            const t = (b.innerText || '').trim();
-            return !t.includes('Trang trước') && !t.includes('Trang sau');
+    // 1. Ép hiển thị các câu hỏi và dừng video
+    if (window.$) {
+        $('.video').trigger('pause');
+        $('.in-video-problem-wrapper, .problem, .vert, .xblock-student_view-problem').each(function() {
+            $(this).show().css({
+                'display': 'block !important',
+                'position': 'relative !important',
+                'visibility': 'visible !important',
+                'opacity': '1 !important'
+            });
         });
+        $('button.submit, input.submit, .check, .action button, .action input, .submit-btn').show();
     }
 
-    function solveCurrentTab(answers) {
-        if (window.$) {
-            try {
-                $('.video').trigger('pause');
-                $('.in-video-problem-wrapper, .problem, .vert').show().css({'display':'block!important','opacity':'1!important'});
-                $('button.submit, input.submit, .check, .action button').show();
-            } catch(e) {}
-        }
+    // 2. DANH SÁCH ĐÁP ÁN CHUẨN MỤC 4.3
+    const ANSWERS_4_3 = [
+        // Netiquette - Quy tắc vàng hành xử có văn hóa trên mạng
+        "Ghi nhớ yếu tố con người: đằng sau mỗi tài khoản là một con người thật với những cảm xúc riêng",
+        "Ghi nhớ yếu tố con người",
 
-        let count = 0;
-        document.querySelectorAll('label, .choicegroup_item, fieldset label, p').forEach(el => {
-            const text = el.innerText.trim();
-            for (let ans of answers) {
-                if (text.includes(ans)) {
-                    const input = el.querySelector('input') || document.getElementById(el.getAttribute('for')) || el.parentElement?.querySelector('input');
-                    if (input && !input.checked) {
-                        input.click();
-                        input.checked = true;
-                        input.dispatchEvent(new Event('change', { bubbles: true }));
-                        el.style.backgroundColor = '#dcfce7';
-                        el.style.border = '2px solid #22c55e';
-                        count++;
-                    }
-                }
-            }
-        });
+        // Nghịch lý quyền riêng tư
+        "Nghịch lý Quyền riêng tư (The Privacy Paradox)",
+        "Nghịch lý Quyền riêng tư",
 
-        // Bấm Submit / Gửi
-        document.querySelectorAll('button.submit, input.submit, .check, .action button').forEach(b => {
-            const txt = (b.innerText || b.value || '').toLowerCase();
-            if (txt.includes('gửi') || txt.includes('submit')) b.click();
-        });
+        // Tối giản số (Digital Minimalism)
+        "Đặt ra một ngưỡng rất cao cho các công cụ số được phép tồn tại trong cuộc sống, tạm thời gỡ bỏ ứng dụng không thiết yếu để tái khám phá hoạt động ngoại tuyến",
+        "Đặt ra một ngưỡng rất cao",
 
-        return count;
-    }
-
-    const TAB_ANSWERS = [
-        // TAB 1
-        [
-            "Sức khỏe thể chất",
-            "Sức khỏe tâm lý và cảm xúc",
-            "Sức khỏe xã hội",
-            "Đặt ra một ngưỡng rất cao cho các công cụ số được phép tồn tại trong cuộc sống, tạm thời gỡ bỏ ứng dụng không thiết yếu để tái khám phá hoạt động ngoại tuyến."
-        ],
-        // TAB 2
-        [
-            "Nghịch lý Quyền riêng tư (The Privacy Paradox)."
-        ]
+        // Phương diện sức khỏe số (Chọn 3 mục)
+        "Sức khỏe thể chất",
+        "Sức khỏe tâm lý và cảm xúc",
+        "Sức khỏe xã hội"
     ];
 
-    const tabs = getSequenceTabs();
-    if (tabs.length >= 2) {
-        for (let i = 0; i < tabs.length; i++) {
-            console.log(`👉 Đang chuyển tới Tab ${i + 1}...`);
-            tabs[i].click();
-            await new Promise(r => setTimeout(r, 1300));
-            if (TAB_ANSWERS[i]) {
-                const c = solveCurrentTab(TAB_ANSWERS[i]);
-                console.log(`✔ Tab ${i + 1}: Đã chọn & submit (${c} đáp án).`);
+    let selectedCount = 0;
+
+    // 3. Tự động tick chọn đáp án
+    const inputs = Array.from(document.querySelectorAll('input[type="radio"], input[type="checkbox"]'));
+    inputs.forEach(input => {
+        const id = input.id;
+        const label = document.querySelector(`label[for="${id}"]`) || input.closest('label') || input.parentElement;
+        const text = (label ? label.innerText : '').trim();
+
+        for (let ans of ANSWERS_4_3) {
+            if (text === ans || text.includes(ans)) {
+                if (!input.checked) {
+                    input.click();
+                    input.checked = true;
+                    input.dispatchEvent(new Event('change', { bubbles: true }));
+                    if (label) {
+                        label.style.backgroundColor = '#dcfce7';
+                        label.style.border = '2px solid #22c55e';
+                        label.style.borderRadius = '6px';
+                        label.style.padding = '4px 8px';
+                        label.style.fontWeight = 'bold';
+                    }
+                    selectedCount++;
+                }
+                break;
             }
-            await new Promise(r => setTimeout(r, 800));
         }
-        alert("🎉 ĐÃ TỰ ĐỘNG GIẢI VÀ NỘP XONG MỤC 4.3.1 THÀNH CÔNG 100%!");
-    } else {
-        const allAns = TAB_ANSWERS.flat();
-        const c = solveCurrentTab(allAns);
-        alert(`✔ Đã tick chọn & submit ${c} câu ở tab hiện tại!`);
-    }
+    });
+
+    console.log(`%c✔ Đã tick chọn ${selectedCount} đáp án đúng!`, "color: #38bdf8; font-weight: bold;");
+
+    // 4. Bấm Gửi nộp bài
+    setTimeout(() => {
+        let submitCount = 0;
+        document.querySelectorAll('button.submit, input.submit, .check, .action button, .action input, .submit-btn').forEach(btn => {
+            const txt = (btn.innerText || btn.value || '').trim().toLowerCase();
+            if (txt.includes('gửi') || txt.includes('submit')) {
+                btn.click();
+                submitCount++;
+            }
+        });
+        alert(`🎉 ĐÃ CHỌN ĐÁP ÁN ĐÚNG & NỘP BÀI!\n✔ Đã tick chọn: B. Ghi nhớ yếu tố con người...`);
+    }, 500);
 })();
