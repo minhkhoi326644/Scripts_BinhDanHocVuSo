@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 6 (UNIVERSAL - CẢ 4 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 6 (UNIVERSAL - CẢ 5 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2, Đề 3 & Đề 4 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3, Đề 4 & Đề 5 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 6 (UNIVERSAL - 4 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 6 (UNIVERSAL - 5 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị tất cả các câu hỏi và các nút
     if (window.$) {
@@ -186,7 +186,15 @@
         // 75. Mối quan tâm đạo đức lớn nhất khi dùng AI
         "Bảo vệ quyền riêng tư và sử dụng dữ liệu cá nhân",
         // 76. Công nghệ Deepfake
-        "Tạo video giả mạo có nội dung chân thực"
+        "Tạo video giả mạo có nội dung chân thực",
+
+        // --- CÁC CÂU BỔ SUNG ĐẶC TRƯNG ĐỀ 5 ---
+        "Google Translate",
+        "Lo ngại về bảo mật thông tin và dữ liệu nội bộ",
+        "Phân tích dữ liệu khách hàng và dự đoán xu hướng",
+        "Thay thế hoàn toàn con người trong mọi lĩnh vực",
+        "Tư vấn sản phẩm 24/7 qua trò chuyện",
+        "Hỗ trợ tự động hóa, tiết kiệm thời gian và nâng cao hiệu quả"
     ];
 
     let selectedCount = 0;

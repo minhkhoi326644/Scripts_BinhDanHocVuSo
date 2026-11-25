@@ -1360,5 +1360,37 @@
 29. **Một hệ thống AI an toàn nên được thiết kế như thế nào:** -> `Minh bạch, có khả năng giải thích và kiểm soát kết quả đầu ra`
 30. **GenAI là viết tắt của cụm từ nào:** -> `Generative Artificial Intelligence`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 6 - ĐỀ 5 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Một trong những thách thức lớn nhất khi sử dụng AI là gì:** -> `Nguy cơ vi phạm quyền riêng tư và đạo đức`
+2. **AI có thể giúp ích gì trong lĩnh vực giao thông:** -> `Điều tiết giao thông thông minh và dự đoán ùn tắc`
+3. **Khái niệm “AI hỗ trợ ra quyết định” nghĩa là gì:** -> `AI cung cấp phân tích, gợi ý để con người lựa chọn phương án cuối cùng`
+4. **Công cụ nào sau đây không thuộc nhóm AI tạo sinh:** -> `Excel`
+5. **AI thường cần yếu tố nào để hoạt động hiệu quả:** -> `Dữ liệu chất lượng và đủ lớn`
+6. **AI có thể hỗ trợ bác sĩ bằng cách nào:** -> `Phân tích hình ảnh y tế để hỗ trợ chẩn đoán`
+7. **Một lợi thế cạnh tranh của GenAI so với AI truyền thống là gì:** -> `Tự động sinh ra dữ liệu mới có giá trị sáng tạo`
+8. **Ứng dụng nào sau đây sử dụng AI:** -> `Google Translate`
+9. **DALL·E là công cụ của tổ chức nào:** -> `OpenAI`
+10. **ShakkerAI được xem là lựa chọn thay thế hoàn hảo cho nền tảng nào:** -> `Midjourney`
+11. **Vì sao AI không thể hoàn toàn thay thế con người trong các công việc sáng tạo:** -> `Vì AI thiếu cảm xúc, trực giác và khả năng suy nghĩ đạo đức`
+12. **Điều gì là cần thiết để AI phát triển bền vững và có đạo đức:** -> `Tuân thủ quy định pháp luật và bảo vệ quyền con người`
+13. **Một thách thức lớn khi triển khai ChatGPT trong tổ chức là gì:** -> `Lo ngại về bảo mật thông tin và dữ liệu nội bộ`
+14. **AI có thể hỗ trợ doanh nghiệp trong hoạt động nào:** -> `Phân tích dữ liệu khách hàng và dự đoán xu hướng`
+15. **AI có thể ảnh hưởng tiêu cực gì đến việc làm:** -> `Thay thế con người trong một số công việc`
+16. **Một điểm khác biệt giữa DALL·E và Midjourney là gì:** -> `DALL·E tích hợp với ChatGPT, Midjourney chỉ hoạt động qua Discord`
+17. **AI hoạt động tốt nhất trong môi trường nào sau đây:** -> `Có dữ liệu lớn, rõ ràng và được gán nhãn chính xác`
+18. **Một công cụ AI sẽ ít hữu ích nhất trong trường hợp nào sau đây:** -> `Ra quyết định tuyển dụng cuối cùng thay giám đốc`
+19. **Điều nào sau đây không phải là cơ hội mà AI mang lại:** -> `Thay thế hoàn toàn con người trong mọi lĩnh vực`
+20. **Vì sao cần kiểm tra đầu ra của GenAI trong các ứng dụng sáng tạo nội dung:** -> `Vì đôi khi nội dung bị đạo văn`
+21. **AI có thể gây ra rủi ro nào dưới đây nếu bị sử dụng sai cách:** -> `Tạo ra nội dung giả mạo hoặc sai lệch (deepfake)`
+22. **ChatGPT là ví dụ của ứng dụng AI thuộc lĩnh vực nào:** -> `Xử lý ngôn ngữ tự nhiên (NLP)`
+23. **Đâu là một sai lầm phổ biến khi triển khai AI trong doanh nghiệp:** -> `Không tích hợp dữ liệu đầu vào từ nhiều nguồn`
+24. **Trong chăm sóc khách hàng, ChatGPT có thể làm gì:** -> `Tư vấn sản phẩm 24/7 qua trò chuyện`
+25. **Để sử dụng GenAI hiệu quả, người dùng nên làm gì:** -> `Hiểu rõ mục đích sử dụng và kiểm soát đầu ra`
+26. **AI trong chăm sóc sức khỏe có thể giúp gì:** -> `Tư vấn sức khỏe ảo, phân tích dữ liệu y tế`
+27. **AI hỗ trợ con người như thế nào trong công việc:** -> `Hỗ trợ tự động hóa, tiết kiệm thời gian và nâng cao hiệu quả`
+28. **Deepfake là công nghệ AI nào sau đây:** -> `Tạo video giả mạo có nội dung chân thực`
+29. **Đâu là một ví dụ về rủi ro đạo đức tiềm ẩn của AI:** -> `Phân loại khách hàng dựa trên khu vực địa lý có thiên lệch`
+30. **Lĩnh vực nào dễ bị ảnh hưởng tiêu cực nếu sử dụng ChatGPT thiếu kiểm soát:** -> `Tư vấn pháp lý chuyên sâu`
+
 
 
