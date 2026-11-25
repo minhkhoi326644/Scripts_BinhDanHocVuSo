@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 6 (UNIVERSAL - CẢ 3 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 6 (UNIVERSAL - CẢ 4 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2 & Đề 3 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3 & Đề 4 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 6 (UNIVERSAL - 3 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 6 (UNIVERSAL - 4 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị tất cả các câu hỏi và các nút
     if (window.$) {
@@ -166,7 +166,27 @@
         // 66. AI hỗ trợ bác sĩ bằng cách nào
         "Phân tích hình ảnh y tế để hỗ trợ chẩn đoán",
         // 67. Trong thực hành, người học được khuyến khích làm gì với AI
-        "Sử dụng AI để hoàn thành công việc trong quy trình có sẵn"
+        "Sử dụng AI để hoàn thành công việc trong quy trình có sẵn",
+
+        // --- CÁC CÂU BỔ SUNG ĐẶC TRƯNG ĐỀ 4 ---
+        // 68. Sử dụng AI trong tuyển dụng thiên lệch
+        "Thiên lệch giới tính hoặc chủng tộc trong quyết định tuyển dụng",
+        // 69. Sử dụng GenAI hiệu quả
+        "Hiểu rõ mục đích sử dụng và kiểm soát đầu ra",
+        // 70. Nền tảng nội dung ChatGPT tạo
+        "Mạng xã hội, blog, email",
+        // 71. AI cần yếu tố nào để hoạt động hiệu quả
+        "Dữ liệu chất lượng và đủ lớn",
+        // 72. NLP giúp máy làm gì
+        "Hiểu và tạo ra ngôn ngữ con người",
+        // 73. AI hỗ trợ ra quyết định
+        "AI cung cấp phân tích, gợi ý để con người lựa chọn phương án cuối cùng",
+        // 74. Đảm bảo tránh vi phạm đạo đức
+        "Sự minh bạch và không thiên lệch",
+        // 75. Mối quan tâm đạo đức lớn nhất khi dùng AI
+        "Bảo vệ quyền riêng tư và sử dụng dữ liệu cá nhân",
+        // 76. Công nghệ Deepfake
+        "Tạo video giả mạo có nội dung chân thực"
     ];
 
     let selectedCount = 0;

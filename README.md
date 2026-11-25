@@ -1157,4 +1157,37 @@
 29. **Kling AI sử dụng công nghệ nào để tái tạo khuôn mặt và chuyển động một cách tự nhiên:** -> `Transformer khuếch tán`
 30. **Trí tuệ nhân tạo (AI) là gì:** -> `Công nghệ giúp máy móc thể hiện trí thông minh như con người`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 6 - ĐỀ 4 (ĐỀ BIẾN THỂ MỚI 30 CÂU)
+1. **Sử dụng AI trong tuyển dụng thiên lệch do dữ liệu:** -> `Thiên lệch giới tính hoặc chủng tộc trong quyết định tuyển dụng`
+2. **Để sử dụng GenAI hiệu quả, người dùng nên làm gì:** -> `Hiểu rõ mục đích sử dụng và kiểm soát đầu ra`
+3. **Trong thực hành, người học được khuyến khích làm gì với AI:** -> `Sử dụng AI để hoàn thành công việc trong quy trình có sẵn`
+4. **Yếu tố nào chỉ con người mới có thể đảm nhiệm tốt hơn AI hiện nay:** -> `Ra quyết định mang tính sáng tạo và đạo đức`
+5. **Vì sao ChatGPT không nên sử dụng làm nguồn duy nhất để viết báo cáo học thuật:** -> `Vì có thể tạo ra thông tin sai hoặc không được kiểm chứng`
+6. **Đâu là một ví dụ về rủi ro đạo đức tiềm ẩn của AI:** -> `Phân loại khách hàng dựa trên khu vực địa lý có thiên lệch`
+7. **Một trong những cách để giảm rủi ro khi triển khai AI là gì:** -> `Áp dụng nguyên tắc bảo mật và kiểm soát dữ liệu`
+8. **AI trong chăm sóc sức khỏe có thể giúp gì:** -> `Tư vấn sức khỏe ảo, phân tích dữ liệu y tế`
+9. **ChatGPT có thể “hiểu” ngữ cảnh trò chuyện theo cách nào:** -> `Dựa vào đoạn hội thoại trước đó trong cùng một phiên làm việc`
+10. **AI có thể ảnh hưởng tiêu cực gì đến việc làm:** -> `Thay thế con người trong một số công việc`
+11. **ChatGPT có thể tạo nội dung cho các nền tảng nào sau đây:** -> `Mạng xã hội, blog, email`
+12. **AI thường cần yếu tố nào để hoạt động hiệu quả:** -> `Dữ liệu chất lượng và đủ lớn`
+13. **"Xử lý ngôn ngữ tự nhiên" (NLP) giúp máy làm gì:** -> `Hiểu và tạo ra ngôn ngữ con người`
+14. **Khái niệm “AI hỗ trợ ra quyết định” nghĩa là gì:** -> `AI cung cấp phân tích, gợi ý để con người lựa chọn phương án cuối cùng`
+15. **Stable Diffusion là gì và ứng dụng chính của nó là gì:** -> `Một mô hình học sâu chuyển văn bản thành hình ảnh`
+16. **AI có thể giúp ích gì trong lĩnh vực giao thông:** -> `Điều tiết giao thông thông minh và dự đoán ùn tắc`
+17. **AI có thể hỗ trợ trong lĩnh vực nào sau đây:** -> `Tất cả các phương án trên`
+18. **Khi sử dụng AI, yếu tố nào dưới đây cần được đảm bảo để tránh vi phạm đạo đức:** -> `Sự minh bạch và không thiên lệch`
+19. **ShakkerAI được xem là lựa chọn thay thế hoàn hảo cho nền tảng nào:** -> `Midjourney`
+20. **Mối quan tâm đạo đức lớn nhất khi sử dụng AI là gì:** -> `Bảo vệ quyền riêng tư và sử dụng dữ liệu cá nhân`
+21. **NotebookLM chủ yếu được thiết kế để hỗ trợ người dùng làm gì:** -> `Phân tích tài liệu và hỗ trợ nghiên cứu`
+22. **Khi đề xuất cải tiến hệ thống AI, yếu tố nào sau đây là quan trọng nhất:** -> `Cân bằng giữa hiệu quả, độ chính xác và đạo đức ứng dụng`
+23. **Deepfake là công nghệ AI nào sau đây:** -> `Tạo video giả mạo có nội dung chân thực`
+24. **Trí tuệ nhân tạo (AI) là gì:** -> `Công nghệ giúp máy móc thể hiện trí thông minh như con người`
+25. **Điểm nổi bật nào giúp Kling AI thu hút cộng đồng sáng tạo nội dung:** -> `Tạo video chất lượng điện ảnh từ văn bản và hình ảnh`
+26. **Nhánh nào sau đây thuộc AI:** -> `Xử lý ngôn ngữ tự nhiên (NLP)`
+27. **Kỹ thuật Style Transfer trong AI sáng tạo hình ảnh hoạt động như thế nào:** -> `Phân tích ảnh gốc để sao chép màu sắc và phong cách sang ảnh khác`
+28. **Một mô hình AI được đánh giá là "phi đạo đức" khi:** -> `Sử dụng dữ liệu cá nhân mà không có sự đồng thuận`
+29. **Một hệ thống AI an toàn nên được thiết kế như thế nào:** -> `Minh bạch, có khả năng giải thích và kiểm soát kết quả đầu ra`
+30. **GenAI là viết tắt của cụm từ nào:** -> `Generative Artificial Intelligence`
+
+
 
