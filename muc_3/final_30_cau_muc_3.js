@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 3 (UNIVERSAL - CẢ 4 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 3 (UNIVERSAL - CẢ 5 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2, Đề 3 & Đề 4 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3, Đề 4 & Đề 5 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 3 (UNIVERSAL - 4 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 3 (UNIVERSAL - 5 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị các câu hỏi và nút Submit
     if (window.$) {
@@ -145,7 +145,18 @@
         "Rà soát và đánh giá nội dung đã có.",
         "Một loại giấy phép cho phép sử dụng miễn phí tác phẩm dưới một số điều kiện nhất định.",
         "Tư duy lập trình để giải quyết vấn đề hiệu quả.",
-        "Các nút bấm, biểu mẫu, trò chơi nhỏ, phản hồi theo hành động người dùng."
+        "Các nút bấm, biểu mẫu, trò chơi nhỏ, phản hồi theo hành động người dùng.",
+
+        // --- ĐỀ 5 (BỔ SUNG MỚI) ---
+        "Nội dung có cùng chủ đề với nội dung khác không?",
+        "Nội dung có thể bổ sung thông tin cho nội dung khác không?",
+        "Nội dung đó có thể kết hợp với nội dung khác để tạo ra giá trị mới không?",
+        "Giúp lưu trữ và quản lý dữ liệu một cách hiệu quả, dễ dàng truy cập và thao tác.",
+        "Xử lý logic của các bài tập, kiểm tra đáp án, và cung cấp phản hồi cho người dùng.",
+        "Nội dung tương tác.",
+        "Hình ảnh chất lượng cao và miễn phí.",
+        "Cả 5 yếu tố S, M, A, R, T (với giả định mục tiêu 300 email là khả thi).",
+        "Vì các hệ thống tự động như Content ID của YouTube có thể phát hiện ra và tự động đánh dấu vi phạm."
     ];
 
     let selectedCount = 0;

@@ -690,6 +690,49 @@
 29. **Nội dung số tương tác có thể bao gồm yếu tố nào:** -> `Các nút bấm, biểu mẫu, trò chơi nhỏ, phản hồi theo hành động người dùng.`
 30. **Giữa (1) Xây dựng thương hiệu và (2) Thuyết phục/Bán hàng:** -> `Mục tiêu (1)`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 3 - ĐỀ 5 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **(Nhiều đáp án đúng) Khi đánh giá một nội dung cũ, những câu hỏi nào giúp bạn quyết định liệu có nên "kết hợp" nội dung đó với nội dung khác để tạo sản phẩm mới (Chọn 3 mục):**
+    * ☑ `Nội dung có cùng chủ đề với nội dung khác không?`
+    * ☑ `Nội dung có thể bổ sung thông tin cho nội dung khác không?`
+    * ☑ `Nội dung đó có thể kết hợp với nội dung khác để tạo ra giá trị mới không?`
+2. **Tại sao việc đánh giá "độ phù hợp và tiềm năng tái sử dụng" lại quan trọng trước khi bắt tay vào biên tập nội dung cũ:** -> `Để quyết định xem có nên loại bỏ hoàn toàn nội dung đó hay không, tránh lãng phí công sức chỉnh sửa.`
+3. **(Nhiều đáp án đúng) Một sinh viên làm video thuyết trình sử dụng một bài hát nổi tiếng. Những hậu quả nào có thể xảy ra (Chọn 3 mục):**
+    * ☑ `Video có thể bị hệ thống Content ID tự động tắt tiếng hoặc chặn.`
+    * ☑ `Doanh thu quảng cáo sẽ được chuyển cho chủ sở hữu bản quyền.`
+    * ☑ `Kênh của bạn ấy có thể nhận một cảnh cáo vi phạm bản quyền.`
+4. **Yếu tố "Relevant" (Liên quan) trong mô hình SMART có nghĩa là gì:** -> `Mục tiêu phải phù hợp với chiến lược, tầm nhìn và nguồn lực tổng thể.`
+5. **Một công ty muốn tái sử dụng các buổi webinar cũ (định dạng video dài) thành các nội dung ngắn hơn cho mạng xã hội. Bước "Phân loại" nội dung sẽ giúp họ làm gì ngay sau khi thu thập các video này:** -> `Nhóm các webinar theo chủ đề, xem xét thời lượng và đánh giá độ cập nhật của thông tin trong từng video.`
+6. **Việc hiểu về "cấu trúc dữ liệu" trong lập trình giúp người làm nội dung tổ chức thông tin:** -> `Giúp lưu trữ và quản lý dữ liệu một cách hiệu quả, dễ dàng truy cập và thao tác.`
+7. **Một nhóm sinh viên muốn phát triển một hệ thống gợi ý nội dung dựa trên lịch sử xem của người dùng... cần hiểu sâu về khái niệm nào trong cấu trúc dữ liệu và giải thuật cơ bản:** -> `Cấu trúc dữ liệu như danh sách, từ điển, và các giải thuật liên quan đến gợi ý (ví dụ: lọc cộng tác, phân tích yếu tố)`
+8. **Một tổ chức phi lợi nhuận có một kho dữ liệu lớn về các nghiên cứu môi trường từ 10 năm trước... Kế hoạch rà soát nội dung của họ nên ưu tiên yếu tố nào:** -> `Phân loại và đánh giá kỹ lưỡng độ cập nhật của các số liệu nghiên cứu, đồng thời tìm cách chuyển đổi chúng thành các định dạng hấp dẫn giới trẻ (infographic, video ngắn).`
+9. **Mục tiêu "Tăng lượt tương tác cho fanpage" chưa phải là một mục tiêu SMART. Yếu tố nào của SMART bị thiếu rõ ràng nhất:** -> `Measurable (Đo lường được) và Time-bound (Có thời hạn).`
+10. **Mục tiêu nào sau đây được viết theo chuẩn SMART tốt nhất:** -> `"Đạt 10.000 người theo dõi trên Instagram trong vòng 6 tháng bằng cách đăng 5 bài/tuần về mẹo vặt cuộc sống."`
+11. **Yếu tố nào sau đây thuộc về "Tâm lý học" (Psychographics):** -> `Mong muốn và các vấn đề đang gặp phải`
+12. **Mục tiêu nội dung số trả lời cho câu hỏi nào sau đây:** -> `"Nội dung này được tạo ra để làm gì?"`
+13. **Một ứng dụng học tiếng Anh có các bài tập tương tác như kéo thả từ, điền vào chỗ trống. Để phát triển loại nội dung này, yếu tố "lập trình" đóng vai trò gì:** -> `Xử lý logic của các bài tập, kiểm tra đáp án, và cung cấp phản hồi cho người dùng.`
+14. **Tại sao việc hiểu các giấy phép mã nguồn như MIT hay Apache lại quan trọng đối với một lập trình viên:** -> `Vì các giấy phép này quy định cách họ có thể sử dụng hợp pháp các đoạn mã nguồn mở trong dự án của mình.`
+15. **"Nội dung lỗi thời/không còn phù hợp" là những nội dung có đặc điểm gì:** -> `Chứa thông tin sai lệch, không còn giá trị hoặc mâu thuẫn với thông điệp hiện tại.`
+16. **Tại sao việc "đánh giá mức độ công sức cần bỏ ra để chỉnh sửa" lại quan trọng khi xem xét tái sử dụng một nội dung cũ:** -> `Để đưa ra quyết định có nên đầu tư thời gian và chi phí vào việc chỉnh sửa hay nên tạo một nội dung mới hiệu quả hơn.`
+17. **Một sinh viên muốn tạo một trang web cá nhân đơn giản... có các hiệu ứng động nhỏ khi người dùng tương tác (nút bấm đổi màu khi rê chuột), ngôn ngữ nào là cần thiết:** -> `JavaScript`
+18. **Biểu tượng © là viết tắt của từ nào:** -> `Copyright`
+19. **Một nhà sáng tạo nội dung có nhiều ý tưởng nhưng lại thiếu tính tổ chức trong việc:** -> `Thu thập và phân loại nội dung.`
+20. **Việc lập trình cho nội dung số nhằm mục đích chính là để tạo ra loại nội dung nào:** -> `Nội dung tương tác.`
+21. **(Nhiều đáp án đúng) Những quyền nào sau đây thuộc về người sở hữu bản quyền một tác phẩm (Chọn 3 mục):**
+    * ☑ `Quyền sao chép.`
+    * ☑ `Quyền phân phối.`
+    * ☑ `Quyền tạo ra tác phẩm phái sinh.`
+22. **Unsplash và Pexels là các trang web nổi tiếng cung cấp tài nguyên gì:** -> `Hình ảnh chất lượng cao và miễn phí.`
+23. **Một sinh viên muốn xây dựng một "chatbot" đơn giản để trả lời các câu hỏi thường gặp:** -> `Python`
+24. **Một công ty muốn tạo ra một "Trình tạo báo cáo tự động" từ dữ liệu khách hàng hàng tuần... Người làm nội dung có kỹ năng lập trình Python cơ bản sẽ cần làm gì:** -> `Áp dụng các kiến thức về đọc/ghi file, xử lý chuỗi và có thể là thư viện biểu đồ trong Python để tự động hóa việc tạo báo cáo dựa trên mẫu có sẵn.`
+25. **(Câu hỏi nhiều đáp án đúng) Việc phân loại nội dung theo "Chủ đề" và "Định dạng" giúp người làm nội dung giải quyết những vấn đề nào (Chọn 2 mục):**
+    * ☑ `Dễ dàng tìm kiếm và nhóm nội dung liên quan.`
+    * ☑ `Đánh giá khả năng chuyển đổi định dạng nội dung (ví dụ: từ bài viết thành infographic).`
+26. **Một mục tiêu được đặt ra: "Trong Quý 4, sản xuất 12 bài viết chuyên sâu... nhằm mục tiêu thu về 300 lượt đăng ký email...". Mục tiêu này đã thỏa mãn những yếu tố nào của SMART:** -> `Cả 5 yếu tố S, M, A, R, T (với giả định mục tiêu 300 email là khả thi).`
+27. **Một công ty mỹ phẩm muốn ra mắt dòng sản phẩm mới cho lứa tuổi teen. Khi xây dựng persona, yếu tố "Thói quen số" nào sau đây cần được ưu tiên tìm hiểu:** -> `Các KOLs/Influencers về làm đẹp mà đối tượng hay theo dõi.`
+28. **"Chân dung người dùng" (User Persona) là gì:** -> `Một hồ sơ chi tiết về đối tượng lý tưởng mà nội dung hướng đến.`
+29. **Tại sao việc sử dụng một đoạn nhạc 15 giây của một bài hát nổi tiếng trên YouTube lại có rủi ro cao:** -> `Vì các hệ thống tự động như Content ID của YouTube có thể phát hiện ra và tự động đánh dấu vi phạm.`
+30. **Một nhà thiết kế đồ họa sử dụng một phông chữ (font) tải miễn phí... Vấn đề pháp lý nào họ cần phải xác minh kỹ lưỡng nhất:** -> `Giấy phép sử dụng của phông chữ đó có cho phép dùng cho mục đích thương mại hay không.`
+
 
 ---
 
