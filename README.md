@@ -115,6 +115,39 @@
 29. **Trong mô hình IMVAIN, chữ “M” nghĩa là gì:** -> `Multiple sources (Nhiều nguồn)`
 30. **Lưu trữ đám mây là gì:** -> `Lưu trữ dữ liệu trên máy chủ từ xa qua Internet`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 1 - ĐỀ 3 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Toán tử tìm các bài viết có tiêu đề liên quan:** -> `intitle:"hướng dẫn sử dụng ChatGPT"`
+2. **Tại sao không nên tin tưởng tuyệt đối vào công cụ AI:** -> `AI có thể mắc lỗi và bị thao túng`
+3. **Tại sao phân loại dữ liệu quan trọng:** -> `Để chọn công nghệ và phương pháp xử lý phù hợp`
+4. **Đặc điểm chính của dữ liệu phi cấu trúc:** -> `Thiếu cấu trúc xác định trước`
+5. **Công cụ miễn phí hỗ trợ mã hóa thư mục trong Windows:** -> `7-Zip`
+6. **Phương pháp xác thực phổ biến nhất hiện nay:** -> `Xác thực hai yếu tố (2FA)`
+7. **Tải bài lên Google Drive người khác không xem được:** -> `Chưa cấp quyền truy cập cho người khác`
+8. **Lợi ích của việc ghi chú khi duyệt thông tin:** -> `Giúp lưu lại nguồn và tóm tắt nội dung quan trọng`
+9. **DRAMA tập trung chủ yếu vào loại thông tin:** -> `Thông tin cảm xúc dễ gây hiểu lầm`
+10. **Thách thức khi dùng AI trong xác minh thông tin:** -> `Thiếu khả năng kiểm tra nguồn đáng tin`
+11. **Trong DRAMA, yếu tố cho thấy nội dung bị thao túng cảm xúc:** -> `Tiêu đề giật gân, ngôn ngữ cảm xúc mạnh`
+12. **Một thông tin đáng tin cậy cần phải:** -> `Có nguồn rõ ràng và minh bạch`
+13. **Công cụ AI là sản phẩm của Google:** -> `Gemini`
+14. **Thiết bị cá nhân bị đánh cắp, chiến lược bảo vệ dữ liệu an toàn:** -> `Dùng lưu trữ đám mây có xác thực hai lớp, kết hợp bản sao ngoại tuyến`
+15. **Yếu tố không cần thiết trong tên file:** -> `Tên người chấm điểm`
+16. **Dữ liệu bị trùng lặp ảnh hưởng gì:** -> `Gây sai lệch trong phân tích`
+17. **Khi nào dùng Thanh tìm kiếm nội bộ hiệu quả hơn Google:** -> `Khi bạn muốn tìm kiếm thông tin trong phạm vi trang đó mà không muốn bị phân tán bởi kết quả từ các trang web khác`
+18. **Quy định liên quan trực tiếp đến bảo vệ dữ liệu cá nhân VN:** -> `Nghị định 13/2023/NĐ-CP`
+19. **Lợi ích Pandas cho người mới bắt đầu lập trình Python:** -> `Dễ học, cú pháp trực quan, dễ đọc và dễ hiểu`
+20. **Chỉ chia sẻ báo cáo với người có email nội bộ:** -> `Dùng quyền "Restricted" và thêm đúng email được phép`
+21. **Điểm yếu lớn nhất của lưu trữ cục bộ:** -> `Rủi ro mất dữ liệu do lỗi vật lý, mất thiết bị`
+22. **Trong SIFT, 'Investigate the source' có nghĩa là:** -> `Tra cứu thêm về nguồn gốc thông tin`
+23. **Sao lưu ổ cứng ngoài thứ Hai, đồng bộ Drive mỗi ngày:** -> `3–2–1`
+24. **Ví dụ dữ liệu có cấu trúc:** -> `Cơ sở dữ liệu khách hàng với ID, Tên, Email, Thành phố`
+25. **Toán tử dấu ngoặc kép (" ") trong tìm kiếm Google:** -> `Tìm kiếm cụm từ chính xác`
+26. **Bước phân tích cấu trúc trang web trong web scraping:** -> `Kiểm tra HTML hoặc API bằng công cụ Inspect`
+27. **Điểm khác biệt rõ nhất giữa dữ liệu cá nhân và dữ liệu tổ chức:** -> `Khác nhau về chủ sở hữu và trách nhiệm pháp lý`
+28. **Tạo biểu đồ doanh thu, số sản phẩm theo tháng là loại phân tích:** -> `Phân tích mô tả`
+29. **Đánh giá độ tin cậy tên miền .gov và .edu so với .com:** -> `Đáng tin cậy hơn`
+30. **Hệ thống đề xuất phim phù hợp dựa trên lịch sử là phân tích gì:** -> `Phân tích đề xuất`
+
+
 
 ---
 

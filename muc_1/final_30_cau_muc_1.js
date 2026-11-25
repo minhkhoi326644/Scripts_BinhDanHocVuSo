@@ -1,11 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 1 (UNIVERSAL - CẢ 2 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 1 (UNIVERSAL - CẢ 3 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
+// Hỗ trợ: Đề 1, Đề 2 & Đề 3 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 1...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 1 (UNIVERSAL)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị các câu hỏi và nút Submit
     if (window.$) {
@@ -25,7 +26,7 @@
         $('button.submit, input.submit, .check, .action button, .action input, .submit-btn').show();
     }
 
-    // 2. DANH SÁCH TỔNG HỢP TOÀN BỘ ĐÁP ÁN ĐÚNG CỦA CÁC ĐỀ BÀI KIỂM TRA MỤC 1
+    // 2. DANH SÁCH TỔNG HỢP TOÀN BỘ ĐÁP ÁN ĐÚNG CỦA CẢ 3 ĐỀ BÀI KIỂM TRA MỤC 1
     const TARGET_ANSWERS = [
         // --- ĐỀ 1 ---
         "Để lựa chọn công nghệ và phương pháp phù hợp cho việc thu thập, lưu trữ, xử lý và phân tích dữ liệu",
@@ -59,7 +60,7 @@
         "Tineye",
         "Để tránh \"rác số\", tăng hiệu quả quản lý và giảm rủi ro bảo mật",
 
-        // --- ĐỀ 2 (BỔ SUNG) ---
+        // --- ĐỀ 2 ---
         "AI site:vnexpress.net",
         "Khó truy vấn bằng các công cụ truyền thống",
         "Thông tin sai lệch hoặc không liên quan",
@@ -84,30 +85,59 @@
         "Mã hóa USB bằng VeraCrypt",
         "Vì nó cung cấp vô số phương pháp để thao tác dữ liệu theo nhiều cách khác nhau, từ đơn giản đến phức tạp",
         "Multiple sources (Nhiều nguồn)",
-        "Lưu trữ dữ liệu trên máy chủ từ xa qua Internet"
+        "Lưu trữ dữ liệu trên máy chủ từ xa qua Internet",
+
+        // --- ĐỀ 3 (BỔ SUNG MỚI) ---
+        "intitle:\"hướng dẫn sử dụng ChatGPT\"",
+        "Để chọn công nghệ và phương pháp xử lý phù hợp",
+        "Thiếu cấu trúc xác định trước",
+        "7-Zip",
+        "Chưa cấp quyền truy cập cho người khác",
+        "Giúp lưu lại nguồn và tóm tắt nội dung quan trọng",
+        "Thông tin cảm xúc dễ gây hiểu lầm",
+        "Thiếu khả năng kiểm tra nguồn đáng tin",
+        "Tiêu đề giật gân, ngôn ngữ cảm xúc mạnh",
+        "Có nguồn rõ ràng và minh bạch",
+        "Gemini",
+        "Gây sai lệch trong phân tích",
+        "Khi bạn muốn tìm kiếm thông tin trong phạm vi trang đó mà không muốn bị phân tán bởi kết quả từ các trang web khác",
+        "Dễ học, cú pháp trực quan, dễ đọc và dễ hiểu",
+        "Dùng quyền \"Restricted\" và thêm đúng email được phép",
+        "Rủi ro mất dữ liệu do lỗi vật lý, mất thiết bị",
+        "3–2–1",
+        "Cơ sở dữ liệu khách hàng với ID, Tên, Email, Thành phố",
+        "Tìm kiếm cụm từ chính xác",
+        "Kiểm tra HTML hoặc API bằng công cụ Inspect",
+        "Khác nhau về chủ sở hữu và trách nhiệm pháp lý",
+        "Đáng tin cậy hơn",
+        "Phân tích đề xuất"
     ];
 
     let selectedCount = 0;
 
-    // 3. Tự động tìm và tick chọn tất cả các radio khớp với đáp án
-    document.querySelectorAll('label, .choicegroup_item, fieldset label, li, p').forEach(el => {
-        const text = (el.innerText || '').trim();
+    // 3. Tự động duyệt qua từng input để tick chính xác (chống click lặp)
+    const inputs = Array.from(document.querySelectorAll('input[type="radio"], input[type="checkbox"]'));
+    inputs.forEach(input => {
+        const id = input.id;
+        const label = document.querySelector(`label[for="${id}"]`) || input.closest('label') || input.parentElement;
+        const text = (label ? label.innerText : '').trim();
+
         for (let ans of TARGET_ANSWERS) {
             if (text === ans || text.includes(ans)) {
-                const input = el.querySelector('input') || document.getElementById(el.getAttribute('for')) || el.parentElement?.querySelector('input');
-                if (input) {
-                    if (!input.checked) {
-                        input.click();
-                        input.checked = true;
-                        input.dispatchEvent(new Event('change', { bubbles: true }));
+                if (!input.checked) {
+                    input.click();
+                    input.checked = true;
+                    input.dispatchEvent(new Event('change', { bubbles: true }));
+                    if (label) {
+                        label.style.backgroundColor = '#dcfce7';
+                        label.style.border = '2px solid #22c55e';
+                        label.style.borderRadius = '6px';
+                        label.style.padding = '4px 8px';
+                        label.style.fontWeight = 'bold';
                     }
-                    el.style.backgroundColor = '#dcfce7';
-                    el.style.border = '2px solid #22c55e';
-                    el.style.borderRadius = '6px';
-                    el.style.padding = '4px 8px';
-                    el.style.fontWeight = 'bold';
                     selectedCount++;
                 }
+                break;
             }
         }
     });
