@@ -106,25 +106,29 @@
 
     let selectedCount = 0;
 
-    // 3. Tự động tìm và tick chọn (hỗ trợ cả radio và checkbox)
-    document.querySelectorAll('label, .choicegroup_item, fieldset label, li, p').forEach(el => {
-        const text = (el.innerText || '').trim();
+    // 3. Tự động tìm và tick chọn chính xác từng input (tránh trùng lặp / double click)
+    const inputs = Array.from(document.querySelectorAll('input[type="radio"], input[type="checkbox"]'));
+    inputs.forEach(input => {
+        const id = input.id;
+        const label = document.querySelector(`label[for="${id}"]`) || input.closest('label') || input.parentElement;
+        const text = (label ? label.innerText : '').trim();
+
         for (let ans of TARGET_ANSWERS) {
             if (text === ans || text.includes(ans)) {
-                const input = el.querySelector('input') || document.getElementById(el.getAttribute('for')) || el.parentElement?.querySelector('input');
-                if (input) {
-                    if (!input.checked) {
-                        input.click();
-                        input.checked = true;
-                        input.dispatchEvent(new Event('change', { bubbles: true }));
+                if (!input.checked) {
+                    input.click();
+                    input.checked = true;
+                    input.dispatchEvent(new Event('change', { bubbles: true }));
+                    if (label) {
+                        label.style.backgroundColor = '#dcfce7';
+                        label.style.border = '2px solid #22c55e';
+                        label.style.borderRadius = '6px';
+                        label.style.padding = '4px 8px';
+                        label.style.fontWeight = 'bold';
                     }
-                    el.style.backgroundColor = '#dcfce7';
-                    el.style.border = '2px solid #22c55e';
-                    el.style.borderRadius = '6px';
-                    el.style.padding = '4px 8px';
-                    el.style.fontWeight = 'bold';
                     selectedCount++;
                 }
+                break;
             }
         }
     });
