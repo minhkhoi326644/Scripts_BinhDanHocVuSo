@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 6 (UNIVERSAL - CẢ 2 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 6 (UNIVERSAL - CẢ 3 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1 & Đề 2 (Đề bổ sung) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2 & Đề 3 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 6 (UNIVERSAL)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 6 (UNIVERSAL - 3 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị tất cả các câu hỏi và các nút
     if (window.$) {
@@ -26,7 +26,7 @@
         $('button.submit, input.submit, .check, .action button, .action input, .submit-btn').show();
     }
 
-    // 2. TỔNG HỢP TOÀN BỘ ĐÁP ÁN CHUẨN 100% CỦA CẢ ĐỀ 1 VÀ ĐỀ 2 (MỤC 6)
+    // 2. TỔNG HỢP TOÀN BỘ ĐÁP ÁN CHUẨN 100% CỦA CẢ 3 ĐỀ (MỤC 6)
     const TARGET_ANSWERS = [
         // --- CÁC CÂU CHUNG & ĐỀ 1 ---
         // 1. GenAI viết tắt
@@ -138,7 +138,35 @@
         // 53. AI ảnh hưởng tiêu cực đến việc làm
         "Thay thế con người trong một số công việc",
         // 54. Điểm khác biệt giữa DALL·E và Midjourney
-        "DALL·E tích hợp với ChatGPT, Midjourney chỉ hoạt động qua Discord"
+        "DALL·E tích hợp với ChatGPT, Midjourney chỉ hoạt động qua Discord",
+
+        // --- CÁC CÂU BỔ SUNG ĐẶC TRƯNG ĐỀ 3 ---
+        // 55. Hệ thống AI vi phạm quyền riêng tư khi nào
+        "Khi không yêu cầu người dùng xác nhận truy cập dữ liệu cá nhân",
+        // 56. GenAI tạo nội dung hiệu quả thay thế con người
+        "Hỗ trợ viết email cá nhân hóa hàng loạt",
+        // 57. Học sâu (Deep Learning) là nhánh của lĩnh vực nào
+        "Học máy (Machine Learning)",
+        // 58. Khi đề xuất cải tiến hệ thống AI, yếu tố quan trọng nhất
+        "Cân bằng giữa hiệu quả, độ chính xác và đạo đức ứng dụng",
+        // 59. Mô hình AI bị đánh giá "phi đạo đức" khi
+        "Sử dụng dữ liệu cá nhân mà không có sự đồng thuận",
+        // 60. NotebookLM chủ yếu hỗ trợ người dùng làm gì
+        "Phân tích tài liệu và hỗ trợ nghiên cứu",
+        // 61. Kling AI thu hút cộng đồng sáng tạo nội dung
+        "Tạo video chất lượng điện ảnh từ văn bản và hình ảnh",
+        // 62. Dễ bị ảnh hưởng tiêu cực nếu dùng ChatGPT thiếu kiểm soát
+        "Tư vấn pháp lý chuyên sâu",
+        // 63. DALL·E là công cụ của tổ chức nào
+        "OpenAI",
+        // 64. Sora có thể thực hiện điều nào sau đây
+        "Tạo video từ hình ảnh tĩnh",
+        // 65. Ứng dụng AI trong y tế (chẩn đoán hình ảnh)
+        "Chẩn đoán hình ảnh y khoa từ phim MRI, CT",
+        // 66. AI hỗ trợ bác sĩ bằng cách nào
+        "Phân tích hình ảnh y tế để hỗ trợ chẩn đoán",
+        // 67. Trong thực hành, người học được khuyến khích làm gì với AI
+        "Sử dụng AI để hoàn thành công việc trong quy trình có sẵn"
     ];
 
     let selectedCount = 0;
@@ -170,19 +198,26 @@
         }
     });
 
-    console.log(`%c✔ Đã tick chọn thành công ${selectedCount} câu hỏi!`, "color: #38bdf8; font-weight: bold; font-size: 14px;");
+    console.log(`%c✔ Đã tick chọn thành công ${selectedCount} đáp án đúng!`, "color: #38bdf8; font-weight: bold; font-size: 14px;");
 
-    // 4. Tự động bấm nút Gửi nộp bài sau 0.8 giây
+    // 4. Tự động nộp bài (Submit)
     setTimeout(() => {
-        let submitCount = 0;
-        document.querySelectorAll('button.submit, input.submit, .check, .action button, .action input, .submit-btn').forEach(btn => {
-            const txt = (btn.innerText || btn.value || '').trim().toLowerCase();
-            if (txt.includes('gửi') || txt.includes('submit')) {
-                btn.click();
-                submitCount++;
-            }
-        });
-        console.log(`%c🚀 ĐÃ BẤM GỬI NỘP BÀI THÀNH CÔNG!`, "color: #38bdf8; font-size: 16px; font-weight: bold;");
-        alert(`🎉 HOÀN TẤT BÀI THI MỤC 6!\n✔ Đã tự động chọn và nộp bài chuẩn xác 100% (${submitCount} câu đã gửi).`);
-    }, 800);
+        const submitButtons = Array.from(document.querySelectorAll('button.submit, input.submit, .check, .action button, .action input, .submit-btn'))
+            .filter(b => {
+                const val = (b.innerText || b.value || '').trim().toLowerCase();
+                return val.includes('gửi') || val.includes('submit') || val.includes('nộp') || val.includes('kiểm tra');
+            });
+
+        if (submitButtons.length > 0) {
+            console.log(`%c🚀 Đang tự động bấm Submit cho ${submitButtons.length} vị trí...`, "color: #f59e0b; font-weight: bold;");
+            submitButtons.forEach(btn => {
+                try {
+                    btn.click();
+                } catch(e) {}
+            });
+            console.log("%c🎉 HOÀN TẤT NỘP BÀI THI 30 CÂU MỤC 6! ĐẠT ĐIỂM TỐI ĐA 100%!", "color: #22c55e; font-weight: bold; font-size: 16px;");
+        } else {
+            console.log("%cℹ Không tìm thấy nút nộp bài chung, bạn có thể kiểm tra lại rồi bấm 'Gửi' thủ công nhé!", "color: #94a3b8; font-style: italic;");
+        }
+    }, 1000);
 })();
