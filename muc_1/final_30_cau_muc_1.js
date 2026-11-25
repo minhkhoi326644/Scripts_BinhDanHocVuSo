@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 1 (UNIVERSAL - CẢ 4 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 1 (UNIVERSAL - CẢ 5 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2, Đề 3 & Đề 4 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3, Đề 4 & Đề 5 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 1 (UNIVERSAL - 4 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 1 (UNIVERSAL - 5 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị các câu hỏi và nút Submit
     if (window.$) {
@@ -130,7 +130,24 @@
         "Chuyên môn và uy tín của tác giả",
         "Khi dữ liệu huấn luyện sai hoặc lỗi ngữ cảnh",
         "Các bộ dữ liệu lớn",
-        "Kiểm chứng lại với các nguồn tin cậy"
+        "Kiểm chứng lại với các nguồn tin cậy",
+
+        // --- ĐỀ 5 (BỔ SUNG MỚI) ---
+        "Mức độ chính xác và không sai sót của thông tin",
+        "Để đảm bảo kết quả tìm kiếm chính xác và liên quan đến nghiên cứu học thuật.",
+        "Sử dụng lịch sử phiên bản và chia sẻ có kiểm soát",
+        "Ngày tạo file, nội dung, mã môn, phiên bản",
+        "Gửi mật khẩu qua kênh riêng biệt (SMS, gọi điện...)",
+        "Vi phạm điều khoản dịch vụ hoặc luật bảo vệ dữ liệu",
+        "Là dữ liệu đã được xử lý, tổ chức, hoặc phân tích để mang lại ý nghĩa trong một bối cảnh",
+        "Dự đoán hoặc rút ra kết luận từ mẫu",
+        "Tìm kiểm tra từ nguồn tin chính thống",
+        "Lịch sử học tập trên LMS, email, nhóm Zalo",
+        "Bao gồm phân tích, suy luận và hiểu biết chiến lược",
+        "Đề xuất chiến lược nhập hàng dựa trên xu hướng bán chạy",
+        "Vì vừa có tính linh hoạt cao vừa đảm bảo an toàn dữ liệu khi mất mạng hoặc hỏng thiết bị",
+        "AI giúp tăng tốc và độ chính xác trong xác minh",
+        "Thay thế cho một từ hoặc một cụm từ mà bạn không nhớ hoặc muốn kết quả linh hoạt."
     ];
 
     let selectedCount = 0;

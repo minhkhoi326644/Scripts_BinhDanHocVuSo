@@ -179,6 +179,38 @@
 29. **Toán tử nào giúp loại trừ từ khóa trong tìm kiếm Google:** -> `Dấu trừ (-)`
 30. **Hình thức lưu trữ nào kết hợp cả đám mây và cục bộ:** -> `Lưu trữ lai (Hybrid Storage)`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 1 - ĐỀ 5 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Dấu hiệu cho thấy tin giả hoặc thông tin sai lệch:** -> `Sử dụng tiêu đề giật gân, khơi cảm xúc`
+2. **Tại sao không nên tin tưởng tuyệt đối vào công cụ AI:** -> `AI có thể mắc lỗi và bị thao túng`
+3. **Tiêu chí 'Accuracy' trong CRAAP dùng để kiểm tra điều gì:** -> `Mức độ chính xác và không sai sót của thông tin`
+4. **Đánh giá độ tin cậy tên miền .gov và .edu so với .com:** -> `Đáng tin cậy hơn`
+5. **Khi tìm kiếm trên Google Scholar, tại sao dùng thuật ngữ khoa học quan trọng hơn:** -> `Để đảm bảo kết quả tìm kiếm chính xác và liên quan đến nghiên cứu học thuật.`
+6. **Khi sao lưu tài liệu đồ án nhóm lên Google Drive:** -> `Sử dụng lịch sử phiên bản và chia sẻ có kiểm soát`
+7. **Khi dùng Google để kiểm tra tính chính xác của một tuyên bố:** -> `Kiểm tra chéo thông tin (Cross-referencing)`
+8. **Một tên tệp tin tốt nên bao gồm yếu tố nào:** -> `Ngày tạo file, nội dung, mã môn, phiên bản`
+9. **Bảo vệ dữ liệu khảo sát trong USB:** -> `Mã hóa USB bằng VeraCrypt`
+10. **Một nguyên tắc cốt lõi của quản lý dữ liệu là gì:** -> `Dễ truy xuất, đảm bảo toàn vẹn và bảo mật`
+11. **Khi chia sẻ file đã mã hóa bằng 7-Zip, điều nào nên làm:** -> `Gửi mật khẩu qua kênh riêng biệt (SMS, gọi điện...)`
+12. **Thách thức pháp lý của web scraping là gì:** -> `Vi phạm điều khoản dịch vụ hoặc luật bảo vệ dữ liệu`
+13. **Thông tin là gì:** -> `Là dữ liệu đã được xử lý, tổ chức, hoặc phân tích để mang lại ý nghĩa trong một bối cảnh`
+14. **Phân tích suy diễn (inferential analysis) giúp làm gì:** -> `Dự đoán hoặc rút ra kết luận từ mẫu`
+15. **Khi AI gợi ý sai sự kiện lịch sử, cách tốt nhất để xử lý:** -> `Tìm kiểm tra từ nguồn tin chính thống`
+16. **Trong tài liệu, dữ liệu tương tác bao gồm yếu tố nào:** -> `Lịch sử học tập trên LMS, email, nhóm Zalo`
+17. **Làm thế nào để tận dụng cấu trúc trang web khi duyệt:** -> `Sử dụng mục lục tương tác hoặc thanh điều hướng`
+18. **Đặc điểm chính của tri thức là gì:** -> `Bao gồm phân tích, suy luận và hiểu biết chiến lược`
+19. **Trong lĩnh vực bán lẻ, tri thức có thể được sử dụng để làm gì:** -> `Đề xuất chiến lược nhập hàng dựa trên xu hướng bán chạy`
+20. **Thiết bị cá nhân bị đánh cắp, chiến lược bảo vệ dữ liệu an toàn:** -> `Dùng lưu trữ đám mây có xác thực hai lớp, kết hợp bản sao ngoại tuyến`
+21. **Tại sao lưu trữ lai (Hybrid Storage) được khuyến nghị cho sinh viên:** -> `Vì vừa có tính linh hoạt cao vừa đảm bảo an toàn dữ liệu khi mất mạng hoặc hỏng thiết bị`
+22. **Ghi rõ tên thành viên và thời gian cập nhật trong tài liệu:** -> `Tăng tính minh bạch, dễ kiểm soát lịch sử chỉnh sửa`
+23. **Thao tác tạo bản sao (Make a copy) trong Google Drive dùng để:** -> `Tạo bản lưu riêng để chỉnh sửa mà không ảnh hưởng bản gốc`
+24. **Yếu tố nào sau đây là một trong các tiêu chí của IMVAIN:** -> `Nguồn độc lập và có thể kiểm chứng`
+25. **DRAMA tập trung chủ yếu vào loại thông tin nào:** -> `Thông tin cảm xúc dễ gây hiểu lầm`
+26. **Vì sao cần dùng AI phối hợp với công cụ xác minh truyền thống:** -> `AI giúp tăng tốc và độ chính xác trong xác minh`
+27. **Mục tiêu của phương pháp SIFT là gì:** -> `Xác minh và đánh giá thông tin nhanh chóng`
+28. **Lọc theo điều kiện đơn giản trong Excel làm gì:** -> `Lọc dữ liệu dựa trên một giá trị hoặc so sánh`
+29. **Tại sao cần kiểm tra ngày cập nhật của trang web:** -> `Để đảm bảo thông tin còn phù hợp và mới`
+30. **Toán tử Wildcard (*) trong tìm kiếm có lợi ích gì:** -> `Thay thế cho một từ hoặc một cụm từ mà bạn không nhớ hoặc muốn kết quả linh hoạt.`
+
 
 
 ---
