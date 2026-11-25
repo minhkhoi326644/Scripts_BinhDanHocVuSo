@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 3 (UNIVERSAL - CẢ 3 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 3 (UNIVERSAL - CẢ 4 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2 & Đề 3 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3 & Đề 4 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 3 (UNIVERSAL)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 3 (UNIVERSAL - 4 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị các câu hỏi và nút Submit
     if (window.$) {
@@ -129,7 +129,23 @@
         "Kiểm tra giấy phép sử dụng của tất cả các bản nhạc nền và hiệu ứng âm thanh.",
         "Đảm bảo việc sử dụng logo không gây nhầm lẫn hoặc vi phạm nhãn hiệu.",
         "Rà soát và ghi công (attribute) đầy đủ cho các tác phẩm yêu cầu.",
-        "Tạo ra quá nhiều Persona và không biết nên tập trung vào ai."
+        "Tạo ra quá nhiều Persona và không biết nên tập trung vào ai.",
+
+        // --- ĐỀ 4 (BỔ SUNG MỚI) ---
+        "Không, vì bản quyền bảo vệ cách diễn đạt, chứ không bảo vệ các sự thật hay ý tưởng.",
+        "Vì nó có thể vi phạm cả luật bản quyền và luật về nhãn hiệu.",
+        "Vì nó có thể gây nhầm lẫn rằng bạn được thương hiệu đó tài trợ hoặc hợp tác.",
+        "Vì nó có thể dẫn đến các hậu quả pháp lý nghiêm trọng.",
+        "Thu thập và phân loại nội dung.",
+        "Khả năng tích hợp với các công nghệ frontend (HTML, CSS, JavaScript) để xây dựng giao diện người dùng.",
+        "Hiệu suất xử lý dữ liệu và logic của ứng dụng.",
+        "Các thư viện hoặc framework có sẵn hỗ trợ cho loại nội dung đó (ví dụ: game engine cho game).",
+        "Nội dung này được tạo ra để làm gì?",
+        "Một hồ sơ chi tiết về đối tượng lý tưởng mà nội dung hướng đến.",
+        "Rà soát và đánh giá nội dung đã có.",
+        "Một loại giấy phép cho phép sử dụng miễn phí tác phẩm dưới một số điều kiện nhất định.",
+        "Tư duy lập trình để giải quyết vấn đề hiệu quả.",
+        "Các nút bấm, biểu mẫu, trò chơi nhỏ, phản hồi theo hành động người dùng."
     ];
 
     let selectedCount = 0;
