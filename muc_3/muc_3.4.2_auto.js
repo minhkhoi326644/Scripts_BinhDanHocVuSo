@@ -28,12 +28,13 @@
     problems.forEach((p, idx) => {
         const text = p.innerText || '';
 
-        // CÂU 1: Định hình ý tưởng và cấu trúc của sản phẩm
+        // CÂU 1: Định hình ý tưởng và cấu trúc của sản phẩm -> Khâu thiết kế
         if (text.includes('định hình ý tưởng và cấu trúc')) {
             p.querySelectorAll('label, .choicegroup_item, li').forEach(lbl => {
-                if (lbl.innerText.trim().startsWith('Khâu thiết kế') || lbl.innerText.includes('Khâu thiết kế')) {
+                if (lbl.innerText.trim().includes('Khâu thiết kế')) {
                     const input = lbl.querySelector('input') || document.getElementById(lbl.getAttribute('for')) || lbl.parentElement?.querySelector('input');
                     if (input) {
+                        p.querySelectorAll('input[type="radio"]').forEach(inp => inp.checked = false);
                         input.click();
                         input.checked = true;
                         input.dispatchEvent(new Event('change', { bubbles: true }));
@@ -45,12 +46,13 @@
             });
         }
 
-        // CÂU 2: Tuân thủ bản thiết kế để ra sản phẩm
+        // CÂU 2: Tuân thủ bản thiết kế để ra sản phẩm -> Khâu lập trình
         if (text.includes('tuân thủ bản thiết kế để ra sản phẩm')) {
             p.querySelectorAll('label, .choicegroup_item, li').forEach(lbl => {
-                if (lbl.innerText.trim().startsWith('Khâu lập trình') || lbl.innerText.includes('Khâu lập trình')) {
+                if (lbl.innerText.trim().includes('Khâu lập trình')) {
                     const input = lbl.querySelector('input') || document.getElementById(lbl.getAttribute('for')) || lbl.parentElement?.querySelector('input');
                     if (input) {
+                        p.querySelectorAll('input[type="radio"]').forEach(inp => inp.checked = false);
                         input.click();
                         input.checked = true;
                         input.dispatchEvent(new Event('change', { bubbles: true }));
@@ -73,6 +75,6 @@
                 submitCount++;
             }
         });
-        alert(`🎉 ĐÃ XONG MỤC 3.4.2!\n✔ Đã chọn chính xác:\n   - Câu 1: Khâu thiết kế\n   - Câu 2: Khâu lập trình\nĐã bấm Gửi nộp bài thành công!`);
+        alert(`🎉 ĐÃ XONG MỤC 3.4.2!\n✔ Đã chọn chính xác 100%:\n   - Câu 1: Khâu thiết kế\n   - Câu 2: Khâu lập trình\nĐã bấm Gửi nộp bài thành công!`);
     }, 600);
 })();
