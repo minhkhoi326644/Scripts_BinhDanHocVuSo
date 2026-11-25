@@ -199,6 +199,40 @@
 29. **Vai trò công nghệ số trong hành vi công dân?** -> `Là môi trường hành động công dân mới`
 30. **Hành vi công dân số có trách nhiệm?** -> `Ứng xử có đạo đức trên mạng`
 
+---
+
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 2 (ĐỀ BỔ SUNG / ĐỀ 2 - 30 CÂU):
+1. **Tiêu chí ưu tiên khi chọn công cụ hợp tác cho sinh viên?** -> `Chi phí thấp, dễ sử dụng`
+2. **Khi đọc tin tức cảm thấy tức giận hoặc sợ hãi?** -> `Coi cảm xúc mạnh là một tín hiệu cảnh báo để kiểm tra thông tin kỹ lưỡng hơn.`
+3. **Mục đích tự quản lý tốt danh tính số?** -> `Để mở rộng cơ hội kết nối và tương tác.`
+4. **Công cụ tìm kiếm bài viết kiểm chứng từ tổ chức uy tín toàn cầu?** -> `Google Fact Check Explorer.`
+5. **Dấu chân số chủ động được tạo ra khi nào?** -> `Khi người dùng chủ động chia sẻ thông tin trên mạng`
+6. **Dấu chân số là gì?** -> `Dấu vết dữ liệu được tạo ra khi sử dụng Internet`
+7. **Loại kiến thức tương tác hiệu quả nhất với người dùng internet?** -> `Nguyên tắc cộng đồng`
+8. **Vai trò công nghệ số trong hành vi công dân?** -> `Là môi trường hành động công dân mới`
+9. **Xây dựng cộng đồng trực tuyến văn minh?** -> `Chỉ chia sẻ thông tin đúng sự thật`
+10. **Biểu hiện hành vi công dân số tích cực?** -> `Góp ý chính sách có căn cứ`
+11. **Thế mạnh của Google Workspace for Education?** -> `Cộng tác thời gian thực, giao diện đơn giản`
+12. **Nguyên tắc giúp bảo vệ thông tin cá nhân?** -> `Tất cả các phương án trên`
+13. **Tính năng nên dùng trên Google Docs để tránh xung đột?** -> `Suggesting mode để góp ý cần duyệt`
+14. **Để giải quyết mâu thuẫn trong công việc, điều gì hữu ích nhất?** -> `Đồng cảm và tôn trọng ý kiến.`
+15. **Chia sẻ quá nhiều thông tin cá nhân trên mạng gây hậu quả gì?** -> `Tất cả các hậu quả trên`
+16. **Điều gì quan trọng nhất để duy trì quy tắc ứng xử trên mạng?** -> `Sự đồng hành và hợp tác của cộng đồng`
+17. **Dấu chân số bị động được tạo ra khi nào?** -> `Khi dữ liệu của người dùng bị thu thập mà họ không hề hay biết.`
+18. **Thuận lợi vượt trội của hợp tác số là gì?** -> `Phá vỡ rào cản địa lý và thời gian`
+19. **Hành vi nào bạn nên làm trong môi trường số?** -> `Kiểm chứng thông tin trước khi chia sẻ`
+20. **Email phù hợp hơn ứng dụng nhắn tin cho mục đích nào?** -> `Gửi các thông điệp dài, trang trọng, có đính kèm tệp tin chính thức như CV, báo cáo.`
+21. **Nguyên tắc khi phản ánh qua nền tảng số là gì?** -> `Đính kèm bằng chứng rõ ràng`
+22. **Trách nhiệm quan trọng của "Công dân số" là gì?** -> `Tuân thủ luật pháp về sở hữu trí tuệ và không chia sẻ tác phẩm của người khác khi chưa được phép.`
+23. **AI sẽ hỗ trợ hợp tác nhóm như thế nào?** -> `Tự động hoá tác vụ lặp lại như tóm tắt họp, phân công`
+24. **Biện pháp để xây dựng cộng đồng trực tuyến tích cực?** -> `Xây dựng nhóm tương trợ`
+25. **Khuyến khích sự tham gia trong diễn đàn trực tuyến?** -> `Tính tương tác`
+26. **Làm việc nhóm trên tài liệu chỉnh sửa theo thời gian thực?** -> `Google Drive hoặc Microsoft OneDrive.`
+27. **Cookie có thể giúp gì cho trải nghiệm mua sắm?** -> `Thu thập dữ liệu về người dùng để cung cấp các quảng cáo phù hợp`
+28. **Yếu tố xem xét khi chọn công cụ giao tiếp dự án phức tạp?** -> `Tất cả các phương án trên`
+29. **Công dân số cần tránh rủi ro nào khi truy cập mạng?** -> `Nhấn vào liên kết lạ`
+30. **Khi sử dụng mạng xã hội, bạn cần làm gì để bảo vệ thông tin cá nhân?** -> `Tất cả các phương án trên`
+
 
 ---
 
