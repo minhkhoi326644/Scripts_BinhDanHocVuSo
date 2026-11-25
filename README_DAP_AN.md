@@ -971,6 +971,38 @@
 29. **Hàm IF giúp:** -> `Trả về giá trị theo điều kiện`
 30. **Khi thấy đồng nghiệp gặp lỗi lặp lại, bạn nên:** -> `Chia sẻ kinh nghiệm và cách khắc phục`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 5 - ĐỀ 4 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Biểu đồ cột dùng để:** -> `So sánh các nhóm dữ liệu`
+2. **Một khoá học có nội dung tốt khi nào:** -> `Nội dung cập nhật, có kiểm định`
+3. **Công cụ nào trên Windows giúp xem log lỗi hệ thống:** -> `Event Viewer`
+4. **Khi cần kiểm tra nguyên nhân lỗi boot chậm, nên:** -> `Kiểm tra ứng dụng khởi động cùng máy`
+5. **Thông báo “Out of memory” thường do:** -> `Thiếu bộ nhớ RAM hoặc file tạm quá đầy`
+6. **Khoá học chính thức từ các nhà cung cấp công nghệ có đặc điểm gì:** -> `Chứng nhận từ chính nhà phát triển`
+7. **Khi cần tài liệu học nâng cao, nên:** -> `Tìm khoá học hoặc tài liệu chính thức từ hãng phát triển`
+8. **Google Scholar là công cụ tìm kiếm tài liệu gì:** -> `Bài báo học thuật và tài liệu nghiên cứu`
+9. **Conditional Formatting giúp:** -> `Định dạng dựa theo giá trị`
+10. **Khi gặp khó khăn khi học, bạn nên:** -> `Tìm nhiều nguồn để tự khắc phục`
+11. **Nếu không kết nối được Wi-Fi sau khi cài lại Windows, bạn cần:** -> `Cài driver card mạng`
+12. **Pivot Table giúp:** -> `Phân tích và tổng hợp dữ liệu`
+13. **Để kiểm tra chi tiêu theo tháng, bạn nên:** -> `Dùng Filter theo ngày`
+14. **Để tính trung bình, bạn dùng hàm:** -> `AVERAGE`
+15. **Khi thấy công nghệ mới phù hợp hơn, bạn nên:** -> `Đề xuất thử nghiệm và áp dụng`
+16. **Khi phát hiện lỗi nghiêm trọng trong hệ thống, thái độ đúng là:** -> `Báo cáo và phối hợp xử lý cùng nhóm kỹ thuật`
+17. **Khi tạo tài liệu học tập cá nhân, bạn nên:** -> `Ghi chú có hệ thống, cập nhật định kỳ`
+18. **Một cách hiệu quả để học công nghệ mới là:** -> `Kết hợp tài liệu chính thức + video + thực hành`
+19. **Khi phát hiện phần mềm nghi ngờ lây nhiễm virus, bạn nên:** -> `Quét bằng phần mềm diệt virus cập nhật`
+20. **Khi đồng nghiệp chưa quen công cụ mới, bạn nên:** -> `Hỗ trợ và chia sẻ kinh nghiệm`
+21. **Để nhập dữ liệu tiền tệ chính xác, bạn cần:** -> `Đặt định dạng tiền tệ`
+22. **Nếu gặp tài liệu học không rõ nguồn, bạn nên:** -> `Kiểm tra độ tin cậy của tác giả và nguồn`
+23. **“Runtime error” thường xảy ra khi:** -> `Chương trình đang chạy`
+24. **So với báo cáo giấy, báo cáo online có lợi thế:** -> `Dễ cập nhật, tra cứu và tổng hợp`
+25. **Khi phát hiện lỗi hệ thống do phần cứng, bạn nên kiểm tra bước đầu tiên là:** -> `Kiểm tra cáp và kết nối phần cứng`
+26. **Conditional Formatting giúp (câu lặp lại):** -> `Định dạng dựa theo giá trị`
+27. **Lỗi phần mềm nào sau đây thuộc loại lỗi logic:** -> `Hàm tính toán cho kết quả sai`
+28. **Để lọc dữ liệu nhanh, bạn nên:** -> `Sử dụng Filter`
+29. **Để bảo vệ dữ liệu không bị sửa, bạn nên:** -> `Thiết lập quyền chỉnh sửa trên Sheets`
+30. **Khi đề xuất quy trình mới, bạn nên:** -> `Chuẩn bị kế hoạch thử nghiệm và lấy phản hồi`
+
 
 
 ---
