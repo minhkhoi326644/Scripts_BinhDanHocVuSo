@@ -795,6 +795,38 @@
 29. **Để nhập dữ liệu tiền tệ chính xác, bạn cần:** -> `Đặt định dạng tiền tệ`
 30. **Khi cần nâng cao kỹ năng công nghệ một cách bài bản, bạn nên:** -> `Tìm khoá học hoặc tài liệu chính thức từ hãng phát triển`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 5 - ĐỀ 3 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Để theo dõi tỷ lệ chi tiêu các danh mục, bạn nên:** -> `Dùng biểu đồ tròn (Pie chart)`
+2. **Conditional Formatting giúp:** -> `Định dạng dựa theo giá trị`
+3. **Một cách để duy trì kiến thức công nghệ là:** -> `Thường xuyên cập nhật, tham gia cộng đồng chuyên môn`
+4. **Video từ nguồn nào sau đây có độ tin cậy cao nhất:** -> `Kênh YouTube chính thức của hãng`
+5. **Dấu hiệu cho thấy ứng dụng có thể bị lỗi hiệu năng:** -> `Thời gian phản hồi lâu bất thường`
+6. **Khi chia sẻ bảng tính theo dõi chi tiêu cho nhóm:** -> `Thiết lập quyền phù hợp`
+7. **Công cụ nào trên Windows giúp xem log lỗi hệ thống:** -> `Event Viewer`
+8. **Khi lỗi xung đột phần mềm, cách xử lý tốt nhất là:** -> `Cập nhật phần mềm hoặc kiểm tra tương thích`
+9. **Khi đồng nghiệp chưa quen công cụ mới, bạn nên:** -> `Hỗ trợ và chia sẻ kinh nghiệm`
+10. **Lựa chọn công cụ số mới cho nhóm, yếu tố quan trọng nhất:** -> `Phù hợp với nhu cầu và khả năng sử dụng`
+11. **Khi làm báo cáo nhóm, công cụ nào nên ưu tiên:** -> `Google Docs/Sheets`
+12. **Nếu phần mềm yêu cầu cập nhật driver, bạn nên:** -> `Tải driver mới nhất từ nhà sản xuất`
+13. **Một cách học sâu công nghệ mới là:** -> `Kết hợp thực hành trên công cụ`
+14. **Một khoá học có nội dung tốt khi nào:** -> `Nội dung cập nhật, có kiểm định`
+15. **Khi phát hiện phần mềm nghi ngờ lây nhiễm virus:** -> `Quét bằng phần mềm diệt virus cập nhật`
+16. **Khi đề xuất quy trình mới, bạn nên:** -> `Chuẩn bị kế hoạch thử nghiệm và lấy phản hồi`
+17. **Khi gặp lỗi “Device not recognized”, bạn nên:** -> `Cài lại driver thiết bị`
+18. **Khoá học chính thức từ các nhà cung cấp công nghệ có đặc điểm gì:** -> `Chứng nhận từ chính nhà phát triển`
+19. **Muốn nhập ngày tháng chuẩn, bạn cần:** -> `Theo định dạng date chuẩn`
+20. **Để lọc dữ liệu nhanh, bạn nên:** -> `Sử dụng Filter`
+21. **Conditional Formatting giúp (câu lặp lại):** -> `Định dạng dựa theo giá trị`
+22. **Để bảo vệ dữ liệu không bị sửa, bạn nên:** -> `Thiết lập quyền chỉnh sửa trên Sheets`
+23. **Khi phát hiện lỗi nghiêm trọng trong hệ thống, thái độ đúng:** -> `Báo cáo và phối hợp xử lý cùng nhóm kỹ thuật`
+24. **Khi tạo tài liệu học tập cá nhân, bạn nên:** -> `Ghi chú có hệ thống, cập nhật định kỳ`
+25. **Khi thấy công nghệ mới phù hợp hơn, bạn nên:** -> `Đề xuất thử nghiệm và áp dụng`
+26. **Khi tìm tài liệu công nghệ, từ khoá nên:** -> `Ngắn gọn, chính xác`
+27. **Khi số hoá quy trình đào tạo, bạn cần:** -> `Xây dựng nội dung học tập số hoá phù hợp`
+28. **Nếu mạng Wi-Fi có tín hiệu tốt nhưng không vào được Internet:** -> `Kiểm tra đèn tín hiệu modem/router`
+29. **Hàm IF giúp:** -> `Trả về giá trị theo điều kiện`
+30. **Khi thấy đồng nghiệp gặp lỗi lặp lại, bạn nên:** -> `Chia sẻ kinh nghiệm và cách khắc phục`
+
 
 
 ---
