@@ -81,6 +81,40 @@
 * Kỹ thuật chuyển sang dạng mã hóa: `Mã hóa dữ liệu (Data encryption)`
 * Thiết bị bị đánh cắp vẫn an toàn: `Dùng lưu trữ đám mây có xác thực hai lớp, kết hợp bản sao ngoại tuyến`
 
+---
+
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 1 (ĐỀ BỔ SUNG / ĐỀ 2 - 30 CÂU):
+1. **Tìm kiếm các bài viết về AI trên trang VnExpress.net:** -> `AI site:vnexpress.net`
+2. **Nhược điểm của dữ liệu phi cấu trúc là gì:** -> `Khó truy vấn bằng các công cụ truyền thống`
+3. **Thông tin bị nhiễu là gì:** -> `Thông tin sai lệch hoặc không liên quan`
+4. **Sinh viên lưu bài tập nhóm với tên: “20250608_BT3_OOP_v1.docx”:** -> `File thuộc môn Lập trình Hướng đối tượng, được tạo ngày 08/06/2025`
+5. **Tại sao xác định mục tiêu duyệt trước khi bắt đầu lại quan trọng:** -> `Để tránh bị phân tán bởi thông tin không liên quan`
+6. **Làm thế nào để tận dụng cấu trúc trang web khi duyệt:** -> `Sử dụng mục lục tương tác hoặc thanh điều hướng`
+7. **Hệ thống lưu trữ cá nhân là hiệu quả:** -> `Khả năng tìm kiếm dữ liệu đúng phiên bản và nhanh chóng`
+8. **Ví dụ nào là dữ liệu bán cấu trúc:** -> `Tệp JSON chứa thông tin sinh viên và khóa học`
+9. **Phương pháp xác thực phổ biến nhất hiện nay là gì:** -> `Xác thực hai yếu tố (2FA)`
+10. **Quy định liên quan trực tiếp bảo vệ dữ liệu cá nhân VN:** -> `Nghị định 13/2023/NĐ-CP`
+11. **Khi cấp quyền "commenter" trong Google Docs:** -> `Xem và nhận xét, nhưng không chỉnh sửa`
+12. **Tại sao cần kiểm tra ngày cập nhật của trang web:** -> `Để đảm bảo thông tin còn phù hợp và mới`
+13. **Tại sao Claude được đánh giá cao về độ an toàn:** -> `Kiểm soát nội dung phản hồi và hạn chế thông tin nhạy cảm`
+14. **Đảm bảo tính toàn vẹn trong hợp tác nhóm khi cùng sửa tài liệu:** -> `Cùng chỉnh sửa file gốc nhưng bật theo dõi thay đổi, sử dụng comment và kiểm tra lịch sử phiên bản`
+15. **Sự khác biệt giữa sao lưu tăng dần và sao lưu vi sai:** -> `Vi sai lưu các thay đổi từ bản full backup gần nhất; tăng dần chỉ lưu thay đổi từ lần backup gần nhất`
+16. **Toán tử nào giúp loại trừ từ khóa trong tìm kiếm Google:** -> `Dấu trừ (-)`
+17. **Mục tiêu của phương pháp SIFT là gì:** -> `Xác minh và đánh giá thông tin nhanh chóng`
+18. **Phương pháp nào khuyến khích tra cứu chéo giữa các nguồn:** -> `SIFT`
+19. **Dấu hiệu nào cho thấy tin giả hoặc thông tin sai lệch:** -> `Sử dụng tiêu đề giật gân, khơi cảm xúc`
+20. **Trong phương pháp SIFT, 'Investigate the source' có nghĩa là gì:** -> `Tra cứu thêm về nguồn gốc thông tin`
+21. **Dữ liệu là gì:** -> `Các giá trị hoặc sự kiện thô, chưa qua xử lý`
+22. **Tạo biểu đồ doanh thu, số sản phẩm theo tháng là loại phân tích nào:** -> `Phân tích mô tả`
+23. **Tại sao không nên tin tưởng tuyệt đối vào công cụ AI:** -> `AI có thể mắc lỗi và bị thao túng`
+24. **AI có thể giúp gì trong việc kiểm tra hình ảnh giả mạo:** -> `Phân tích metadata`
+25. **Lợi ích chính của Pandas trong xử lý dữ liệu:** -> `Hiệu quả cao, linh hoạt và dễ học`
+26. **Hình thức lưu trữ nào kết hợp cả đám mây và cục bộ:** -> `Lưu trữ lai (Hybrid Storage)`
+27. **Muốn bảo vệ dữ liệu khảo sát trong USB:** -> `Mã hóa USB bằng VeraCrypt`
+28. **Tại sao Pandas lại được coi là "linh hoạt" trong thao tác dữ liệu:** -> `Vì nó cung cấp vô số phương pháp để thao tác dữ liệu theo nhiều cách khác nhau, từ đơn giản đến phức tạp`
+29. **Trong mô hình IMVAIN, chữ “M” nghĩa là gì:** -> `Multiple sources (Nhiều nguồn)`
+30. **Lưu trữ đám mây là gì:** -> `Lưu trữ dữ liệu trên máy chủ từ xa qua Internet`
+
 
 ---
 
