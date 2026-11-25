@@ -587,7 +587,7 @@
 
 ---
 
-### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 5 (30 CÂU TRẮC NGHIỆM)
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 5 (30 CÂU TRẮC NGHIỆM - ĐỀ 1)
 1. **Khi tạo tài liệu học tập cá nhân, bạn nên:** -> `Ghi chú có hệ thống, cập nhật định kỳ`
 2. **Một khoá học có nội dung tốt khi nào:** -> `Nội dung cập nhật, có kiểm định`
 3. **Tại sao nên dùng từ khoá tiếng Anh khi tìm tài liệu công nghệ:** -> `Nguồn tài liệu cập nhật hơn, chuẩn hơn`
@@ -618,6 +618,39 @@
 28. **Khi thấy công nghệ mới phù hợp hơn (câu lặp lại):** -> `Đề xuất thử nghiệm và áp dụng`
 29. **Để lọc dữ liệu nhanh, bạn nên:** -> `Sử dụng Filter`
 30. **Video từ nguồn nào sau đây có độ tin cậy cao nhất:** -> `Kênh YouTube chính thức của hãng`
+
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 5 - ĐỀ 2 (ĐỀ BIẾN THỂ 30 CÂU)
+1. **Khi thấy công nghệ mới phù hợp hơn, bạn nên:** -> `Đề xuất thử nghiệm và áp dụng`
+2. **Để phân quyền chỉnh sửa file online, bạn cần:** -> `Thiết lập quyền chia sẻ phù hợp`
+3. **Biểu đồ nào thể hiện xu hướng tốt nhất?** -> `Line Chart`
+4. **Để tạo biểu đồ nhanh, bạn nên:** -> `Chọn dữ liệu → Insert → Chart`
+5. **Khi thấy đồng nghiệp gặp lỗi lặp lại, bạn nên:** -> `Chia sẻ kinh nghiệm và cách khắc phục`
+6. **Khi gặp lỗi “Device not recognized”, bạn nên:** -> `Cài lại driver thiết bị`
+7. **Khi tra cứu tài liệu AI, cách lọc tài liệu nào hiệu quả nhất?** -> `Theo chủ đề + năm xuất bản`
+8. **Khi tạo tài liệu học tập cá nhân, bạn nên:** -> `Ghi chú có hệ thống, cập nhật định kỳ`
+9. **Khi máy tính khởi động chậm bất thường, bạn nên kiểm tra:** -> `Kiểm tra ứng dụng khởi động cùng máy`
+10. **Khi lỗi phần mềm lặp lại nhiều lần sau khi sửa, bạn nên:** -> `Kiểm tra log lỗi và tra cứu bản vá (patch)`
+11. **Khi gặp lỗi màn hình xanh (Blue Screen), bạn nên:** -> `Ghi lại mã lỗi để tra cứu nguyên nhân`
+12. **Một khoá học có nội dung tốt khi nào?** -> `Nội dung cập nhật, có kiểm định`
+13. **Lỗi phần mềm nào sau đây thuộc loại lỗi logic?** -> `Hàm tính toán cho kết quả sai`
+14. **Khi muốn người dùng chỉ chọn giá trị từ danh sách có sẵn trong bảng tính, bạn dùng:** -> `Data Validation (Drop down list)`
+15. **Để mở rộng quy trình số hoá thành công, bạn cần:** -> `Đào tạo nhân sự sử dụng thành thạo công cụ số`
+16. **Khi tìm thấy tài liệu học tập nhưng không rõ nguồn gốc, bạn nên:** -> `Kiểm tra độ tin cậy của tác giả và nguồn`
+17. **Một cách học sâu công nghệ mới là:** -> `Kết hợp thực hành trên công cụ`
+18. **Biểu đồ cột (Column Chart) phù hợp nhất cho mục đích:** -> `So sánh các nhóm dữ liệu`
+19. **Lỗi Runtime Error thường xảy ra khi nào?** -> `Chương trình đang chạy`
+20. **Khi phát hiện lỗ hổng bảo mật trong hệ thống của tổ chức, thái độ đúng là:** -> `Báo cáo quản trị viên hoặc bộ phận kỹ thuật`
+21. **Để theo dõi tỷ lệ phần trăm chi tiêu của từng danh mục, biểu đồ phù hợp là:** -> `Dùng biểu đồ tròn (Pie chart)`
+22. **Một ví dụ về việc số hoá quy trình làm việc thủ công:** -> `Dùng Google Sheets hoặc các công cụ số khác`
+23. **Nguồn tài liệu chính thức và chuẩn xác nhất khi học một công nghệ mới là:** -> `Trang web của nhà phát triển phần mềm`
+24. **Để đánh giá một quy trình mới sau khi áp dụng công nghệ có hiệu quả hay không, bạn nên:** -> `Thu thập và phân tích dữ liệu thực tế`
+25. **Khi đồng nghiệp chưa quen công cụ mới, bạn nên:** -> `Hỗ trợ và chia sẻ kinh nghiệm`
+26. **Tính năng Conditional Formatting trong bảng tính giúp:** -> `Định dạng dựa theo giá trị`
+27. **Trong Google Sheets, ô (cell) là:** -> `Đơn vị nhỏ nhất để nhập dữ liệu`
+28. **Nếu không kết nối được Wi-Fi sau khi cài lại Windows, bạn nên:** -> `Cài driver card mạng`
+29. **Để nhập dữ liệu tiền tệ chính xác, bạn cần:** -> `Đặt định dạng tiền tệ`
+30. **Khi cần nâng cao kỹ năng công nghệ một cách bài bản, bạn nên:** -> `Tìm khoá học hoặc tài liệu chính thức từ hãng phát triển`
+
 
 
 ---
