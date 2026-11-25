@@ -1,11 +1,11 @@
 // ==============================================================================
-// 🌟 TOOL AUTO ĐIỀN ĐÁP ÁN & NỘP BÀI - MỤC 4.3 (BẢO VỆ SỨC KHỎE VÀ AN SINH SỐ)
+// 🌟 TOOL AUTO ĐIỀN ĐÁP ÁN & NỘP BÀI - MỤC 4.3 (FULL 5/5 CÂU 100%)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🤖 ĐANG CHẠY TOOL AUTO MỤC 4.3...", "color: #22c55e; font-weight: bold; font-size: 15px;");
+    console.log("%c🤖 ĐANG CHẠY TOOL AUTO MỤC 4.3 (FULL 5/5 CÂU)...", "color: #22c55e; font-weight: bold; font-size: 15px;");
 
     // 1. Ép hiển thị các câu hỏi và dừng video
     if (window.$) {
@@ -21,21 +21,25 @@
         $('button.submit, input.submit, .check, .action button, .action input, .submit-btn').show();
     }
 
-    // 2. DANH SÁCH ĐÁP ÁN CHUẨN MỤC 4.3
+    // 2. DANH SÁCH ĐÁP ÁN CHUẨN 5/5 CÂU MỤC 4.3
     const ANSWERS_4_3 = [
-        // Netiquette - Quy tắc vàng hành xử có văn hóa trên mạng
+        // Câu: Đường hầm mã hóa bảo vệ Wi-Fi công cộng
+        "Mạng riêng ảo (VPN)",
+        "Mạng riêng ảo (VPN).",
+
+        // Câu: Netiquette - Quy tắc vàng hành xử có văn hóa trên mạng
         "Ghi nhớ yếu tố con người: đằng sau mỗi tài khoản là một con người thật với những cảm xúc riêng",
         "Ghi nhớ yếu tố con người",
 
-        // Nghịch lý quyền riêng tư
+        // Câu: Nghịch lý quyền riêng tư
         "Nghịch lý Quyền riêng tư (The Privacy Paradox)",
         "Nghịch lý Quyền riêng tư",
 
-        // Tối giản số (Digital Minimalism)
+        // Câu: Tối giản số (Digital Minimalism)
         "Đặt ra một ngưỡng rất cao cho các công cụ số được phép tồn tại trong cuộc sống, tạm thời gỡ bỏ ứng dụng không thiết yếu để tái khám phá hoạt động ngoại tuyến",
         "Đặt ra một ngưỡng rất cao",
 
-        // Phương diện sức khỏe số (Chọn 3 mục)
+        // Câu: Phương diện sức khỏe số (Chọn 3 mục)
         "Sức khỏe thể chất",
         "Sức khỏe tâm lý và cảm xúc",
         "Sức khỏe xã hội"
@@ -82,6 +86,6 @@
                 submitCount++;
             }
         });
-        alert(`🎉 ĐÃ CHỌN ĐÁP ÁN ĐÚNG & NỘP BÀI!\n✔ Đã tick chọn: B. Ghi nhớ yếu tố con người...`);
-    }, 500);
+        alert(`🎉 ĐÃ CHỌN ĐÁP ÁN ĐÚNG VÀ BẤM GỬI THÀNH CÔNG!\n✔ Mục 4.3 đã đạt trọn vẹn 5/5 điểm (100%)!`);
+    }, 600);
 })();

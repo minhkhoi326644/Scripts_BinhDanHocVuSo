@@ -459,6 +459,8 @@
      * 👉 `Nghịch lý Quyền riêng tư (The Privacy Paradox).`
   2. **Quy tắc vàng hành xử có văn hóa trên mạng (Netiquette):**
      * 👉 `Ghi nhớ yếu tố con người: đằng sau mỗi tài khoản là một con người thật với những cảm xúc riêng.`
+  3. **Tạo "đường hầm" mã hóa, bảo vệ lưu lượng khi dùng Wi-Fi công cộng:**
+     * 👉 `Mạng riêng ảo (VPN).`
 
 
 ### 4.4.1 (Gồm 4 Sequence Tab)
