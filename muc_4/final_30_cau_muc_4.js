@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 4 (UNIVERSAL - CẢ 4 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 4 (UNIVERSAL - CẢ 5 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2, Đề 3 & Đề 4 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3, Đề 4 & Đề 5 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 4 (UNIVERSAL - 4 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 4 (UNIVERSAL - 5 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị tất cả các câu hỏi và các nút
     if (window.$) {
@@ -129,7 +129,18 @@
         "Người dùng có xu hướng viết hoa đầu mật khẩu và thêm số ở cuối",
         "Vì không có một giải pháp đơn giản duy nhất để phòng thủ toàn diện",
         "Triển khai các biện pháp để bảo vệ thông tin ở mức độ cao nhất có thể",
-        "Phát hiện các hành vi bất thường, cảnh báo nguy cơ xâm nhập"
+        "Phát hiện các hành vi bất thường, cảnh báo nguy cơ xâm nhập",
+
+        // --- ĐỀ 5 (BỔ SUNG MỚI) ---
+        "Các giám đốc điều hành hoặc người có tài sản lớn",
+        "Bảo vệ mắt và chống mỏi mắt khi dùng màn hình.",
+        "Tiết kiệm năng lượng (chế độ ngủ)",
+        "Exploiting a vulnerability",
+        "Tấn công vì ý thức hệ, gây gián đoạn và hoảng loạn",
+        "Surface web",
+        "Nhìn trộm mật khẩu hoặc mã PIN khi người khác nhập",
+        "Phân đoạn mạng và kiểm soát truy cập mạng",
+        "Chia sẻ các bài viết học thuật, các dự án tham gia và bình luận thông minh trong các nhóm chuyên ngành."
     ];
 
     let selectedCount = 0;

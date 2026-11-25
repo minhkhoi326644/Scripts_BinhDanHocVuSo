@@ -941,6 +941,38 @@
 29. **Thiết bị vật lý như điện thoại, máy tính, cảm biến IoT:** -> `Phần cứng (Hardware).`
 30. **Vai trò quan trọng nhất khi hỗ trợ người gặp khó khăn tâm lý:** -> `Kết nối họ với những người có chuyên môn như phòng tư vấn tâm lý hoặc các đường dây nóng uy tín.`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 4 - ĐỀ 5 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Khi bạn thấy các ứng dụng di động cho phép người dân báo cáo vấn đề môi trường, bạn cảm thấy như thế nào:** -> `Hứng thú và cảm thấy mình có thể đóng góp vào việc bảo vệ môi trường.`
+2. **Dữ liệu cá nhân là gì:** -> `Mọi thông tin liên quan đến một cá nhân đã xác định hoặc có thể xác định`
+3. **Whaling là một hình thức của phishing nhắm vào đối tượng nào:** -> `Các giám đốc điều hành hoặc người có tài sản lớn`
+4. **Hình thức tấn công giả mạo các đơn vị uy tín để lừa người dùng cung cấp thông tin đăng nhập được gọi là gì:** -> `Phishing.`
+5. **Trộm cắp danh tính thường dẫn đến hậu quả gì cho nạn nhân:** -> `Phải chịu trách nhiệm về các khoản nợ phát sinh từ giao dịch gian lận`
+6. **Quy tắc 20-20-20 được đề xuất để giải quyết vấn đề nào sau đây:** -> `Bảo vệ mắt và chống mỏi mắt khi dùng màn hình.`
+7. **Công cụ nào sau đây được khuyến nghị sử dụng để tạo ra một "đường hầm" mã hóa, bảo vệ lưu lượng truy cập khi dùng Wi-Fi công cộng:** -> `Mạng riêng ảo (VPN).`
+8. **Lỗ hổng nghiêm trọng trên máy tính Apple liên quan đến tính năng gì:** -> `Tiết kiệm năng lượng (chế độ ngủ)`
+9. **Để giúp một doanh nghiệp đảm bảo sản phẩm của họ được sản xuất từ nguyên liệu bền vững và có nguồn gốc rõ ràng, công nghệ số nào có thể tạo ra chuỗi cung ứng minh bạch:** -> `Chuỗi khối (Blockchain).`
+10. **Theo tài liệu, vai trò quan trọng nhất của một người bạn khi hỗ trợ người khác gặp khó khăn về tâm lý là gì:** -> `Kết nối họ với những người có chuyên môn như phòng tư vấn tâm lý hoặc các đường dây nóng uy tín`
+11. **Đâu là một thành phần quan trọng trong kế hoạch phục hồi sau thảm họa (DRP):** -> `Xác định RTO và RPO`
+12. **Khi nhận thấy bạn bè có dấu hiệu bị ảnh hưởng tâm lý qua các hoạt động trên mạng, hành động nào sau đây được khuyến khích:** -> `Tiếp cận một cách riêng tư và tế nhị qua tin nhắn để bày tỏ sự quan tâm và sẵn sàng lắng nghe.`
+13. **Tại sao việc mã hóa dữ liệu khi truyền tải lại quan trọng:** -> `Ngăn chặn chặn bắt và nghe trộm dữ liệu`
+14. **Đặc điểm nào của công nghệ số giúp việc gửi một bức ảnh qua mạng internet mà không làm giảm chất lượng:** -> `Tính chính xác và độ tin cậy cao của tín hiệu số.`
+15. **Ba phương diện chính cấu thành nên "Sức khỏe số" theo mô hình của Tổ chức Y tế Thế giới (WHO) là gì:** -> `Sức khỏe thể chất, Sức khỏe tâm lý và cảm xúc, và Sức khỏe xã hội.`
+16. **Khi bạn lưu trữ ảnh trên Google Drive hoặc xem phim trên Netflix, bạn đang sử dụng mô hình công nghệ số nào:** -> `Điện toán đám mây (Cloud Computing).`
+17. **Dữ liệu sinh trắc học gồm loại nào sau đây:** -> `Vân tay, nhận diện khuôn mặt`
+18. **Công nghệ nào tạo ra trải nghiệm nhập vai, giúp người học hiểu rõ hơn về các hệ sinh thái và tác động của ô nhiễm một cách trực quan, sống động:** -> `Thực tế ảo (VR) và Thực tế tăng cường (AR).`
+19. **Hiện tượng "Nghịch lý Quyền riêng tư" (The Privacy Paradox) mô tả điều gì:** -> `Người dùng bày tỏ sự lo ngại về quyền riêng tư nhưng hành động của họ lại không phản ánh điều đó.`
+20. **Xu hướng công nghệ số nào tập trung vào khả năng máy móc học hỏi, suy luận và giải quyết vấn đề như con người:** -> `Trí tuệ nhân tạo (AI).`
+21. **Khi một tác nhân đe dọa tận dụng điểm yếu để gây hại, hành động đó gọi là gì:** -> `Exploiting a vulnerability`
+22. **Một dấu hiệu cho thấy dữ liệu cá nhân có thể đã bị rò rỉ là:** -> `Có người lạ gọi điện và biết rõ thông tin cá nhân`
+23. **Cyberterrorists (khủng bố mạng) khác với tội phạm mạng ở điểm nào:** -> `Tấn công vì ý thức hệ, gây gián đoạn và hoảng loạn`
+24. **Trong mô hình bảo vệ thông tin, ba lớp bảo vệ là gì:** -> `Sản phẩm, con người, chính sách & quy trình`
+25. **Một trong những hiểu biết mà kẻ tấn công có được từ phân tích hàng triệu mật khẩu bị rò rỉ là gì:** -> `Người dùng có xu hướng viết hoa đầu mật khẩu và thêm số ở cuối`
+26. **Loại trang web nào được truy cập thông qua trình duyệt thông thường và được lập chỉ mục bởi công cụ tìm kiếm:** -> `Surface web`
+27. **Shoulder surfing là kỹ thuật tấn công nào sau đây:** -> `Nhìn trộm mật khẩu hoặc mã PIN khi người khác nhập`
+28. **Bảo vệ mạng nội bộ có thể đạt được hiệu quả cao nhất khi sử dụng phương pháp nào:** -> `Phân đoạn mạng và kiểm soát truy cập mạng`
+29. **Ánh sáng xanh phát ra từ màn hình các thiết bị kỹ thuật số gây ảnh hưởng đến giấc ngủ như thế nào:** -> `Ức chế việc sản xuất Melatonin, hormone gây ngủ, khiến khó ngủ hơn.`
+30. **Sinh viên có thể chủ động xây dựng một "dấu chân số tích cực" bằng cách nào:** -> `Chia sẻ các bài viết học thuật, các dự án tham gia và bình luận thông minh trong các nhóm chuyên ngành.`
+
 
 ---
 
