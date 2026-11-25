@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 4 (UNIVERSAL - CẢ 3 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 4 (UNIVERSAL - CẢ 4 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2 & Đề 3 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3 & Đề 4 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 4 (UNIVERSAL)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 4 (UNIVERSAL - 4 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị tất cả các câu hỏi và các nút
     if (window.$) {
@@ -115,7 +115,21 @@
         "Dấu chân số (Digital Footprint)",
         "Phải chịu trách nhiệm về các khoản nợ phát sinh từ giao dịch gian lận",
         "Nếu một lớp bị vượt qua, lớp khác vẫn có thể ngăn chặn tấn công",
-        "Đánh cắp thông tin thẻ thanh toán"
+        "Đánh cắp thông tin thẻ thanh toán",
+
+        // --- ĐỀ 4 (BỔ SUNG MỚI) ---
+        "Phishing.",
+        "Chuyển giao trách nhiệm tổn thất cho bên thứ ba, ví dụ như công ty bảo hiểm",
+        "Công cụ tấn công thay đổi hành vi mỗi lần, gây khó khăn trong việc phát hiện",
+        "Vân tay, nhận diện khuôn mặt",
+        "Trạng thái khỏe mạnh về thể chất, tâm lý và xã hội trong mối quan hệ tương tác với công nghệ kỹ thuật số.",
+        "Sử dụng thiết bị mã hóa mạnh",
+        "Họ tấn công từ bên trong với quyền truy cập hợp pháp",
+        "Yếu tố cố tình tạo và lan truyền thông tin sai sự thật để trục lợi hoặc gây hoang mang.",
+        "Người dùng có xu hướng viết hoa đầu mật khẩu và thêm số ở cuối",
+        "Vì không có một giải pháp đơn giản duy nhất để phòng thủ toàn diện",
+        "Triển khai các biện pháp để bảo vệ thông tin ở mức độ cao nhất có thể",
+        "Phát hiện các hành vi bất thường, cảnh báo nguy cơ xâm nhập"
     ];
 
     let selectedCount = 0;

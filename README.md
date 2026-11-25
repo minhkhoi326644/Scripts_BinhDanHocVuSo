@@ -802,6 +802,38 @@
 29. **Thành phần quan trọng trong kế hoạch phục hồi sau thảm họa (DRP):** -> `Xác định RTO và RPO`
 30. **Khi chứng kiến hành vi bắt nạt trực tuyến (Cyberbullying):** -> `Báo cáo (Report) nội dung vi phạm cho nền tảng và gửi tin nhắn riêng để hỗ trợ nạn nhân.`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 4 - ĐỀ 4 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Thành phần quan trọng trong kế hoạch phục hồi sau thảm họa (DRP):** -> `Xác định RTO và RPO`
+2. **Theo dõi nạn phá rừng sớm và quản lý đa dạng sinh học:** -> `Drone và vệ tinh kết hợp GIS.`
+3. **Bạn bè có dấu hiệu bị ảnh hưởng tâm lý qua mạng:** -> `Tiếp cận một cách riêng tư và tế nhị qua tin nhắn để bày tỏ sự quan tâm và sẵn sàng lắng nghe.`
+4. **Xác thực bằng nhiều yếu tố trong hệ thống IAM:** -> `Xác thực đa yếu tố (MFA)`
+5. **Tấn công giả mạo đơn vị uy tín lừa thông tin đăng nhập:** -> `Phishing.`
+6. **Risk transference trong quản lý rủi ro:** -> `Chuyển giao trách nhiệm tổn thất cho bên thứ ba, ví dụ như công ty bảo hiểm`
+7. **Hội chứng sợ bỏ lỡ (FOMO) đặc trưng bởi:** -> `Mong muốn được kết nối liên tục, thúc đẩy hành vi kiểm tra mạng xã hội một cách ám ảnh.`
+8. **Sự tinh vi của tấn công khiến khó phòng thủ:** -> `Công cụ tấn công thay đổi hành vi mỗi lần, gây khó khăn trong việc phát hiện`
+9. **Dữ liệu sinh trắc học gồm loại nào:** -> `Vân tay, nhận diện khuôn mặt`
+10. **Định nghĩa Sức khỏe số (Digital Health):** -> `Trạng thái khỏe mạnh về thể chất, tâm lý và xã hội trong mối quan hệ tương tác với công nghệ kỹ thuật số.`
+11. **Hiện tượng Text Neck (Cổ tin nhắn) thuộc nhóm sức khỏe nào:** -> `Các vấn đề về cơ xương khớp.`
+12. **Không phải nguyên nhân trực tiếp gây đánh cắp dữ liệu:** -> `Sử dụng thiết bị mã hóa mạnh`
+13. **Mỗi hành động trên mạng đều góp phần tạo nên:** -> `Dấu chân số (Digital Footprint).`
+14. **Giao dịch tài chính trực tuyến an toàn, minh bạch, không thể thay đổi:** -> `Chuỗi khối (Blockchain).`
+15. **Mối đe dọa từ người nội bộ (insiders) nguy hiểm vì:** -> `Họ tấn công từ bên trong với quyền truy cập hợp pháp`
+16. **Dữ liệu cá nhân là gì:** -> `Mọi thông tin liên quan đến một cá nhân đã xác định hoặc có thể xác định`
+17. **Phân biệt Disinformation vs Misinformation:** -> `Yếu tố cố tình tạo và lan truyền thông tin sai sự thật để trục lợi hoặc gây hoang mang.`
+18. **Kẻ tấn công hiểu được gì từ phân tích mật khẩu rò rỉ:** -> `Người dùng có xu hướng viết hoa đầu mật khẩu và thêm số ở cuối`
+19. **Khái niệm Đồng minh số (Digital Allyship):** -> `Sử dụng vị thế và tiếng nói của mình để ủng hộ và bảo vệ các cá nhân hoặc nhóm người yếu thế trên mạng.`
+20. **Tại sao không thể ngăn chặn hoàn toàn tất cả tấn công mạng:** -> `Vì không có một giải pháp đơn giản duy nhất để phòng thủ toàn diện`
+21. **Mục tiêu chính của an ninh thông tin:** -> `Triển khai các biện pháp để bảo vệ thông tin ở mức độ cao nhất có thể`
+22. **Điểm yếu lớn nhất của mật khẩu:** -> `Dựa vào trí nhớ con người có giới hạn`
+23. **Chuỗi cung ứng minh bạch cho sản phẩm bền vững:** -> `Chuỗi khối (Blockchain).`
+24. **Gây quỹ cho dự án trồng rừng quy mô lớn:** -> `Sử dụng các nền tảng gây quỹ cộng đồng trực tuyến (crowdfunding) và mạng xã hội.`
+25. **Vì sao giám sát hành vi người dùng (UBA) cần thiết:** -> `Phát hiện các hành vi bất thường, cảnh báo nguy cơ xâm nhập`
+26. **Loại dữ liệu nào không phải là dữ liệu cá nhân:** -> `Dữ liệu về nhiệt độ không khí trung bình`
+27. **Hệ thống dễ bị tấn công khủng bố mạng nhất:** -> `Hệ thống kiểm soát công nghiệp trọng yếu kết nối Internet`
+28. **Xu hướng máy móc học hỏi, suy luận như con người:** -> `Trí tuệ nhân tạo (AI).`
+29. **Thiết bị vật lý như điện thoại, máy tính, cảm biến IoT:** -> `Phần cứng (Hardware).`
+30. **Vai trò quan trọng nhất khi hỗ trợ người gặp khó khăn tâm lý:** -> `Kết nối họ với những người có chuyên môn như phòng tư vấn tâm lý hoặc các đường dây nóng uy tín.`
+
 
 ---
 
