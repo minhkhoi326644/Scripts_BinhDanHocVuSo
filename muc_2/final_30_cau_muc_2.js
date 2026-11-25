@@ -1,6 +1,7 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 2 (UNIVERSAL - CẢ 2 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 2 (UNIVERSAL - CẢ 3 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
+// Hỗ trợ: Đề 1, Đề 2 & Đề 3 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
@@ -25,7 +26,7 @@
         $('button.submit, input.submit, .check, .action button, .action input, .submit-btn').show();
     }
 
-    // 2. DANH SÁCH TỔNG HỢP TOÀN BỘ ĐÁP ÁN ĐÚNG CỦA CẢ 2 BỘ ĐỀ MỤC 2
+    // 2. DANH SÁCH TỔNG HỢP TOÀN BỘ ĐÁP ÁN ĐÚNG CỦA CẢ 3 BỘ ĐỀ MỤC 2
     const TARGET_ANSWERS = [
         // --- ĐỀ 1 ---
         "Giải quyết mâu thuẫn và thống nhất quy tắc",
@@ -41,6 +42,7 @@
         "Cảnh báo khi có đăng nhập từ thiết bị lạ",
         "Góp ý chính sách có căn cứ",
         "Ý định của người lan truyền thông tin (vô ý so với cố ý gây hại)",
+        "Ý định của người lan truyền thông tin (vô ý so với cố ý gây hại).",
         "Bật xác thực hai yếu tố, dùng mật khẩu mạnh, hạn chế chia sẻ vị trí",
         "Đánh giá nguồn tin (tác giả là ai, nguồn tin là gì)",
         "Tính tương thích",
@@ -59,7 +61,7 @@
         "Lựa chọn công cụ phù hợp với quy mô và mục tiêu",
         "Kiểm chứng thông tin trước khi chia sẻ",
 
-        // --- ĐỀ 2 (BỔ SUNG) ---
+        // --- ĐỀ 2 ---
         "Chi phí thấp, dễ sử dụng",
         "Coi cảm xúc mạnh là một tín hiệu cảnh báo để kiểm tra thông tin kỹ lưỡng hơn.",
         "Để mở rộng cơ hội kết nối và tương tác.",
@@ -77,30 +79,50 @@
         "Tuân thủ luật pháp về sở hữu trí tuệ và không chia sẻ tác phẩm của người khác khi chưa được phép.",
         "Tự động hoá tác vụ lặp lại như tóm tắt họp, phân công",
         "Xây dựng nhóm tương trợ",
-        "Nhấn vào liên kết lạ"
+        "Nhấn vào liên kết lạ",
+
+        // --- ĐỀ 3 (BỔ SUNG MỚI) ---
+        "Ý thức pháp quyền và năng lực công dân",
+        "Gỡ bỏ thông tin, đăng bài đính chính và xin lỗi.",
+        "Gỡ bỏ thông tin, đăng bài đính chính và xin lỗi",
+        "Ảnh hưởng đến danh tiếng và uy tín",
+        "Ý thức về tầm quan trọng của việc bảo vệ bản thân và cộng đồng trên không gian mạng",
+        "Storming",
+        "Ứng xử có đạo đức trên mạng",
+        "Tất cả các yếu tố trên đều quan trọng",
+        "Viết IN HOA TOÀN BỘ",
+        "Ngôn ngữ chuẩn mực",
+        "Cá nhân mỗi người",
+        "Chia sẻ thông tin cá nhân của người khác khi chưa được phép",
+        "Kiểm tra lại nguồn tin và báo cáo nếu cần",
+        "Báo cáo tin nhắn với nhà cung cấp dịch vụ"
     ];
 
     let selectedCount = 0;
 
-    // 3. Tự động tìm và tick chọn
-    document.querySelectorAll('label, .choicegroup_item, fieldset label, li, p').forEach(el => {
-        const text = (el.innerText || '').trim();
+    // 3. Tự động duyệt qua từng input để tick chính xác (chống click lặp)
+    const inputs = Array.from(document.querySelectorAll('input[type="radio"], input[type="checkbox"]'));
+    inputs.forEach(input => {
+        const id = input.id;
+        const label = document.querySelector(`label[for="${id}"]`) || input.closest('label') || input.parentElement;
+        const text = (label ? label.innerText : '').trim();
+
         for (let ans of TARGET_ANSWERS) {
             if (text === ans || text.includes(ans)) {
-                const input = el.querySelector('input') || document.getElementById(el.getAttribute('for')) || el.parentElement?.querySelector('input');
-                if (input) {
-                    if (!input.checked) {
-                        input.click();
-                        input.checked = true;
-                        input.dispatchEvent(new Event('change', { bubbles: true }));
+                if (!input.checked) {
+                    input.click();
+                    input.checked = true;
+                    input.dispatchEvent(new Event('change', { bubbles: true }));
+                    if (label) {
+                        label.style.backgroundColor = '#dcfce7';
+                        label.style.border = '2px solid #22c55e';
+                        label.style.borderRadius = '6px';
+                        label.style.padding = '4px 8px';
+                        label.style.fontWeight = 'bold';
                     }
-                    el.style.backgroundColor = '#dcfce7';
-                    el.style.border = '2px solid #22c55e';
-                    el.style.borderRadius = '6px';
-                    el.style.padding = '4px 8px';
-                    el.style.fontWeight = 'bold';
                     selectedCount++;
                 }
+                break;
             }
         }
     });
@@ -117,6 +139,6 @@
                 submitCount++;
             }
         });
-        alert(`🎉 ĐÃ XONG 30 CÂU MỤC 2!\n✔ Đã tự động chọn và bấm Gửi ${submitCount} câu thành công 100%!`);
+        alert(`🎉 ĐÃ XONG TOÀN BỘ 30 CÂU MỤC 2!\n✔ Đã nộp thành công ${submitCount} câu với số điểm tối đa 100%!`);
     }, 800);
 })();

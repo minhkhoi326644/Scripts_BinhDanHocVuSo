@@ -266,6 +266,37 @@
 29. **Công dân số cần tránh rủi ro nào khi truy cập mạng?** -> `Nhấn vào liên kết lạ`
 30. **Khi sử dụng mạng xã hội, bạn cần làm gì để bảo vệ thông tin cá nhân?** -> `Tất cả các phương án trên`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 2 - ĐỀ 3 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Sử dụng nền tảng số tiếp cận pháp luật thể hiện điều gì?** -> `Ý thức pháp quyền và năng lực công dân`
+2. **Hệ thống giao tiếp trực tuyến hỗ trợ nhiều loại thiết bị:** -> `Tính tương thích`
+3. **Lỡ chia sẻ tin giả, hành động có trách nhiệm nhất:** -> `Gỡ bỏ thông tin, đăng bài đính chính và xin lỗi.`
+4. **Rủi ro tiềm ẩn liên quan đến danh tính số:** -> `Ảnh hưởng đến danh tiếng và uy tín`
+5. **Khi đọc tin tức cảm thấy tức giận hoặc sợ hãi:** -> `Coi cảm xúc mạnh là một tín hiệu cảnh báo để kiểm tra thông tin kỹ lưỡng hơn.`
+6. **Thúc đẩy nâng cao kiến thức quản lý danh tính số:** -> `Ý thức về tầm quan trọng của việc bảo vệ bản thân và cộng đồng trên không gian mạng`
+7. **Kiến thức giúp tương tác hiệu quả nhất với người dùng internet:** -> `Nguyên tắc cộng đồng`
+8. **Email phù hợp hơn ứng dụng nhắn tin cho mục đích nào:** -> `Gửi các thông điệp dài, trang trọng, có đính kèm tệp tin chính thức như CV, báo cáo.`
+9. **Giai đoạn khó khăn nhất trong mô hình Tuckman:** -> `Storming`
+10. **Hành vi công dân số có trách nhiệm gồm:** -> `Ứng xử có đạo đức trên mạng`
+11. **Trách nhiệm quan trọng của Công dân số:** -> `Tuân thủ luật pháp về sở hữu trí tuệ và không chia sẻ tác phẩm của người khác khi chưa được phép.`
+12. **Thế mạnh của Google Workspace for Education:** -> `Cộng tác thời gian thực, giao diện đơn giản`
+13. **Yếu tố xem xét khi chọn công cụ giao tiếp cho dự án phức tạp:** -> `Tất cả các phương án trên`
+14. **Giúp những người gặp khó khăn khi tương tác trực tuyến:** -> `Giúp họ làm quen`
+15. **Sự khác biệt cốt lõi giữa Misinformation và Disinformation:** -> `Ý định của người lan truyền thông tin (vô ý so với cố ý gây hại).`
+16. **Hậu quả chia sẻ quá nhiều thông tin cá nhân:** -> `Tất cả các hậu quả trên`
+17. **Netiquette là gì:** -> `Bộ quy tắc ứng xử trên mạng`
+18. **Khi nhận được tin giả hoặc thông tin chưa kiểm chứng:** -> `Kiểm tra nguồn tin từ nhiều nguồn đáng tin cậy`
+19. **Công dân số cần tránh rủi ro nào khi truy cập mạng:** -> `Nhấn vào liên kết lạ`
+20. **Quan trọng nhất xây dựng cộng đồng trực tuyến bền vững:** -> `Tất cả các yếu tố trên đều quan trọng`
+21. **Dấu chân số là gì:** -> `Dấu vết dữ liệu được tạo ra khi sử dụng Internet`
+22. **Nguyên tắc khi phản ánh qua nền tảng số:** -> `Đính kèm bằng chứng rõ ràng`
+23. **Hành vi vi phạm Netiquette:** -> `Viết IN HOA TOÀN BỘ`
+24. **Giao tiếp số trong giáo dục và hành chính cần nguyên tắc:** -> `Ngôn ngữ chuẩn mực`
+25. **Tiêu chí ưu tiên khi chọn công cụ hợp tác cho sinh viên:** -> `Chi phí thấp, dễ sử dụng`
+26. **Ai nên chịu trách nhiệm chính bảo vệ danh tính số:** -> `Cá nhân mỗi người`
+27. **Hành vi vi phạm quy tắc ứng xử trên mạng:** -> `Chia sẻ thông tin cá nhân của người khác khi chưa được phép`
+28. **Dấu chân số bị động được tạo ra khi nào:** -> `Khi dữ liệu của người dùng bị thu thập mà họ không hề hay biết.`
+29. **Khi thấy một thông tin có dấu hiệu sai lệch:** -> `Kiểm tra lại nguồn tin và báo cáo nếu cần`
+30. **Khi nhận được một tin nhắn đe dọa trên mạng:** -> `Báo cáo tin nhắn với nhà cung cấp dịch vụ`
 
 ---
 
