@@ -658,6 +658,38 @@
 29. **Hệ thống dễ bị tấn công khủng bố mạng nhất:** -> `Hệ thống kiểm soát công nghiệp trọng yếu kết nối Internet`
 30. **Hoax (tin giả) có thể gây hại bằng cách:** -> `Lừa người dùng xóa file hệ thống hoặc cấu hình bảo mật`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 4 - ĐỀ 3 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Ánh sáng xanh ảnh hưởng giấc ngủ như thế nào:** -> `Ức chế việc sản xuất Melatonin, hormone gây ngủ, khiến khó ngủ hơn.`
+2. **Sản xuất bền vững, chuỗi cung ứng minh bạch:** -> `Chuỗi khối (Blockchain).`
+3. **Kỹ thuật xã hội (social engineering) là gì:** -> `Dựa vào thao túng tâm lý con người để lấy thông tin hoặc hành động`
+4. **Dữ liệu cá nhân là gì:** -> `Mọi thông tin liên quan đến một cá nhân đã xác định hoặc có thể xác định`
+5. **Vì sao dữ liệu cá nhân là mục tiêu tấn công mạng:** -> `Vì có thể bị khai thác để giả mạo, lừa đảo`
+6. **Hội chứng sợ bỏ lỡ (FOMO) đặc trưng bởi:** -> `Mong muốn được kết nối liên tục, thúc đẩy hành vi kiểm tra mạng xã hội một cách ám ảnh.`
+7. **Hiện tượng "Nghịch lý Quyền riêng tư" (The Privacy Paradox):** -> `Người dùng bày tỏ sự lo ngại về quyền riêng tư nhưng hành động của họ lại không phản ánh điều đó.`
+8. **Phương pháp kiểm chứng thông tin SIFT gồm 4 bước:** -> `Dừng lại (Stop), Điều tra nguồn tin (Investigate the source), Tìm các nguồn tin khác (Find better coverage), và Truy tìm lại các trích dẫn (Trace claims).`
+9. **Hiện tượng "Text Neck" (Cổ tin nhắn) thuộc nhóm sức khỏe nào:** -> `Các vấn đề về cơ xương khớp.`
+10. **Hoax (tin giả) có thể gây hại bằng cách nào:** -> `Lừa người dùng xóa file hệ thống hoặc cấu hình bảo mật`
+11. **Hành vi viết in hoa toàn bộ một câu:** -> `Hành động la hét vào người khác.`
+12. **Điểm yếu lớn nhất của mật khẩu:** -> `Dựa vào trí nhớ con người có giới hạn`
+13. **Lý do không nên đăng kế hoạch du lịch trên MXH:** -> `Gây nguy cơ bị kẻ trộm nhắm đến`
+14. **Theo dõi nạn phá rừng sớm và quản lý đa dạng sinh học:** -> `Drone và vệ tinh kết hợp GIS.`
+15. **Lưu trữ ảnh Google Drive hoặc xem phim Netflix:** -> `Điện toán đám mây (Cloud Computing).`
+16. **Phương thức tấn công phổ biến vào PoS:** -> `Gửi email giả dạng ứng viên xin việc với file Word chứa mã độc`
+17. **Tấn công lừa đảo giả lập trong đào tạo nhân viên:** -> `Kiểm tra khả năng nhận diện và phản ứng của nhân viên`
+18. **Khái niệm "Đồng minh số" (Digital Allyship):** -> `Sử dụng vị thế và tiếng nói của mình để ủng hộ và bảo vệ các cá nhân hoặc nhóm người yếu thế trên mạng.`
+19. **Gửi ảnh qua mạng không làm giảm chất lượng:** -> `Tính chính xác và độ tin cậy cao của tín hiệu số.`
+20. **Công nghệ cho nông trại cảm biến đo độ ẩm đất:** -> `Internet vạn vật (IoT).` *(hoặc `Trí tuệ nhân tạo (AI).` nếu hỏi về suy luận)*
+21. **Một trong những nguyên tắc bảo vệ dữ liệu cá nhân:** -> `Thu thập có mục đích rõ ràng và có sự đồng ý`
+22. **Ba lớp bảo vệ trong mô hình bảo vệ thông tin:** -> `Sản phẩm, con người, chính sách & quy trình`
+23. **Hệ thống Lưới điện thông minh (Smart Grid) bảo vệ môi trường:** -> `Quản lý và phân phối điện hiệu quả hơn, tích hợp năng lượng tái tạo.`
+24. **Vì sao chậm trễ cập nhật bảo mật là vấn đề nghiêm trọng:** -> `Vì số lượng phần mềm độc hại được phát hiện mỗi ngày quá lớn`
+25. **Mỗi hành động trên mạng đều tạo nên:** -> `Dấu chân số (Digital Footprint).`
+26. **Trộm cắp danh tính dẫn đến hậu quả gì:** -> `Phải chịu trách nhiệm về các khoản nợ phát sinh từ giao dịch gian lận`
+27. **Lý do bảo mật theo lớp (defense in depth) được ưa chuộng:** -> `Nếu một lớp bị vượt qua, lớp khác vẫn có thể ngăn chặn tấn công`
+28. **Loại tội phạm mạng người Mỹ lo ngại và trải nghiệm nhiều nhất:** -> `Đánh cắp thông tin thẻ thanh toán`
+29. **Thành phần quan trọng trong kế hoạch phục hồi sau thảm họa (DRP):** -> `Xác định RTO và RPO`
+30. **Khi chứng kiến hành vi bắt nạt trực tuyến (Cyberbullying):** -> `Báo cáo (Report) nội dung vi phạm cho nền tảng và gửi tin nhắn riêng để hỗ trợ nạn nhân.`
+
 
 ---
 

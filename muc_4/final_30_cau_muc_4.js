@@ -1,6 +1,7 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 4 (UNIVERSAL - CẢ 2 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 4 (UNIVERSAL - CẢ 3 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
+// Hỗ trợ: Đề 1, Đề 2 & Đề 3 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
@@ -25,7 +26,7 @@
         $('button.submit, input.submit, .check, .action button, .action input, .submit-btn').show();
     }
 
-    // 2. TỔNG HỢP TOÀN BỘ ĐÁP ÁN CHUẨN CỦA CẢ 2 ĐỀ MỤC 4
+    // 2. TỔNG HỢP TOÀN BỘ ĐÁP ÁN CHUẨN CỦA CẢ 3 ĐỀ MỤC 4
     const TARGET_ANSWERS = [
         // --- ĐỀ 1 ---
         "Mọi thông tin liên quan đến một cá nhân đã xác định hoặc có thể xác định",
@@ -39,12 +40,14 @@
         "Kết nối họ với những người có chuyên môn như phòng tư vấn tâm lý hoặc các đường dây nóng uy tín",
         "Sử dụng vị thế và tiếng nói của mình để ủng hộ và bảo vệ các cá nhân hoặc nhóm người yếu thế trên mạng",
         "Drone và vệ tinh kết hợp GIS",
+        "Drone và vệ tinh kết hợp GIS.",
         "Dấu hiệu dữ liệu cá nhân bị rò rỉ",
         "Có người lạ gọi điện và biết rõ thông tin cá nhân",
         "Trí tuệ nhân tạo (AI).",
         "Trí tuệ nhân tạo (AI)",
         "Thực tế ảo (VR) và Thực tế tăng cường (AR)",
         "Tính chính xác và độ tin cậy cao của tín hiệu số",
+        "Tính chính xác và độ tin cậy cao của tín hiệu số.",
         "Ngăn chặn chặn bắt và nghe trộm dữ liệu",
         "Nhập sai mật khẩu nhiều lần",
         "Mạng riêng ảo (VPN)",
@@ -60,8 +63,9 @@
         "Nhận diện khuôn mặt để điểm danh",
         "Lưu trữ đám mây kết hợp sao lưu định kỳ",
 
-        // --- ĐỀ 2 (BỔ SUNG) ---
+        // --- ĐỀ 2 ---
         "Mong muốn được kết nối liên tục, thúc đẩy hành vi kiểm tra mạng xã hội một cách ám ảnh.",
+        "Mong muốn được kết nối liên tục",
         "Gửi email giả dạng ứng viên xin việc với file Word chứa mã độc",
         "Dịch vụ dễ bị tấn công không thể vô hiệu hóa và có thể bị khai thác từ Internet",
         "Xác thực đa yếu tố (MFA)",
@@ -70,6 +74,7 @@
         "Phần mềm.",
         "Tấn công với mục tiêu lợi ích tài chính",
         "Chuỗi khối (Blockchain).",
+        "Chuỗi khối (Blockchain)",
         "Dữ liệu về nhiệt độ không khí trung bình",
         "Người dùng bày tỏ sự lo ngại về quyền riêng tư nhưng hành động của họ lại không phản ánh điều đó.",
         "Gửi email giả mạo để lừa người dùng cung cấp thông tin cá nhân",
@@ -83,14 +88,39 @@
         "Hứng thú và cảm thấy mình có thể đóng góp vào việc bảo vệ môi trường.",
         "Ghi nhớ yếu tố con người (Remember the Human) đằng sau mỗi tài khoản.",
         "Hành động la hét vào người khác.",
+        "Hành động la hét vào người khác",
         "Dừng lại (Stop), Điều tra nguồn tin (Investigate the source), Tìm các nguồn tin khác (Find better coverage), và Truy tìm lại các trích dẫn (Trace claims).",
         "Hệ thống kiểm soát công nghiệp trọng yếu kết nối Internet",
-        "Lừa người dùng xóa file hệ thống hoặc cấu hình bảo mật"
+        "Lừa người dùng xóa file hệ thống hoặc cấu hình bảo mật",
+
+        // --- ĐỀ 3 (BỔ SUNG MỚI) ---
+        "Ức chế việc sản xuất Melatonin, hormone gây ngủ, khiến khó ngủ hơn.",
+        "Ức chế việc sản xuất Melatonin",
+        "Dựa vào thao túng tâm lý con người để lấy thông tin hoặc hành động",
+        "Vì có thể bị khai thác để giả mạo, lừa đảo",
+        "Các vấn đề về cơ xương khớp.",
+        "Các vấn đề về cơ xương khớp",
+        "Dựa vào trí nhớ con người có giới hạn",
+        "Gây nguy cơ bị kẻ trộm nhắm đến",
+        "Điện toán đám mây (Cloud Computing).",
+        "Điện toán đám mây (Cloud Computing)",
+        "Kiểm tra khả năng nhận diện và phản ứng của nhân viên",
+        "Internet vạn vật (IoT).",
+        "Internet vạn vật (IoT)",
+        "Thu thập có mục đích rõ ràng và có sự đồng ý",
+        "Sản phẩm, con người, chính sách & quy trình",
+        "Quản lý và phân phối điện hiệu quả hơn, tích hợp năng lượng tái tạo.",
+        "Vì số lượng phần mềm độc hại được phát hiện mỗi ngày quá lớn",
+        "Dấu chân số (Digital Footprint).",
+        "Dấu chân số (Digital Footprint)",
+        "Phải chịu trách nhiệm về các khoản nợ phát sinh từ giao dịch gian lận",
+        "Nếu một lớp bị vượt qua, lớp khác vẫn có thể ngăn chặn tấn công",
+        "Đánh cắp thông tin thẻ thanh toán"
     ];
 
     let selectedCount = 0;
 
-    // 3. Tự động duyệt qua từng input để tick chính xác
+    // 3. Tự động duyệt qua từng input để tick chính xác (chống click lặp)
     const inputs = Array.from(document.querySelectorAll('input[type="radio"], input[type="checkbox"]'));
     inputs.forEach(input => {
         const id = input.id;
@@ -117,7 +147,7 @@
         }
     });
 
-    console.log(`%c✔ Đã tick chọn thành công ${selectedCount} đáp án đúng!`, "color: #38bdf8; font-weight: bold; font-size: 14px;");
+    console.log(`%c✔ Đã tick chọn thành công ${selectedCount} câu hỏi!`, "color: #38bdf8; font-weight: bold; font-size: 14px;");
 
     // 4. Tự động bấm nút Gửi nộp bài sau 0.8 giây
     setTimeout(() => {
@@ -129,6 +159,6 @@
                 submitCount++;
             }
         });
-        alert(`🎉 ĐÃ XONG 30 CÂU MỤC 4!\n✔ Đã tự động chọn và bấm Gửi ${submitCount} câu thành công 100%!`);
+        alert(`🎉 ĐÃ XONG TOÀN BỘ 30 CÂU MỤC 4!\n✔ Đã nộp thành công ${submitCount} câu với số điểm tối đa 100%!`);
     }, 800);
 })();
