@@ -35,6 +35,7 @@
 * Dữ liệu có cấu trúc: `Bảng Excel chứa danh sách điểm sinh viên`
 * Đọc lướt chú ý in đậm / bullet point: `Vì chúng làm nổi bật các điểm chính`
 * Google Scholar chuyên về: `Các tài liệu học thuật từ các nhà xuất bản khoa học, kho lưu trữ mở, trường đại học.`
+* Web scraping là gì: `Tự động trích xuất dữ liệu từ trang web`
 * Phân loại dữ liệu quan trọng vì: `Để lựa chọn công nghệ và phương pháp phù hợp cho việc thu thập, lưu trữ, xử lý và phân tích dữ liệu...`
 * Ví dụ dữ liệu bán cấu trúc: `Tệp JSON chứa thông tin sinh viên và khóa học`
 * Toán tử `filetype:`: `Tìm kiếm loại tệp cụ thể như PDF`

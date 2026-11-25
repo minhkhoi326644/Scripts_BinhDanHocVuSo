@@ -38,6 +38,7 @@
         "Các tài liệu học thuật từ các nhà xuất bản khoa học, kho lưu trữ mở, trường đại học",
 
         // --- PHẦN 2 (p2) ---
+        "Tự động trích xuất dữ liệu từ trang web",
         "Để lựa chọn công nghệ và phương pháp phù hợp cho việc thu thập, lưu trữ, xử lý và phân tích dữ liệu",
         "Tệp JSON chứa thông tin sinh viên và khóa học",
         "Tìm kiếm loại tệp cụ thể như PDF",

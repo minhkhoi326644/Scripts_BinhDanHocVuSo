@@ -29,25 +29,20 @@
 
     // 2. DANH SÁCH ĐÁP ÁN ĐÚNG CỦA MỤC 1.1 PHẦN 2
     const ANSWERS_1_1_P2 = [
-        // Phân loại dữ liệu quan trọng vì
+        // Câu 1: Google Scholar
+        "Các tài liệu học thuật từ các nhà xuất bản khoa học, kho lưu trữ mở, trường đại học",
+        // Câu 2: Web scraping là gì
+        "Tự động trích xuất dữ liệu từ trang web",
+        // Các câu hỏi liên quan khác của 1.1 p2
         "Để lựa chọn công nghệ và phương pháp phù hợp cho việc thu thập, lưu trữ, xử lý và phân tích dữ liệu",
-        // Ví dụ dữ liệu bán cấu trúc
         "Tệp JSON chứa thông tin sinh viên và khóa học",
-        // Toán tử filetype:
         "Tìm kiếm loại tệp cụ thể như PDF",
-        // Mục đích đọc lướt (Skimming)
         "Nhanh chóng xác định ý chính hoặc tính liên quan",
-        // Lọc theo điều kiện đơn giản trong Excel
         "Lọc dữ liệu dựa trên một giá trị hoặc so sánh",
-        // Mục đích của lọc dữ liệu
         "Loại bỏ nhiễu và giữ thông tin cần thiết",
-        // Phân tích dữ liệu là gì
         "Quá trình thu thập, xử lý và diễn giải dữ liệu",
-        // Xác định rõ mục tiêu duyệt trước khi tìm kiếm
         "Để giúp bạn tập trung hơn và tránh bị phân tán bởi các thông tin không liên quan",
-        "Để tránh bị phân tán bởi thông tin không liên quan",
-        // Google Scholar
-        "Các tài liệu học thuật từ các nhà xuất bản khoa học, kho lưu trữ mở, trường đại học"
+        "Để tránh bị phân tán bởi thông tin không liên quan"
     ];
 
     let selectedCount = 0;
