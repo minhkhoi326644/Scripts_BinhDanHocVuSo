@@ -709,7 +709,7 @@
 
 ---
 
-### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 6 (30 CÂU TRẮC NGHIỆM)
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 6 (30 CÂU TRẮC NGHIỆM - ĐỀ 1)
 1. **GenAI là viết tắt của cụm từ nào:** -> `Generative Artificial Intelligence`
 2. **Quy trình đánh giá hiệu quả của AI nên bao gồm:** -> `So sánh hiệu quả công việc trước và sau khi dùng AI`
 3. **Sai lầm phổ biến khi triển khai AI trong doanh nghiệp:** -> `Không tích hợp dữ liệu đầu vào từ nhiều nguồn`
@@ -740,3 +740,36 @@
 28. **Câu nào sau đây không đúng về AI:** -> `AI luôn đưa ra quyết định chính xác`
 29. **Tại sao AI có thể gây thiên lệch trong quyết định:** -> `Dữ liệu huấn luyện có thể thiếu đa dạng và không công bằng`
 30. **GenAI KHÔNG phù hợp với nhiệm vụ nào nếu không có can thiệp của con người:** -> `Phát hiện gian lận học thuật`
+
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 6 - ĐỀ 2 (ĐỀ BIẾN THỂ 30 CÂU)
+1. **Học máy (Machine Learning) giúp máy tính làm gì?** -> `Học từ dữ liệu và cải thiện hiệu suất theo thời gian`
+2. **AI có thể hỗ trợ trong lĩnh vực nào sau đây?** -> `Tất cả các phương án trên`
+3. **Điều gì là cần thiết để AI phát triển bền vững và có đạo đức?** -> `Tuân thủ quy định pháp luật và bảo vệ quyền con người`
+4. **Stable Diffusion là gì và ứng dụng chính của nó là gì:** -> `Một mô hình học sâu chuyển văn bản thành hình ảnh`
+5. **Runway và Pika là công cụ GenAI chuyên dùng cho:** -> `Tạo video từ mô tả văn bản`
+6. **Vì sao ChatGPT không nên sử dụng làm nguồn duy nhất để viết báo cáo học thuật?** -> `Vì có thể tạo ra thông tin sai hoặc không được kiểm chứng`
+7. **Vì sao cần kiểm tra đầu ra của GenAI trong các ứng dụng sáng tạo nội dung?** -> `Vì đôi khi nội dung bị đạo văn`
+8. **Một trong những thách thức lớn nhất khi triển khai AI là gì?** -> `Khó khăn trong thu thập và xử lý dữ liệu`
+9. **Một trong những cách để giảm rủi ro khi triển khai AI là gì?** -> `Áp dụng nguyên tắc bảo mật và kiểm soát dữ liệu`
+10. **AI có thể thay thế con người hoàn toàn trong các lĩnh vực nào sau đây?** -> `Công việc lặp lại và xử lý dữ liệu cơ bản`
+11. **Trí tuệ nhân tạo (AI) là gì?** -> `Công nghệ giúp máy móc thể hiện trí thông minh như con người`
+12. **Kỹ thuật Style Transfer trong AI sáng tạo hình ảnh hoạt động như thế nào?** -> `Phân tích ảnh gốc để sao chép màu sắc và phong cách sang ảnh khác`
+13. **Công cụ nào phù hợp nhất để tạo nội dung video quảng cáo từ mô tả văn bản?** -> `Runway`
+14. **Sau khi áp dụng AI vào quy trình làm việc, chỉ số nào không nên được sử dụng duy nhất để đánh giá hiệu quả?** -> `Chi phí đầu tư ban đầu`
+15. **Quy trình đánh giá hiệu quả của AI nên bao gồm điều nào sau đây?** -> `So sánh hiệu quả công việc trước và sau khi dùng AI`
+16. **Một công cụ AI sẽ ít hữu ích nhất trong trường hợp nào sau đây?** -> `Ra quyết định tuyển dụng cuối cùng thay giám đốc`
+17. **Việc AI đưa ra quyết định mà người dùng không hiểu rõ cách thức hoạt động gọi là gì?** -> `Hiện tượng "hộp đen" (black box)`
+18. **Công cụ DALL·E chủ yếu được dùng trong lĩnh vực nào?** -> `Thiết kế hình ảnh`
+19. **Một ví dụ cụ thể về việc sử dụng AI một cách thiếu đạo đức là:** -> `Phân tích CV ứng viên dựa trên tên và giới tính`
+20. **Câu nào sau đây đúng với AI?** -> `AI có thể học hỏi từ dữ liệu`
+21. **Một ứng dụng cụ thể của AI trong quy trình làm việc là gì?** -> `Viết báo cáo tự động dựa trên dữ liệu đầu vào`
+22. **ChatGPT có thể “hiểu” ngữ cảnh trò chuyện theo cách nào?** -> `Dựa vào đoạn hội thoại trước đó trong cùng một phiên làm việc`
+23. **Đâu là một ví dụ về rủi ro đạo đức tiềm ẩn của AI?** -> `Phân loại khách hàng dựa trên khu vực địa lý có thiên lệch`
+24. **Trong lĩnh vực giáo dục, AI có thể giúp gì cho người học?** -> `Phân tích năng lực và gợi ý lộ trình học tập phù hợp`
+25. **Một trong những thách thức lớn nhất khi sử dụng AI là gì?** -> `Nguy cơ vi phạm quyền riêng tư và đạo đức`
+26. **ShakkerAI được xem là lựa chọn thay thế hoàn hảo cho nền tảng nào?** -> `Midjourney`
+27. **AI có thể giúp ích gì trong lĩnh vực giao thông?** -> `Điều tiết giao thông thông minh và dự đoán ùn tắc`
+28. **AI có thể ảnh hưởng tiêu cực gì đến việc làm?** -> `Thay thế con người trong một số công việc`
+29. **Một điểm khác biệt giữa DALL·E và Midjourney là gì?** -> `DALL·E tích hợp với ChatGPT, Midjourney chỉ hoạt động qua Discord`
+30. **Câu nào sau đây không đúng về AI?** -> `AI luôn đưa ra quyết định chính xác`
+
