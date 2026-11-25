@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 1 (UNIVERSAL - CẢ 3 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 1 (UNIVERSAL - CẢ 4 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2 & Đề 3 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3 & Đề 4 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 1 (UNIVERSAL)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 1 (UNIVERSAL - 4 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị các câu hỏi và nút Submit
     if (window.$) {
@@ -110,7 +110,27 @@
         "Kiểm tra HTML hoặc API bằng công cụ Inspect",
         "Khác nhau về chủ sở hữu và trách nhiệm pháp lý",
         "Đáng tin cậy hơn",
-        "Phân tích đề xuất"
+        "Phân tích đề xuất",
+
+        // --- ĐỀ 4 (BỔ SUNG MỚI) ---
+        "Xem biểu đồ doanh thu và chú thích trước",
+        "Mục đích của thông tin (giải trí, giáo dục, quảng cáo...)",
+        "Dễ truy xuất, đảm bảo toàn vẹn và bảo mật",
+        "Mã hóa đối xứng",
+        "Khối lượng",
+        "Tổ chức khoa học và truy xuất nhanh",
+        "Cho phép thảo luận, góp ý mà không làm thay đổi nội dung chính",
+        "Quy định (prescriptive analytics)",
+        "Tìm kiếm ngược hình ảnh",
+        "Nguồn độc lập và có thể kiểm chứng",
+        "Sử dụng thuật ngữ MeSH và bộ lọc chi tiết",
+        "Tạo bản lưu riêng để chỉnh sửa mà không ảnh hưởng bản gốc",
+        "Không rõ nội dung và không theo cấu trúc chuẩn",
+        "Sao lưu toàn bộ",
+        "Chuyên môn và uy tín của tác giả",
+        "Khi dữ liệu huấn luyện sai hoặc lỗi ngữ cảnh",
+        "Các bộ dữ liệu lớn",
+        "Kiểm chứng lại với các nguồn tin cậy"
     ];
 
     let selectedCount = 0;

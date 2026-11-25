@@ -147,6 +147,38 @@
 29. **Đánh giá độ tin cậy tên miền .gov và .edu so với .com:** -> `Đáng tin cậy hơn`
 30. **Hệ thống đề xuất phim phù hợp dựa trên lịch sử là phân tích gì:** -> `Phân tích đề xuất`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 1 - ĐỀ 4 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Kỹ thuật đọc lướt hiệu quả khi xử lý báo cáo tài chính là gì:** -> `Xem biểu đồ doanh thu và chú thích trước`
+2. **Mục đích chính của kỹ thuật đọc lướt (Skimming) là gì:** -> `Nhanh chóng xác định ý chính hoặc tính liên quan`
+3. **“Purpose” trong CRAAP đề cập đến điều gì:** -> `Mục đích của thông tin (giải trí, giáo dục, quảng cáo...)`
+4. **Một nguyên tắc cốt lõi của quản lý dữ liệu là gì:** -> `Dễ truy xuất, đảm bảo toàn vẹn và bảo mật`
+5. **Công cụ miễn phí nào sau đây hỗ trợ mã hóa thư mục trong Windows:** -> `7-Zip`
+6. **Trong tình huống thiết bị cá nhân bị đánh cắp, chiến lược bảo vệ dữ liệu:** -> `Dùng lưu trữ đám mây có xác thực hai lớp, kết hợp bản sao ngoại tuyến`
+7. **Hệ thống mã hóa nào sử dụng cùng một khóa cho cả mã hóa và giải mã:** -> `Mã hóa đối xứng`
+8. **Bước nào trong quy trình web scraping là phân tích cấu trúc trang web:** -> `Kiểm tra HTML hoặc API bằng công cụ Inspect`
+9. **Vì sao nên chú ý đến các từ in đậm hoặc bullet point khi đọc lướt:** -> `Vì chúng làm nổi bật các điểm chính`
+10. **Ví dụ nào là dữ liệu có cấu trúc:** -> `Cơ sở dữ liệu khách hàng với ID, Tên, Email, Thành phố`
+11. **Đặc điểm nào trong mô hình 4V mô tả lượng dữ liệu số tăng theo cấp số nhân:** -> `Khối lượng`
+12. **Trong Google Drive, tạo thư mục con cho từng môn học nhằm mục đích gì:** -> `Tổ chức khoa học và truy xuất nhanh`
+13. **Khi dùng Google để kiểm tra tính chính xác của một tuyên bố:** -> `Kiểm tra chéo thông tin (Cross-referencing)`
+14. **Trong CRAAP, tiêu chí nào liên quan đến mục đích của thông tin:** -> `Purpose`
+15. **Một lợi ích quan trọng của tính năng “comment” trong Google Docs là gì:** -> `Cho phép thảo luận, góp ý mà không làm thay đổi nội dung chính`
+16. **Loại hình phân tích nào sử dụng AI để gợi ý hành động:** -> `Quy định (prescriptive analytics)`
+17. **Để xác minh tính xác thực của ảnh sự kiện trên mạng xã hội, bạn nên làm gì:** -> `Tìm kiếm ngược hình ảnh`
+18. **Yếu tố nào sau đây là một trong các tiêu chí của IMVAIN:** -> `Nguồn độc lập và có thể kiểm chứng`
+19. **Làm thế nào để tối ưu hóa tìm kiếm trên PubMed:** -> `Sử dụng thuật ngữ MeSH và bộ lọc chi tiết`
+20. **Thao tác tạo bản sao (Make a copy) trong Google Drive dùng để:** -> `Tạo bản lưu riêng để chỉnh sửa mà không ảnh hưởng bản gốc`
+21. **Một trong những thách thức khi dùng AI trong xác minh thông tin là gì:** -> `Thiếu khả năng kiểm tra nguồn đáng tin`
+22. **Tên tệp tin “final_final.doc” có vấn đề gì:** -> `Không rõ nội dung và không theo cấu trúc chuẩn`
+23. **Trong sao lưu dữ liệu, phương pháp nào lưu toàn bộ dữ liệu tại một thời điểm:** -> `Sao lưu toàn bộ`
+24. **Khi đánh giá thông tin theo mô hình CRAAP, tiêu chí "Authority" liên quan đến:** -> `Chuyên môn và uy tín của tác giả`
+25. **ChatGPT có thể cung cấp thông tin sai trong trường hợp nào:** -> `Khi dữ liệu huấn luyện sai hoặc lỗi ngữ cảnh`
+26. **Pandas được tối ưu hóa để xử lý loại bộ dữ liệu nào một cách nhanh chóng:** -> `Các bộ dữ liệu lớn`
+27. **Tại sao phân loại dữ liệu thành có cấu trúc, bán cấu trúc và phi cấu trúc quan trọng:** -> `Để chọn công nghệ và phương pháp xử lý phù hợp`
+28. **Khi dùng AI, người dùng nên làm gì để đảm bảo thông tin chính xác:** -> `Kiểm chứng lại với các nguồn tin cậy`
+29. **Toán tử nào giúp loại trừ từ khóa trong tìm kiếm Google:** -> `Dấu trừ (-)`
+30. **Hình thức lưu trữ nào kết hợp cả đám mây và cục bộ:** -> `Lưu trữ lai (Hybrid Storage)`
+
 
 
 ---
