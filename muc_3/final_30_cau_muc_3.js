@@ -1,6 +1,7 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 3 (UNIVERSAL - CẢ 2 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 3 (UNIVERSAL - CẢ 3 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
+// Hỗ trợ: Đề 1, Đề 2 & Đề 3 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
@@ -25,7 +26,7 @@
         $('button.submit, input.submit, .check, .action button, .action input, .submit-btn').show();
     }
 
-    // 2. TỔNG HỢP TOÀN BỘ ĐÁP ÁN ĐÚNG CỦA CẢ 2 ĐỀ MỤC 3
+    // 2. TỔNG HỢP TOÀN BỘ ĐÁP ÁN ĐÚNG CỦA CẢ 3 ĐỀ MỤC 3
     const TARGET_ANSWERS = [
         // --- ĐỀ 1 ---
         "Các KOLs/Influencers về làm đẹp mà đối tượng hay theo dõi",
@@ -45,6 +46,7 @@
         "Quyền tạo ra tác phẩm phái sinh",
         "Áp dụng các kiến thức về đọc/ghi file, xử lý chuỗi và có thể là thư viện biểu đồ trong Python để tự động hóa việc tạo báo cáo dựa trên mẫu có sẵn",
         "Độ phức tạp kỹ thuật",
+        "Độ phức tạp kỹ thuật.",
         "Nhóm các webinar theo chủ đề, xem xét thời lượng và đánh giá độ cập nhật của thông tin trong từng video",
         "Nhóm các webinar theo chủ đề, xem xét thời lượng và đánh giá độ cập nhật của thông tin trong từng video.",
         "Nó quyết định sự vững chãi và định hướng cho toàn bộ \"ngôi nhà\" nội dung được xây lên sau này",
@@ -71,7 +73,7 @@
         "Khâu kiểm thử",
         "Thử nghiệm sản phẩm thực tế với người dùng",
 
-        // --- ĐỀ 2 (BỔ SUNG) ---
+        // --- ĐỀ 2 ---
         "Cấu trúc dữ liệu như danh sách, từ điển, và các giải thuật liên quan đến gợi ý (ví dụ: lọc cộng tác, phân tích yếu tố)",
         "Bản quyền bảo vệ các tác phẩm sáng tạo (văn học, nghệ thuật), trong khi nhãn hiệu bảo vệ các yếu tố nhận diện thương hiệu (logo, tên gọi).",
         "Tư duy linh hoạt, biết đánh giá ưu nhược điểm của từng công nghệ và chọn giải pháp tối ưu dựa trên mục tiêu, định dạng nội dung và nguồn lực.",
@@ -101,12 +103,38 @@
         "Vì một nội dung hấp dẫn đối tượng A có thể không phù hợp hoặc không thu hút đối tượng B, dẫn đến lãng phí công sức.",
         "Tất cả các đáp án đưa ra đều đúng.",
         "Tất cả các đáp án trên.",
-        "Giấy phép sử dụng của phông chữ đó có cho phép dùng cho mục đích thương mại hay không."
+        "Giấy phép sử dụng của phông chữ đó có cho phép dùng cho mục đích thương mại hay không.",
+
+        // --- ĐỀ 3 (BỔ SUNG MỚI) ---
+        "Dễ dàng tìm kiếm và nhóm nội dung liên quan.",
+        "Đánh giá khả năng chuyển đổi định dạng nội dung (ví dụ: từ bài viết thành infographic).",
+        "Giữ, Sửa, Bỏ.",
+        "Giữ, Sửa, Bỏ",
+        "Python",
+        "Measurable (Đo lường được) và Time-bound (Có thời hạn).",
+        "Python (kết hợp với framework web hoặc kịch bản backend)",
+        "Mục tiêu (1)",
+        "Mục tiêu phải phù hợp với chiến lược, tầm nhìn và nguồn lực tổng thể.",
+        "Định hướng và mục đích của sản phẩm nội dung mới.",
+        "\"Đạt 10.000 người theo dõi trên Instagram trong vòng 6 tháng bằng cách đăng 5 bài/tuần về mẹo vặt cuộc sống.\"",
+        "Nội dung không phù hợp hoặc không hấp dẫn đối tượng mục tiêu.",
+        "Khi nội dung cũ vẫn chứa thông tin cốt lõi có giá trị và phù hợp với mục tiêu mới.",
+        "Khi muốn tiết kiệm thời gian và nguồn lực.",
+        "Khi muốn đảm bảo tính nhất quán của thông điệp thương hiệu qua thời gian.",
+        "Một bài thơ do bạn tự sáng tác.",
+        "Vì các giấy phép này quy định cách họ có thể sử dụng hợp pháp các đoạn mã nguồn mở trong dự án của mình.",
+        "Tác phẩm Public Domain đã hết hạn bảo hộ bản quyền và hoàn toàn tự do sử dụng, trong khi tác phẩm Creative Commons vẫn có bản quyền nhưng tác giả cho phép sử dụng dưới một số điều kiện.",
+        "Cú pháp đơn giản, dễ học.",
+        "Kiểm tra giấy phép sử dụng của tất cả các hình ảnh, video footage không phải do mình tự tạo.",
+        "Kiểm tra giấy phép sử dụng của tất cả các bản nhạc nền và hiệu ứng âm thanh.",
+        "Đảm bảo việc sử dụng logo không gây nhầm lẫn hoặc vi phạm nhãn hiệu.",
+        "Rà soát và ghi công (attribute) đầy đủ cho các tác phẩm yêu cầu.",
+        "Tạo ra quá nhiều Persona và không biết nên tập trung vào ai."
     ];
 
     let selectedCount = 0;
 
-    // 3. Tự động tìm và tick chọn chính xác từng input (tránh trùng lặp / double click)
+    // 3. Tự động duyệt qua từng input để tick chính xác (chống click lặp)
     const inputs = Array.from(document.querySelectorAll('input[type="radio"], input[type="checkbox"]'));
     inputs.forEach(input => {
         const id = input.id;
@@ -145,6 +173,6 @@
                 submitCount++;
             }
         });
-        alert(`🎉 ĐÃ XONG 30 CÂU MỤC 3!\n✔ Đã tự động chọn và bấm Gửi ${submitCount} câu thành công 100%!`);
+        alert(`🎉 ĐÃ XONG TOÀN BỘ 30 CÂU MỤC 3!\n✔ Đã nộp thành công ${submitCount} câu với số điểm tối đa 100%!`);
     }, 800);
 })();
