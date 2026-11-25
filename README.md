@@ -394,6 +394,38 @@
 29. **Cookie có thể giúp gì cho trải nghiệm mua sắm trực tuyến:** -> `Thu thập dữ liệu về người dùng để cung cấp các quảng cáo phù hợp`
 30. **Khi thấy một thông tin có dấu hiệu sai lệch, bạn nên làm gì:** -> `Kiểm tra lại nguồn tin và báo cáo nếu cần`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 2 - ĐỀ 5 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Theo bạn, các biện pháp để xây dựng cộng đồng trực tuyến tích cực là gì:** -> `Xây dựng nhóm tương trợ`
+2. **AI sẽ hỗ trợ hợp tác nhóm như thế nào:** -> `Tự động hoá tác vụ lặp lại như tóm tắt họp, phân công`
+3. **Danh tính số có đặc điểm gì:** -> `Phát triển không ngừng với các hành vi khác nhau`
+4. **Công cụ nào có thể giúp bạn tạo ra một podcast:** -> `Tất cả các phương án trên`
+5. **Loại kiến thức nào giúp bạn tương tác hiệu quả nhất với người dùng trên internet:** -> `Nguyên tắc cộng đồng`
+6. **Vì sao cần tuân thủ quy tắc ứng xử khi tham gia các hoạt động trực tuyến:** -> `Tất cả các lý do trên`
+7. **Theo Luật An ninh mạng (2018), hành vi nào sau đây bị nghiêm cấm:** -> `Phát tán tin giả gây hoang mang`
+8. **Hành vi nào sau đây vi phạm Bộ quy tắc ứng xử trên không gian mạng:** -> `Đăng bài xúc phạm cá nhân`
+9. **Tại sao Slack được đánh giá là công cụ phù hợp cho giao tiếp và công việc nhóm chuyên nghiệp:** -> `Thảo luận theo channel, dễ tìm kiếm`
+10. **Công cụ nào chuyên dùng để tìm kiếm các bài viết kiểm chứng từ các tổ chức kiểm chứng uy tín trên toàn cầu:** -> `Google Fact Check Explorer.`
+11. **Điều gì là quan trọng nhất để khuyến khích sự tham gia trong một diễn đàn trực tuyến:** -> `Tính tương tác`
+12. **Khi đọc một tin tức và cảm thấy cực kỳ tức giận hoặc sợ hãi, bạn nên làm gì:** -> `Coi cảm xúc mạnh là một tín hiệu cảnh báo để kiểm tra thông tin kỹ lưỡng hơn.`
+13. **Cookie là gì trong ngữ cảnh web:** -> `Tệp tin theo dõi được tạo ra bởi trình duyệt để duy trì trạng thái đăng nhập`
+14. **Khi sử dụng công nghệ, nguyên tắc nào giúp bảo vệ thông tin cá nhân:** -> `Tất cả các phương án trên`
+15. **Đâu là địa chỉ nền tảng cung cấp dịch vụ công trực tuyến chính thức của Chính phủ Việt Nam:** -> `https://dichvucong.gov.vn`
+16. **Khi sử dụng mạng xã hội, bạn cần làm gì để bảo vệ thông tin cá nhân:** -> `Tất cả các phương án trên`
+17. **Ví dụ nào sau đây là dấu chân số bị động:** -> `Địa chỉ IP`
+18. **Thế mạnh chính của hệ sinh thái Google Workspace for Education trong hợp tác học tập là gì:** -> `Cộng tác thời gian thực, giao diện đơn giản`
+19. **Nguyên tắc nào sau đây nên tuân thủ khi gửi phản ánh, kiến nghị qua các nền tảng số:** -> `Đính kèm bằng chứng rõ ràng`
+20. **Các công cụ như Zotero hay Mendeley được sử dụng để làm gì:** -> `Quản lý tài liệu và trích dẫn tự động`
+21. **Một trong những trách nhiệm quan trọng của "Công dân số" là gì:** -> `Tuân thủ luật pháp về sở hữu trí tuệ và không chia sẻ tác phẩm của người khác khi chưa được phép.`
+22. **Điều gì quan trọng nhất để duy trì quy tắc ứng xử trên mạng:** -> `Sự đồng hành và hợp tác của cộng đồng`
+23. **Dấu chân số bị động được tạo ra khi nào:** -> `Khi dữ liệu của người dùng bị thu thập mà họ không hề hay biết.`
+24. **Mục đích của việc tự quản lý tốt danh tính số là gì:** -> `Để mở rộng cơ hội kết nối và tương tác.`
+25. **Làm thế nào để bảo vệ tài khoản trực tuyến khỏi bị tấn công:** -> `Bật xác thực hai yếu tố (2FA) nếu có thể`
+26. **Khi muốn tạo một bảng trắng ảo cho buổi brainstorming của nhóm, công cụ nào sau đây là phù hợp nhất:** -> `Miro`
+27. **Nếu bạn đã lỡ đăng tải hoặc chia sẻ tin giả trên mạng xã hội, hành động nào sau đây là có trách nhiệm nhất:** -> `Gỡ bỏ thông tin, đăng bài đính chính và xin lỗi.`
+28. **Sự khác biệt cốt lõi giữa Misinformation (thông tin sai lệch) và Disinformation (thông tin giả mạo) là gì:** -> `Ý định của người lan truyền thông tin (vô ý so với cố ý gây hại).`
+29. **Hành vi nào sau đây KHÔNG NÊN LÀM trên môi trường mạng:** -> `Bình luận xúc phạm người khác`
+30. **Để giải quyết mâu thuẫn trong công việc, điều gì hữu ích nhất:** -> `Đồng cảm và tôn trọng ý kiến.`
+
 
 ---
 

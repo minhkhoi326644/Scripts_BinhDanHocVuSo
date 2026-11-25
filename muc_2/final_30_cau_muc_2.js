@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 2 (UNIVERSAL - CẢ 4 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 2 (UNIVERSAL - CẢ 5 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2, Đề 3 & Đề 4 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3, Đề 4 & Đề 5 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 2 (UNIVERSAL - 4 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 2 (UNIVERSAL - 5 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị các câu hỏi và nút Submit
     if (window.$) {
@@ -107,7 +107,17 @@
         "Hiện tượng \"ăn theo\" và thiếu tin tưởng",
         "Đăng bài xúc phạm cá nhân",
         "Phát tán tin giả gây hoang mang",
-        "Ủy quyền, giám sát, hỗ trợ cá nhân"
+        "Ủy quyền, giám sát, hỗ trợ cá nhân",
+
+        // --- ĐỀ 5 (BỔ SUNG MỚI) ---
+        "Phát triển không ngừng với các hành vi khác nhau",
+        "Tất cả các lý do trên",
+        "Thảo luận theo channel, dễ tìm kiếm",
+        "Tệp tin theo dõi được tạo ra bởi trình duyệt để duy trì trạng thái đăng nhập",
+        "https://dichvucong.gov.vn",
+        "Quản lý tài liệu và trích dẫn tự động",
+        "Bật xác thực hai yếu tố (2FA) nếu có thể",
+        "Miro"
     ];
 
     let selectedCount = 0;
