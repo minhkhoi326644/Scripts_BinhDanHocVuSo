@@ -1017,6 +1017,42 @@
 29. **Ánh sáng xanh phát ra từ màn hình các thiết bị kỹ thuật số gây ảnh hưởng đến giấc ngủ như thế nào:** -> `Ức chế việc sản xuất Melatonin, hormone gây ngủ, khiến khó ngủ hơn.`
 30. **Sinh viên có thể chủ động xây dựng một "dấu chân số tích cực" bằng cách nào:** -> `Chia sẻ các bài viết học thuật, các dự án tham gia và bình luận thông minh trong các nhóm chuyên ngành.`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 4 - ĐỀ 6 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Theo giáo trình, mỗi hành động của bạn trên mạng đều góp phần tạo nên điều gì, vốn tồn tại gần như vĩnh viễn:** -> `Dấu chân số (Digital Footprint).`
+2. **Theo định nghĩa trong giáo trình, "Sức khỏe số" (Digital Health) là gì:** -> `Trạng thái khỏe mạnh về thể chất, tâm lý và xã hội trong mối quan hệ tương tác với công nghệ kỹ thuật số.`
+3. **Dữ liệu sinh trắc học gồm loại nào sau đây:** -> `Vân tay, nhận diện khuôn mặt`
+4. **Kẻ tấn công được nhà nước bảo trợ (state-sponsored attackers) có đặc điểm gì nổi bật:** -> `Có nguồn lực lớn, kiên trì theo đuổi mục tiêu`
+5. **Bảo vệ mạng nội bộ có thể đạt được hiệu quả cao nhất khi sử dụng phương pháp nào:** -> `Phân đoạn mạng và kiểm soát truy cập mạng`
+6. **SIEM trong hệ thống bảo mật có chức năng chính là gì:** -> `Tự động phân tích nhật ký và phát hiện mối đe dọa`
+7. **Khi bạn thấy các ứng dụng di động cho phép người dân báo cáo vấn đề môi trường, bạn cảm thấy như thế nào:** -> `Hứng thú và cảm thấy mình có thể đóng góp vào việc bảo vệ môi trường.`
+8. **Để giúp một doanh nghiệp đảm bảo sản phẩm của họ được sản xuất từ nguyên liệu bền vững, công nghệ số nào có thể tạo ra chuỗi cung ứng minh bạch:** -> `Chuỗi khối (Blockchain).`
+9. **Sinh viên có thể chủ động xây dựng một "dấu chân số tích cực" bằng cách nào:** -> `Chia sẻ các bài viết học thuật, các dự án tham gia và bình luận thông minh trong các nhóm chuyên ngành.`
+10. **"Disinformation" được phân biệt với "Misinformation" ở điểm nào:** -> `Yếu tố cố tình tạo và lan truyền thông tin sai sự thật để trục lợi hoặc gây hoang mang.`
+11. **Theo tài liệu, vai trò quan trọng nhất của một người bạn khi hỗ trợ người khác gặp khó khăn về tâm lý là gì:** -> `Kết nối họ với những người có chuyên môn như phòng tư vấn tâm lý hoặc các đường dây nóng uy tín.`
+12. **Hình thức nào sau đây không phải là nguyên nhân trực tiếp gây đánh cắp dữ liệu:** -> `Sử dụng thiết bị mã hóa mạnh`
+13. **Ánh sáng xanh phát ra từ màn hình các thiết bị kỹ thuật số gây ảnh hưởng đến giấc ngủ như thế nào:** -> `Ức chế việc sản xuất Melatonin, hormone gây ngủ, khiến khó ngủ hơn.`
+14. **Tại sao thiết bị kết nối toàn cầu lại là một thách thức lớn trong bảo mật:** -> `Vì kết nối toàn cầu khiến kẻ tấn công từ bất kỳ đâu cũng có thể thực hiện tấn công`
+15. **Mục tiêu điển hình của script kiddies là gì:** -> `Doanh nghiệp, người dùng để phá hoại hoặc gây tai tiếng`
+16. **Khi tìm hiểu một công nghệ số mới, thái độ phù hợp nhất để tiếp cận là gì:** -> `Cởi mở tìm hiểu, đánh giá tiềm năng và thách thức một cách cân nhắc.`
+17. **Công cụ nào của công nghệ số giúp các nhà bảo tồn theo dõi nạn phá rừng sớm và quản lý đa dạng sinh học:** -> `Drone và vệ tinh kết hợp GIS.`
+18. **Vì sao dữ liệu cá nhân là mục tiêu của các cuộc tấn công mạng:** -> `Vì có thể bị khai thác để giả mạo, lừa đảo`
+19. **Tại sao việc mã hóa dữ liệu khi truyền tải lại quan trọng:** -> `Ngăn chặn chặn bắt và nghe trộm dữ liệu`
+20. **Quy tắc vàng của "Netiquette" (Quy tắc ứng xử trên mạng) được nhấn mạnh trong bài là gì:** -> `Ghi nhớ yếu tố con người (Remember the Human) đằng sau mỗi tài khoản.`
+21. **Quy tắc 20-20-20 được đề xuất để giải quyết vấn đề nào sau đây:** -> `Bảo vệ mắt và chống mỏi mắt khi dùng màn hình.`
+22. **Trong một cuộc gọi vishing, nạn nhân thường bị yêu cầu làm gì:** -> `Cung cấp thông tin tài khoản qua điện thoại`
+23. **Trộm cắp danh tính thường dẫn đến hậu quả gì cho nạn nhân:** -> `Phải chịu trách nhiệm về các khoản nợ phát sinh từ giao dịch gian lận`
+24. **Một nông trại muốn lắp đặt cảm biến để tự động đo độ ẩm đất và điều khiển tưới tiêu. Công nghệ số nào:** -> `Internet vạn vật (IoT).`
+25. **Thành phần nào của công nghệ số bao gồm các thiết bị vật lý như điện thoại, máy tính, cảm biến IoT:** -> `Phần cứng (Hardware).`
+26. **Một trong những hậu quả lớn của các cuộc tấn công mạng đối với tổ chức là gì:** -> `Giảm năng suất và mất lương do thiết bị không hoạt động`
+27. **Khi một tác nhân đe dọa tận dụng điểm yếu để gây hại, hành động đó gọi là gì:** -> `Exploiting a vulnerability`
+28. **Một trong những nguyên tắc bảo vệ dữ liệu cá nhân là:** -> `Thu thập có mục đích rõ ràng và có sự đồng ý`
+29. **Hình thức tấn công giả mạo các đơn vị uy tín để lừa người dùng cung cấp thông tin đăng nhập được gọi là gì:** -> `Phishing.`
+30. **Trong cuộc tấn công từ điển (dictionary attack), kẻ tấn công sẽ làm gì:** -> `Sử dụng các từ thông dụng làm mật khẩu ứng viên`
+
+
+---
+
+
 
 ---
 

@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 4 (UNIVERSAL - CẢ 5 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 4 (UNIVERSAL - CẢ 6 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2, Đề 3, Đề 4 & Đề 5 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3, Đề 4, Đề 5 & Đề 6 - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 4 (UNIVERSAL - 5 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 4 (UNIVERSAL - 6 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị tất cả các câu hỏi và các nút
     if (window.$) {
@@ -140,7 +140,17 @@
         "Surface web",
         "Nhìn trộm mật khẩu hoặc mã PIN khi người khác nhập",
         "Phân đoạn mạng và kiểm soát truy cập mạng",
-        "Chia sẻ các bài viết học thuật, các dự án tham gia và bình luận thông minh trong các nhóm chuyên ngành."
+        "Chia sẻ các bài viết học thuật, các dự án tham gia và bình luận thông minh trong các nhóm chuyên ngành.",
+
+        // --- ĐỀ 6 (BỔ SUNG MỚI) ---
+        "Tự động phân tích nhật ký và phát hiện mối đe dọa",
+        "Vì kết nối toàn cầu khiến kẻ tấn công từ bất kỳ đâu cũng có thể thực hiện tấn công",
+        "Doanh nghiệp, người dùng để phá hoại hoặc gây tai tiếng",
+        "Cởi mở tìm hiểu, đánh giá tiềm năng và thách thức một cách cân nhắc.",
+        "Cởi mở tìm hiểu, đánh giá tiềm năng và thách thức một cách cân nhắc",
+        "Cung cấp thông tin tài khoản qua điện thoại",
+        "Giảm năng suất và mất lương do thiết bị không hoạt động",
+        "Sử dụng các từ thông dụng làm mật khẩu ứng viên"
     ];
 
     let selectedCount = 0;
