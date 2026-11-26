@@ -1509,4 +1509,35 @@
 30. **Lĩnh vực nào dễ bị ảnh hưởng tiêu cực nếu sử dụng ChatGPT thiếu kiểm soát:** -> `Tư vấn pháp lý chuyên sâu`
 
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 6 - ĐỀ 6 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Trong lĩnh vực giáo dục, AI có thể giúp gì cho người học:** -> `Phân tích năng lực và gợi ý lộ trình học tập phù hợp`
+2. **Việc AI đưa ra quyết định mà người dùng không hiểu rõ cách thức hoạt động gọi là gì:** -> `Hiện tượng "hộp đen" (black box)`
+3. **Hệ thống AI vi phạm quyền riêng tư khi nào:** -> `Khi không yêu cầu người dùng xác nhận truy cập dữ liệu cá nhân`
+4. **AI bắt đầu phát triển từ khoảng thời gian nào:** -> `1950s`
+5. **Câu nào sau đây không đúng về AI:** -> `AI luôn đưa ra quyết định chính xác`
+6. **Vì sao cần kiểm tra đầu ra của GenAI trong các ứng dụng sáng tạo nội dung:** -> `Vì đôi khi nội dung bị đạo văn`
+7. **GenAI trong giáo dục có thể gây ra vấn đề gì nếu không được kiểm soát đúng cách:** -> `Khuyến khích sinh viên sao chép nội dung, thiếu tư duy phản biện`
+8. **Ngành nghề nào sau đây ít có nguy cơ bị thay thế nhất:** -> `Nhà tâm lý học`
+9. **Một ứng dụng cụ thể của AI trong quy trình làm việc là gì:** -> `Viết báo cáo tự động dựa trên dữ liệu đầu vào`
+10. **Runway và Pika là công cụ GenAI chuyên dùng cho:** -> `Tạo video từ mô tả văn bản`
+11. **Một trong những thách thức lớn nhất khi triển khai AI là gì:** -> `Khó khăn trong thu thập và xử lý dữ liệu`
+12. **Khi học viên được giao nhiệm vụ ứng dụng AI vào quy trình, bước không nên bỏ qua là:** -> `So sánh kết quả với phương pháp thủ công`
+13. **ChatGPT có thể tạo nội dung cho các nền tảng nào sau đây:** -> `Mạng xã hội, blog, email`
+14. **AI có thể mang lại lợi ích gì trong giáo dục:** -> `Tự động hóa việc chấm điểm và hỗ trợ cá nhân hóa học tập`
+15. **ShakkerAI được xem là lựa chọn thay thế hoàn hảo cho nền tảng nào:** -> `Midjourney`
+16. **Một trong những công cụ GenAI dùng để tạo hình ảnh là:** -> `Midjourney`
+17. **AI có thể hỗ trợ lĩnh vực giáo dục bằng cách nào:** -> `Tạo bài giảng cá nhân hóa theo trình độ học viên`
+18. **AI trong chăm sóc sức khỏe có thể giúp gì:** -> `Tư vấn sức khỏe ảo, phân tích dữ liệu y tế`
+19. **Yếu tố nào chỉ con người mới có thể đảm nhiệm tốt hơn AI hiện nay:** -> `Ra quyết định mang tính sáng tạo và đạo đức`
+20. **Cảm biến (sensor) trong hệ thống AI thường dùng để làm gì:** -> `Thu thập dữ liệu từ môi trường`
+21. **Điểm đặc biệt của NotebookLM là gì:** -> `Hoạt động như trợ lý AI dựa trên nội dung người dùng tải lên`
+22. **Lĩnh vực nào dễ bị ảnh hưởng tiêu cực nếu sử dụng ChatGPT thiếu kiểm soát:** -> `Tư vấn pháp lý chuyên sâu`
+23. **Một trong những thách thức lớn nhất khi sử dụng AI là gì:** -> `Nguy cơ vi phạm quyền riêng tư và đạo đức`
+24. **Câu nào sau đây đúng với AI:** -> `AI có thể học hỏi từ dữ liệu`
+25. **Vì sao AI không thể hoàn toàn thay thế con người trong các công việc sáng tạo:** -> `Vì AI thiếu cảm xúc, trực giác và khả năng suy nghĩ đạo đức`
+26. **Kỹ thuật Style Transfer trong AI sáng tạo hình ảnh hoạt động như thế nào:** -> `Phân tích ảnh gốc để sao chép màu sắc và phong cách sang ảnh khác`
+27. **AI có thể hỗ trợ bác sĩ bằng cách nào:** -> `Phân tích hình ảnh y tế để hỗ trợ chẩn đoán`
+28. **Một thách thức lớn khi triển khai ChatGPT trong tổ chức là gì:** -> `Lo ngại về bảo mật thông tin và dữ liệu nội bộ`
+29. **Mối quan tâm đạo đức lớn nhất khi sử dụng AI là gì:** -> `Bảo vệ quyền riêng tư và sử dụng dữ liệu cá nhân`
+30. **Khái niệm “AI hỗ trợ ra quyết định” nghĩa là gì:** -> `AI cung cấp phân tích, gợi ý để con người lựa chọn phương án cuối cùng`
 

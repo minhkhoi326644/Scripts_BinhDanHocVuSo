@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 6 (UNIVERSAL - CẢ 5 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 6 (UNIVERSAL - CẢ 6 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2, Đề 3, Đề 4 & Đề 5 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3, Đề 4, Đề 5 & Đề 6 - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 6 (UNIVERSAL - 5 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 6 (UNIVERSAL - 6 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị tất cả các câu hỏi và các nút
     if (window.$) {
@@ -194,7 +194,13 @@
         "Phân tích dữ liệu khách hàng và dự đoán xu hướng",
         "Thay thế hoàn toàn con người trong mọi lĩnh vực",
         "Tư vấn sản phẩm 24/7 qua trò chuyện",
-        "Hỗ trợ tự động hóa, tiết kiệm thời gian và nâng cao hiệu quả"
+        "Hỗ trợ tự động hóa, tiết kiệm thời gian và nâng cao hiệu quả",
+
+        // --- CÁC CÂU BỔ SUNG ĐẶC TRƯNG ĐỀ 6 ---
+        "1950s",
+        "Nhà tâm lý học",
+        "So sánh kết quả với phương pháp thủ công",
+        "Tạo bài giảng cá nhân hóa theo trình độ học viên"
     ];
 
     let selectedCount = 0;
