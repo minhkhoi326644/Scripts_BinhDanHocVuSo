@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 5 (UNIVERSAL - CẢ 5 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 5 (UNIVERSAL - CẢ 6 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2, Đề 3, Đề 4 & Đề 5 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3, Đề 4, Đề 5 & Đề 6 - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 5 (UNIVERSAL - 5 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU BÀI KIỂM TRA MỤC 5 (UNIVERSAL - 6 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị tất cả các câu hỏi và các nút
     if (window.$) {
@@ -110,7 +110,15 @@
         "Tăng hiệu quả và chất lượng công việc",
         "Chủ động đề xuất và cải tiến",
         "Dùng Conditional Formatting",
-        "Trang các tạp chí chuyên ngành, trường ĐH"
+        "Trang các tạp chí chuyên ngành, trường ĐH",
+
+        // --- CÁC CÂU ĐỀ 6 (BỔ SUNG MỚI) ---
+        "Kết nối Google Forms với Google Sheets",
+        "Cộng tổng các giá trị",
+        "Đưa ra minh chứng về lợi ích và hiệu quả",
+        "Tự động hoá quy trình giúp tiết kiệm thời gian",
+        "Thực hành song song lý thuyết",
+        "Event Viewer hoặc Windows Update"
     ];
 
     let selectedCount = 0;

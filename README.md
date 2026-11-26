@@ -1254,6 +1254,42 @@
 29. **Nếu mạng Wi-Fi có tín hiệu tốt nhưng không vào được Internet, bạn cần:** -> `Kiểm tra đèn tín hiệu modem/router`
 30. **Tìm bài viết học AI mới nhất nên chọn từ nguồn nào:** -> `Trang các tạp chí chuyên ngành, trường ĐH`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 5 - ĐỀ 6 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Một cách hiệu quả để học công nghệ mới là:** -> `Kết hợp tài liệu chính thức + video + thực hành`
+2. **Để cập nhật tự động bảng tính mỗi lần mở file, bạn cần:** -> `Dùng macro`
+3. **Khi phát hiện lỗi hệ thống do phần cứng, bạn nên kiểm tra bước đầu tiên là:** -> `Kiểm tra cáp và kết nối phần cứng`
+4. **Để tự động cập nhật dữ liệu từ form:** -> `Kết nối Google Forms với Google Sheets`
+5. **Tìm bài viết học AI mới nhất nên chọn từ nguồn nào:** -> `Trang các tạp chí chuyên ngành, trường ĐH`
+6. **Khi thấy đồng nghiệp gặp lỗi lặp lại, bạn nên:** -> `Chia sẻ kinh nghiệm và cách khắc phục`
+7. **Pivot Table giúp:** -> `Phân tích và tổng hợp dữ liệu`
+8. **Biểu đồ cột dùng để:** -> `So sánh các nhóm dữ liệu`
+9. **Hàm SUM dùng để:** -> `Cộng tổng các giá trị`
+10. **Khi cần tài liệu học nâng cao, nên:** -> `Tìm khoá học hoặc tài liệu chính thức từ hãng phát triển`
+11. **Lỗi phần mềm nào sau đây thuộc loại lỗi logic:** -> `Hàm tính toán cho kết quả sai`
+12. **Để thuyết phục nhóm áp dụng quy trình số mới, bạn nên:** -> `Đưa ra minh chứng về lợi ích và hiệu quả`
+13. **Một lý do chọn công cụ số thay vì thủ công là:** -> `Tự động hoá quy trình giúp tiết kiệm thời gian`
+14. **Nếu mạng Wi-Fi có tín hiệu tốt nhưng không vào được Internet, bạn cần:** -> `Kiểm tra đèn tín hiệu modem/router`
+15. **Để nhập danh sách chọn, bạn dùng:** -> `Data Validation (Drop down list)`
+16. **Khi chia sẻ bảng tính theo dõi chi tiêu cho nhóm, cần chú ý:** -> `Thiết lập quyền phù hợp`
+17. **Một khoá học có nội dung tốt khi nào:** -> `Nội dung cập nhật, có kiểm định`
+18. **Khi phát hiện phần mềm nghi ngờ lây nhiễm virus, bạn nên:** -> `Quét bằng phần mềm diệt virus cập nhật`
+19. **Tìm bài viết học AI mới nhất nên chọn từ nguồn nào:** -> `Trang các tạp chí chuyên ngành, trường ĐH`
+20. **Một lý do quan trọng để cải tiến quy trình là:** -> `Tăng hiệu quả và chất lượng công việc`
+21. **Khi gặp khó khăn khi học, bạn nên:** -> `Tìm nhiều nguồn để tự khắc phục`
+22. **Nếu gặp tài liệu học không rõ nguồn, bạn nên:** -> `Kiểm tra độ tin cậy của tác giả và nguồn`
+23. **Khi tự học công nghệ mới, nên ưu tiên:** -> `Thực hành song song lý thuyết`
+24. **Dấu hiệu nào cho thấy ứng dụng có thể bị lỗi hiệu năng:** -> `Thời gian phản hồi lâu bất thường`
+25. **Data Validation giúp:** -> `Kiểm soát dữ liệu nhập vào ô`
+26. **Khi phát hiện lỗi hệ điều hành, bạn nên kiểm tra:** -> `Event Viewer hoặc Windows Update`
+27. **Khi phát hiện lỗi nghiêm trọng trong hệ thống, thái độ đúng là:** -> `Báo cáo và phối hợp xử lý cùng nhóm kỹ thuật`
+28. **Conditional Formatting giúp:** -> `Định dạng dựa theo giá trị`
+29. **Công cụ nào trên Windows giúp xem log lỗi hệ thống:** -> `Event Viewer`
+30. **Tại sao nên dùng từ khoá tiếng Anh khi tìm tài liệu công nghệ:** -> `Nguồn tài liệu cập nhật hơn, chuẩn hơn`
+
+
+---
+
+
 
 
 ---
