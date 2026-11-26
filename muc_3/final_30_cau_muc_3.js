@@ -1,12 +1,12 @@
 // ==============================================================================
-// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 3 (UNIVERSAL - CẢ 5 ĐỀ)
+// 🌟 MASTER TOOL: AUTO CHỌN 100% VÀ NỘP BÀI THI 30 CÂU MỤC 3 (UNIVERSAL - CẢ 6 ĐỀ)
 // Khóa học: Kỹ năng số (MOET KNS) - binhdanhocvuso.gov.vn
-// Hỗ trợ: Đề 1, Đề 2, Đề 3, Đề 4 & Đề 5 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
+// Hỗ trợ: Đề 1, Đề 2, Đề 3, Đề 4, Đề 5 & Đề 6 (Đề mới) - Tự động nhận diện mọi biến thể câu hỏi
 // ==============================================================================
 
 (() => {
     console.clear();
-    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 3 (UNIVERSAL - 5 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
+    console.log("%c🎯 ĐANG CHẠY TOOL CHỌN ĐÁP ÁN CHUẨN 30 CÂU MỤC 3 (UNIVERSAL - 6 ĐỀ)...", "color: #22c55e; font-weight: bold; font-size: 16px;");
 
     // 1. Ép hiển thị các câu hỏi và nút Submit
     if (window.$) {
@@ -156,7 +156,19 @@
         "Nội dung tương tác.",
         "Hình ảnh chất lượng cao và miễn phí.",
         "Cả 5 yếu tố S, M, A, R, T (với giả định mục tiêu 300 email là khả thi).",
-        "Vì các hệ thống tự động như Content ID của YouTube có thể phát hiện ra và tự động đánh dấu vi phạm."
+        "Vì các hệ thống tự động như Content ID của YouTube có thể phát hiện ra và tự động đánh dấu vi phạm.",
+
+        // --- ĐỀ 6 (BỔ SUNG MỚI) ---
+        "Chủ đề và mức độ phù hợp với mục tiêu/đối tượng mới của nội dung.",
+        "Họ bao nhiêu tuổi và giới tính là gì?",
+        "Họ sống ở đâu và làm nghề gì?",
+        "Dễ dàng chạy và thử nghiệm mã nguồn ngay lập tức mà không cần bước biên dịch phức tạp.",
+        "Nội dung không phù hợp với hình ảnh thương hiệu sang trọng, nghiêm túc.",
+        "Lãng phí nguồn lực vì đối tượng khách hàng tiềm năng của họ ít hoạt động trên TikTok.",
+        "Thông điệp truyền tải có thể bị hiểu sai, làm giảm giá trị thương hiệu.",
+        "Sử dụng ảnh miễn là ghi công tác giả, và không được phép chỉnh sửa hay biến đổi bức ảnh.",
+        "Có, đây là một tác phẩm phái sinh, và nó vi phạm bản quyền nếu không được sự cho phép của chủ sở hữu bài hát gốc.",
+        "Giá trị bền vững theo thời gian, không lỗi thời."
     ];
 
     let selectedCount = 0;

@@ -733,6 +733,50 @@
 29. **Tại sao việc sử dụng một đoạn nhạc 15 giây của một bài hát nổi tiếng trên YouTube lại có rủi ro cao:** -> `Vì các hệ thống tự động như Content ID của YouTube có thể phát hiện ra và tự động đánh dấu vi phạm.`
 30. **Một nhà thiết kế đồ họa sử dụng một phông chữ (font) tải miễn phí... Vấn đề pháp lý nào họ cần phải xác minh kỹ lưỡng nhất:** -> `Giấy phép sử dụng của phông chữ đó có cho phép dùng cho mục đích thương mại hay không.`
 
+### BÀI KIỂM TRA ĐÁNH GIÁ MỤC 3 - ĐỀ 6 (ĐỀ BIẾN THỂ MỚI 30 CÂU):
+1. **Khi đánh giá một kho tài nguyên nội dung số đa dạng cho mục đích tái sử dụng, việc xem xét yếu tố 'Độ cập nhật' của nội dung phải luôn đi đôi với việc đánh giá tiêu chí nào:** -> `Chủ đề và mức độ phù hợp với mục tiêu/đối tượng mới của nội dung.`
+2. **(Nhiều đáp án đúng) Việc phân tích "Nhân khẩu học" của đối tượng giúp người làm nội dung trả lời những câu hỏi nào (Chọn 2 mục):**
+    * ☑ `Họ bao nhiêu tuổi và giới tính là gì?`
+    * ☑ `Họ sống ở đâu và làm nghề gì?`
+3. **Biểu tượng © là viết tắt của từ nào:** -> `Copyright`
+4. **Mục tiêu nội dung số trả lời cho câu hỏi nào sau đây:** -> `"Nội dung này được tạo ra để làm gì?"`
+5. **Ngôn ngữ thông dịch như Python có ưu điểm gì so với ngôn ngữ biên dịch khi làm các miniproject nhanh chóng:** -> `Dễ dàng chạy và thử nghiệm mã nguồn ngay lập tức mà không cần bước biên dịch phức tạp.`
+6. **Mối quan hệ giữa "Mục tiêu nội dung" và "Chân dung người dùng" được mô tả đúng nhất là:** -> `Chúng có mối quan hệ tương hỗ: mục tiêu giúp định hình nội dung và persona giúp tùy chỉnh nội dung đó cho phù hợp.`
+7. **(Nhiều đáp án đúng) Một thương hiệu xe hơi hạng sang làm các video "đu trend" hài hước trên TikTok có thể dẫn đến những rủi ro nào (Chọn 3 mục):**
+    * ☑ `Nội dung không phù hợp với hình ảnh thương hiệu sang trọng, nghiêm túc.`
+    * ☑ `Lãng phí nguồn lực vì đối tượng khách hàng tiềm năng của họ ít hoạt động trên TikTok.`
+    * ☑ `Thông điệp truyền tải có thể bị hiểu sai, làm giảm giá trị thương hiệu.`
+8. **Tại sao việc đánh giá "đối tượng mục tiêu có trùng khớp với đối tượng mới không" lại quan trọng khi xem xét tái sử dụng nội dung:** -> `Vì một nội dung hấp dẫn đối tượng A có thể không phù hợp hoặc không thu hút đối tượng B, dẫn đến lãng phí công sức.`
+9. **Một nội dung số tương tác có thể bao gồm yếu tố nào:** -> `Các nút bấm, biểu mẫu, trò chơi nhỏ, phản hồi theo hành động người dùng.`
+10. **Khi đánh giá một nội dung cũ, nếu "công sức chỉnh sửa quá lớn", người làm nội dung nên ưu tiên hành động gì:** -> `Bắt đầu lại từ đầu hoặc tìm một nội dung thay thế khác.`
+11. **Một nhà sáng tạo nội dung sử dụng một bức ảnh có giấy phép CC BY-ND có nghĩa là họ có thể làm gì:** -> `Sử dụng ảnh miễn là ghi công tác giả, và không được phép chỉnh sửa hay biến đổi bức ảnh.`
+12. **Một nhà thiết kế đồ họa sử dụng một phông chữ (font) tải miễn phí... Vấn đề pháp lý nào họ cần phải xác minh kỹ lưỡng nhất:** -> `Giấy phép sử dụng của phông chữ đó có cho phép dùng cho mục đích thương mại hay không.`
+13. **Một nhà sáng tạo nội dung có nhiều ý tưởng nhưng lại thiếu tính tổ chức trong việc:** -> `Thu thập và phân loại nội dung.`
+14. **Khi thu thập nội dung số liên quan, loại tài nguyên nào sau đây được liệt kê làm ví dụ:** -> `Tất cả các đáp án trên.`
+15. **Yếu tố nào sau đây thuộc về "Tâm lý học" (Psychographics):** -> `Mong muốn và các vấn đề đang gặp phải`
+16. **Mục tiêu nào sau đây được viết theo chuẩn SMART tốt nhất:** -> `"Đạt 10.000 người theo dõi trên Instagram trong vòng 6 tháng bằng cách đăng 5 bài/tuần về mẹo vặt cuộc sống."`
+17. **Đối tượng nào sau đây được bảo hộ bởi luật bản quyền:** -> `Một bài thơ do bạn tự sáng tác.`
+18. **(Nhiều đáp án đúng) Trước khi xuất bản một video, một nhà sáng tạo nội dung có trách nhiệm cần thực hiện những bước kiểm tra nào (Chọn cả 4 mục):**
+    * ☑ `Kiểm tra giấy phép sử dụng của tất cả các hình ảnh, video footage không phải do mình tự tạo.`
+    * ☑ `Kiểm tra giấy phép sử dụng của tất cả các bản nhạc nền và hiệu ứng âm thanh.`
+    * ☑ `Đảm bảo việc sử dụng logo không gây nhầm lẫn hoặc vi phạm nhãn hiệu.`
+    * ☑ `Rà soát và ghi công (attribute) đầy đủ cho các tác phẩm yêu cầu.`
+19. **Ngôn ngữ lập trình Python nổi tiếng với tính năng nào:** -> `Cú pháp đơn giản, dễ học.`
+20. **Một sinh viên muốn tạo một trang web cá nhân đơn giản... có các hiệu ứng động nhỏ khi người dùng tương tác, ngôn ngữ nào là cần thiết:** -> `JavaScript`
+21. **Một nhạc sĩ tạo ra một bản remix từ một bài hát nổi tiếng. Đây có phải là một "tác phẩm phái sinh" không và nó có vi phạm bản quyền không:** -> `Có, đây là một tác phẩm phái sinh, và nó vi phạm bản quyền nếu không được sự cho phép của chủ sở hữu bài hát gốc.`
+22. **Tại sao việc "đánh giá mức độ công sức cần bỏ ra để chỉnh sửa" lại quan trọng khi xem xét tái sử dụng một nội dung cũ:** -> `Để đưa ra quyết định có nên đầu tư thời gian và chi phí vào việc chỉnh sửa hay nên tạo một nội dung mới hiệu quả hơn.`
+23. **Nội dung được gọi là "Nội dung xanh" (Evergreen content) có đặc điểm gì:** -> `Giá trị bền vững theo thời gian, không lỗi thời.`
+24. **Yếu tố nào sau đây thuộc về "Nhân khẩu học" (Demographics) khi phân tích đối tượng:** -> `Tuổi tác`
+25. **Một sai lầm phổ biến khi xây dựng User Persona là gì:** -> `Tạo ra quá nhiều Persona và không biết nên tập trung vào ai.`
+26. **"Lựa chọn công nghệ phù hợp" đòi hỏi một tư duy gì từ người làm nội dung:** -> `Tư duy linh hoạt, biết đánh giá ưu nhược điểm của từng công nghệ và chọn giải pháp tối ưu dựa trên mục tiêu, định dạng nội dung và nguồn lực.`
+27. **Ngôn ngữ lập trình Python là loại ngôn ngữ nào:** -> `Ngôn ngữ thông dịch.`
+28. **(Nhiều đáp án đúng) Sự khác biệt giữa việc sử dụng nội dung theo giấy phép Creative Commons và mua bản quyền từ Adobe Stock (Chọn 3 mục):**
+    * ☑ `Creative Commons thường miễn phí, còn Adobe Stock phải trả phí.`
+    * ☑ `Creative Commons thường yêu cầu ghi công tác giả, trong khi giấy phép trả phí thường không yêu cầu.`
+    * ☑ `Giấy phép trả phí thường cho phép sử dụng rộng rãi hơn so với một số loại giấy phép Creative Commons.`
+29. **Việc biết về "cấu trúc dữ liệu và giải thuật cơ bản" được xem là nền tảng gì trong lập trình:** -> `Tư duy lập trình để giải quyết vấn đề hiệu quả.`
+30. **Một tổ chức phi lợi nhuận có một kho dữ liệu lớn về các nghiên cứu môi trường từ 10 năm trước... Kế hoạch rà soát nội dung của họ nên ưu tiên yếu tố nào:** -> `Phân loại và đánh giá kỹ lưỡng độ cập nhật của các số liệu nghiên cứu, đồng thời tìm cách chuyển đổi chúng thành các định dạng hấp dẫn giới trẻ (infographic, video ngắn).`
+
 
 ---
 
